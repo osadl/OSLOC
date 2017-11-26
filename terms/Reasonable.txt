@@ -1,0 +1,1 @@
+The term Reasonable of a requirement means that it can be obtained with a limited number of obvious steps without requiring in-depth instructions.

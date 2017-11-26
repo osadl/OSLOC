@@ -1,0 +1,1 @@
+The term Network service is used to describe a situation when a provider does not convey a software application in binary form to a customer, but installs it on a network-capable computer and let customers use the application by communicating with it via a network link.

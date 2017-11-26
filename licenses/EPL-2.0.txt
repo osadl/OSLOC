@@ -1,0 +1,30 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices | copyright, 
+	YOU MUST Forward Patent notices | patent, 
+	YOU MUST Forward Trademark notices | trademark, 
+	YOU MUST Forward License text | Agreement must be included with each copy of the Program
+	YOU MUST Forward Warranty disclaimer | disclaimers of warranty
+
+USE CASE Binary-only delivery | in any form
+	YOU MUST Provide Source code | be made available as Source Code
+		ATTRIBUTE Customary medium | medium customarily used for software exchange
+		ATTRIBUTE Machine-readable | in a reasonable manner
+	USE CASE Delayed source code delivery
+		YOU MUST Provide Written offer | informs Recipients how to obtain it
+			ATTRIBUTE Reasonable | in a reasonable manner
+	YOU MUST Forward Copyright notices | copyright, 
+	YOU MUST Forward Patent notices | patent, 
+	YOU MUST Forward Trademark notices | trademark, 
+	YOU MUST Forward License text | Agreement must be included with each copy of the Program
+	YOU MUST Forward Warranty disclaimer | disclaimers of warranty
+
+USE CASE License change | Distribute the Program under a license different than this Agreement
+	YOU MUST Use Warranty disclaimer On behalf of Other contributors | effectively disclaims on behalf of all other Contributors all warranties and conditions
+	YOU MUST NOT Impede Usage | does not attempt to limit or alter the recipients' rights
+	YOU MUST Use Compatible license | under a license that satisfies the requirements of this section 3
+
+USE CASE Commercial distribution | Commercial distributors of software
+	YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+
+PATENT HINTS Yes | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license | no assurances are provided by any Contributor that the Program does not infringe the patent | If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+COPYLEFT CLAUSE Yes | must be made available under this Agreement

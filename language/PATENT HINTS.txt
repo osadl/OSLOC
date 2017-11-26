@@ -1,0 +1,1 @@
+A license may contain a number of hints that refer to the management of possibly or knowingly included patented software components. If this is the case, it is noted and referenced under this license construct.

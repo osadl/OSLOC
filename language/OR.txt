@@ -1,0 +1,1 @@
+When the OR language construct is used between elements of a condition, then the condition already applies, if only one element is fulfilled. When the OR language construct is used between obligations, then it is sufficient to fulfill at least one obligation. Note: The AND language construct is assumed by default between consecutive license obligations and attributes.

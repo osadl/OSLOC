@@ -1,0 +1,7 @@
+USE CASE Source code delivery OR Binary-only delivery
+	YOU MUST Forward Copyright notices | the above copyright notice
+	YOU MUST NOT Promote | the name (TrademarkedName) not be used in advertising
+	USE CASE Documentation
+		YOU MUST Forward Copyright notices | copyright notice and this permission notice appear in supporting documentation
+		YOU MUST Forward License text | this permission notice appear in supporting documentation
+		YOU MUST Forward Warranty disclaimer | this permission notice appear in supporting documentation

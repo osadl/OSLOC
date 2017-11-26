@@ -1,0 +1,4 @@
+The License announcement is a message that contains the name of the license, its version and information where the full text of the license can be obtained. 
+A program may implement the functionality of a License announcement differently depending on whether it is a command-line programs or one with a graphical user interface.
+A command-line program typically writes a text line with the License announcement just after the program was started to its output path.
+A program with a graphical user interface usually provides a menu entry labeled "About" or similar which, when selected, shows a message window containing the License announcement on screen.

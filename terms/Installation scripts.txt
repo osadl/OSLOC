@@ -1,0 +1,1 @@
+The term Installation scripts is only relevant, if the licensed software is delivered along with a product on which it is installed and a particular script-based action is required to replace the original software by a new one. In this case, the term Installation scripts refers to all scripts that are required for installing the software on the product.

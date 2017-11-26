@@ -1,0 +1,24 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices | that the Source Code Form of the Covered Software is governed by the terms of this License
+	YOU MUST Provide License text | how they can obtain a copy of this License
+	YOU MUST Forward Warranty disclaimer | disclaimers of warranty
+	IF Source code modification
+		YOU MUST Grant License | must be under the terms of this License
+		YOU MUST Use Original license | must be under the terms of this License
+	YOU MUST NOT Impede Usage | You may not attempt to alter or restrict the recipients' rights
+ 
+USE CASE Binary-only delivery
+	YOU MUST Provide Source code | must also be made available in Source Code Form
+		ATTRIBUTE No profit | at a charge no more than the cost of distribution to the recipient
+		USE CASE Delayed source code delivery
+			YOU MUST Provide Written offer | You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form
+				ATTRIBUTE Reasonable | by reasonable means in a timely manner
+	YOU MUST Forward Copyright notices | that the Source Code Form of the Covered Software is governed by the terms of this License
+	YOU MUST Provide License text | how they can obtain a copy of this License
+	YOU MUST Forward Warranty disclaimer | disclaimers of warranty
+	IF Source code modification
+		YOU MUST Grant License | must be under the terms of this License
+		YOU MUST Use Original license | must be under the terms of this License
+	YOU MUST NOT Impede Usage | You may not attempt to alter or restrict the recipients' rights
+
+COPYLEFT CLAUSE Yes | must be under the terms of this License

@@ -1,0 +1,4 @@
+The term Delayed source code delivery is only relevant, if the license permits to deliver the licensed software as a binary object and to deliver the source code separately at a later date.
+The term Delayed source code delivery means any source code delivery that is not directly connected to the delivery of the binary object.
+If the object code is embodied in physical form and delivered in a parcel or similar, then any source code delivery that is not accompanying the object code in the same parcel is considered Delayed source code delivery.
+If the object code is delivered in a software archive as data stream for example to be downloaded from a server, then the source code must be contained in the same archive or at least be part of the same download action in order not to be considered Delayed source code delivery.

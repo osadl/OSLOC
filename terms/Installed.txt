@@ -1,0 +1,1 @@
+The term Installed applies to sofware that neither is conveyed on a portable data transport medium nor as a data stream via a communication link, but stored on a built-in storage device and conveyed along with a product such as a machine, a car or a smartphone. This often is the case with object code, but source code may also be Installed on a device in the described manner.

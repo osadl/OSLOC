@@ -1,0 +1,19 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices | retain the above copyright notice
+	YOU MUST Forward License text | retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | retain*the following disclaimer
+	USE CASE Documentation
+		YOU MUST Credit verbatim "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)." | The end-user documentation included with the redistribution, if any, must include the following acknowledgment: "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)."
+	USE CASE Source code modification
+		YOU MUST NOT Promote using "Apache" or "Apache Software Foundation" | The names "Apache" and "Apache Software Foundation" must not be used to endorse or promote products derived from this software
+		YOU MUST NOT Use "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] in product name | Products derived from this software may not be called "Apache", nor may "Apache" appear in their name
+
+USE CASE Binary-only delivery
+	USE CASE Documentation
+		YOU MUST Provide Copyright notices | reproduce the above copyright notice
+		YOU MUST Provide License text | reproduce*this list of conditions
+		YOU MUST Provide Warranty disclaimer | reproduce*the following disclaimer
+		YOU MUST Credit verbatim "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)." | The end-user documentation included with the redistribution, if any, must include the following acknowledgment: "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)."
+	USE CASE Source code modification
+		YOU MUST NOT Promote using "Apache" or "Apache Software Foundation" | The names "Apache" and "Apache Software Foundation" must not be used to endorse or promote products derived from this software
+		YOU MUST NOT Use "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] in product name | Products derived from this software may not be called "Apache", nor may "Apache" appear in their name

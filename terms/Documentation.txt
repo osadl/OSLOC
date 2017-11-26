@@ -1,0 +1,1 @@
+The term Documentation refers to instructions in written form how to accomplish a given goal in the current context, e.g. how to use a program or how to compile a source code. The instructions may either be printed on paper or contained in a text file on a storage medium. If the related product is delivered via a communication line, it may be contained in a data stream.

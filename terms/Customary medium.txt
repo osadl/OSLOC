@@ -1,0 +1,1 @@
+To be customary a medium must be readable by a type of device that represents a commercial standard at the time of its delivery. The majority of computer systems or at least a relevant portion of them must be equipped with such readers, and a data format must be used that is implemented by a majority of vendors.

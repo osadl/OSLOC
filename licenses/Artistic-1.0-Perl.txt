@@ -1,0 +1,18 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices | original copyright notices
+	YOU MUST Forward Warranty disclaimer | associated disclaimers
+	IF Source code modification
+		YOU MUST Provide File name | prominent notice in each changed file
+		YOU MUST Provide Modification date | and when
+		YOU MUST Provide Modification report | stating how
+		YOU MUST Publish Source code OR Rename Source code | place your modifications in the Public Domain | rename any non-standard executables so the names do not conflict with standard executables
+		YOU MUST NOT Promote | may not be used to endorse or promote
+
+USE CASE Binary-only delivery
+	YOU MUST Provide Retrieval information | instructions (in the manual page or equivalent) on where to get the Standard Version
+	IF Source code modification
+		YOU MUST Provide Source code | accompany the distribution with the machine-readable source
+			ATTRIBUTE Machine-readable | machine-readable
+		OR YOU MUST Rename Source code | give non-standard executables non-standard names
+		OR YOU MUST Provide Modification report | clearly document the differences
+		YOU MUST NOT Promote | may not be used to endorse or promote

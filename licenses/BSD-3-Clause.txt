@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary-only delivery | Redistributions of source code | Redistributions in binary form
+	YOU MUST Forward Copyright notices | the above copyright notice
+	YOU MUST Forward License text | this list of conditions
+	YOU MUST Forward Warranty disclaimer | the following disclaimer
+	YOU MUST NOT Promote | Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software

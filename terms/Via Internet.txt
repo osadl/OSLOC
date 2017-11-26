@@ -1,0 +1,1 @@
+The term Via Internet describes the way a software component is conveyed from a distributor to a customer and is opposed to conveyance on a medium. In addition to its usual meaning to download software from an http of ftp server, the term Via Internet includes every imaginable way a data stream can be obtained electronically via network from the distributor.

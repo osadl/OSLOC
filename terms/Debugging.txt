@@ -1,0 +1,1 @@
+The term Debugging is related to a dedicated computer program called debugger that can be used to control the execution of an application. In particular, any given number of machine code instructions can be executed individually and their effect on the program's variables and the system's behavior observed immediately.

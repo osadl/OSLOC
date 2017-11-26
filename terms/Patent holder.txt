@@ -1,0 +1,1 @@
+A Patent holder is a natural or legal person who holds the patent of a mechanism that is implemented in a particular part of source code intended to be distributed under the license in question.

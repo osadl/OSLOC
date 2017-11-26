@@ -1,0 +1,1 @@
+The term Modification is used in the context of a license text or a source code that is altered by adding, deleting or changing a given number of code lines.

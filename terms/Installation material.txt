@@ -1,0 +1,2 @@
+The term Installation material is only relevant, if the licensed software is delivered along with a product on which it is installed and a particular non-trivial action is required to replace the original software by a new one.
+If certificates, keys or anything else is needed for installation of the software on the item where the licensed software was originally installed, then the term Installation material includes the provision of such material.

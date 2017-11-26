@@ -1,0 +1,1 @@
+The term Installation refers to the act of copying a software component to a built-in non-volatile storage media of an electronic device. Such storage media usually is a hard disk, a solid-state disk or on-board flash memory.

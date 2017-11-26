@@ -1,0 +1,1 @@
+The term Interactive describes the way a software communicates with the user and means that input and output requires direct interaction such as a question on a text terminal to be answered or a button on a graphical user interface that may be pressed. An example of a non-interactive software is an operating system kernel such as the Linux kernel.

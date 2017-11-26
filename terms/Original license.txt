@@ -1,0 +1,1 @@
+The term Original license is only relevant in the context of a license with a copyleft clause. It denotes the unmodified license that is used by the authors of a particular existing source code.

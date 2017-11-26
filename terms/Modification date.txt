@@ -1,0 +1,1 @@
+The term Modification date is used in the context of a source code modification and indicates the local date at the location of the developer (year, month, day) of the most recent modification applied to the source code.

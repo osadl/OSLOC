@@ -1,0 +1,1 @@
+The Patent license in the context of Open Source copyright licenses grants at least the same quality of rights to use a particular mechanism as the copyright license grants to copy and distribute the code. In particular, it must be royalty-free, non-discriminatory and valid for an unlimited period of time.

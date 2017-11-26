@@ -1,0 +1,1 @@
+Another license may impose an obligation that the current license does not permit to impose. This creates an incompatibility in such a way that software that is licensed under the other license cannot be included, copied and distributed into software that is licensed under the current license.

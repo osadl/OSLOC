@@ -1,0 +1,1 @@
+The ATTRIBUTE language construct is used to further specify the term or action from which it depends.

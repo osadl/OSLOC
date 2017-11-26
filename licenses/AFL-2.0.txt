@@ -1,0 +1,30 @@
+USE CASE Source code delivery
+	USE CASE Source code modification | in the Source Code of any Derivative Works
+		YOU MUST Provide Documentation | You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work
+		YOU MUST Forward Copyright notices | You must retain, in the Source Code of any Derivative Works that You create, all copyright
+		YOU MUST Forward License notice | You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing
+		YOU MUST Forward Warranty disclaimer | This DISCLAIMER OF WARRANTY constitutes an essential part of this License
+		YOU MUST Forward Patent notice | You must retain, in the Source Code of any Derivative Works that You create*patent
+		YOU MUST Forward Trademark notice | You must retain, in the Source Code of any Derivative Works that You create*trademark notices
+		YOU MUST NOT Promote | Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work
+
+USE CASE Binary-only delivery
+	YOU MUST Provide Source code | provide a machine-readable copy of the Source Code of the Original Work
+		ATTRIBUTE Machine-readable | machine-readable copy
+		USE CASE Delayed source code delivery | reserves the right to satisfy this obligation by placing
+			ATTRIBUTE Duration As long as distributed | as long as Licensor continues to distribute the Original Work
+			USE CASE NOT Via Internet
+				ATTRIBUTE No profit | inexpensive and convenient access
+			USE CASE Via Internet | machine-readable copy of the Source Code in an information repository
+				ATTRIBUTE No charges
+				YOU MUST Provide Access information | publishing the address of that information repository in a notice
+	USE CASE Source code modification | in the Source Code of any Derivative Works
+		YOU MUST Provide Documentation | You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work
+		YOU MUST Forward Copyright notices | You must retain, in the Source Code of any Derivative Works that You create, all copyright
+		YOU MUST Forward License notice | You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing
+		YOU MUST Forward Warranty disclaimer | This DISCLAIMER OF WARRANTY constitutes an essential part of this License
+		YOU MUST Forward Patent notice | You must retain, in the Source Code of any Derivative Works that You create*patent
+		YOU MUST Forward Trademark notice | You must retain, in the Source Code of any Derivative Works that You create*trademark notices
+		YOU MUST NOT Promote | Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work
+
+PATENT HINTS Yes | a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims | Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You | This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, for patent infringement

@@ -1,0 +1,11 @@
+USE CASE Source code delivery OR Binary-only delivery
+	YOU MUST Forward License text | You must give any other recipients of the Work or Derivative Works a copy of this License
+	IF Source code modification
+		YOU MUST Provide File name | You must cause any modified files to carry prominent notices stating that You changed the files
+		YOU MUST Forward Copyright notices | You must retain, in the Source form of any Derivative Works that You distribute, all copyright*notices from the Source form of the Work
+		YOU MUST Forward Patent notices | You must retain, in the Source form of any Derivative Works that You distribute, all*patent*notices from the Source form of the Work
+		YOU MUST Forward Trademark notices | You must retain, in the Source form of any Derivative Works that You distribute, all*trademark*notices from the Source form of the Work
+		IF Work contains file "NOTICE" | If the Work includes a "NOTICE" text file as part of its distribution
+			YOU MUST Forward File "NOTICE" | any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file
+
+PATENT HINTS Yes | each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license | If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed

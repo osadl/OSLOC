@@ -1,0 +1,1 @@
+The action to Reference means to provide information how to retrieve the original version of a particular item. On a Web page, this usually is handled by including a hyperlink to a URL of the item, whereas a footnote that contains bibliographical data of the item usually serves this purpose in a text document.

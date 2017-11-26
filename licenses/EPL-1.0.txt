@@ -1,0 +1,25 @@
+USE CASE Source code delivery
+	YOU MUST Forward License text | Agreement must be included with each copy of the Program
+	YOU MUST Provide Warranty disclaimer | disclaims on behalf of all Contributors all warranties and conditions
+	IF Source code modification | such derivative works
+		YOU MUST Grant License | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license
+		YOU MUST Use Original license | it must be made available under this Agreement
+		YOU MUST Provide Copyright notice | must identify itself as the originator of its Contribution
+
+USE CASE Binary-only delivery | A Contributor may choose to distribute the Program in object code form
+	YOU MUST Provide Delayed source code delivery | states that source code for the Program is available
+		ATTRIBUTE Customary medium | medium customarily used for software exchange
+	YOU MUST Provide Written offer | informs licensees how to obtain it
+		ATTRIBUTE Reasonable | in a reasonable manner
+	YOU MUST Forward License text | Agreement must be included with each copy of the Program
+	YOU MUST Provide Warranty disclaimer | disclaims on behalf of all Contributors all warranties and conditions
+	IF Source code modification | such derivative works
+		YOU MUST Grant License | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license
+		YOU MUST Use Original license | it must be made available under this Agreement
+		YOU MUST Provide Copyright notice | must identify itself as the originator of its Contribution
+		
+USE CASE Commercial distribution | Commercial distributors of software
+	YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+
+PATENT HINTS Yes | Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license
+COPYLEFT CLAUSE Yes | it must be made available under this Agreement

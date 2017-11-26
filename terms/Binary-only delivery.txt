@@ -1,0 +1,1 @@
+The term Binary-only delivery denotes a situation where all or at least part of the licensed software is distributed as a binary object without the corresponding source code.

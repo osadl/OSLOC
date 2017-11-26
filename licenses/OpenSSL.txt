@@ -1,0 +1,15 @@
+USE CASE Source code delivery OR Binary-only delivery
+	YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice | Redistributions of source code must retain the copyright notice | Redistributions in binary form must reproduce the above copyright notice
+	YOU MUST Forward License text | this list of conditions
+	YOU MUST Forward Warranty disclaimer | the following disclaimer
+	YOU MUST Credit verbatim "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)" | Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+	USE CASE Advertisement | advertising materials mentioning features or use of this software
+		YOU MUST Credit verbatim "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)" | advertising materials mentioning features or use of this software must display the following acknowledgment: "This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+		YOU MUST Credit verbatim "This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)" | advertising materials mentioning features or use of this software must display the following acknowledgment: "This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)"
+		USE CASE Windows | If you include any Windows specific code
+			YOU MUST Credit verbatim "This product includes software written by Tim Hudson (tjh@cryptsoft.com)" | you must include an acknowledgement: "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+	USE CASE Source code modification | derived from this software
+		YOU MUST NOT Promote using "OpenSSL Toolkit" or "OpenSSL Project" | The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software
+		YOU MUST NOT Use "OpenSSL" in product name | Products derived from this software may not be called "OpenSSL" nor may "OpenSSL" appear in their names
+
+COPYLEFT CLAUSE Questionable | The licence and distribution terms for any publically available version or derivative of this code cannot be changed

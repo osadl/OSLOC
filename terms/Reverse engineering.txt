@@ -1,0 +1,1 @@
+The term Reverse engineering denotes an engineering activity to investigate a given technical component using direct evidence and indirect hints as well as invasive and non-invasive analytical procedures to conclude from the results the way the component might have been constructed in the first place.

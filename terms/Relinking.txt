@@ -1,0 +1,1 @@
+The term of Relinking is only relevant in the context of connecting a library with an application. It means the action to replace an existing library by a new one, thus allowing the application to call functions of the new library in the same way as previously those of the old one.

@@ -1,0 +1,1 @@
+The term Substantial source code modification is used when existing functionality of a source code is expanded or new functionality is added. A modification that results from adapting a source code to another platform or from even a large number of fixed bugs does not qualify as Substantial source code modification.

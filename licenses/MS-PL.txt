@@ -1,0 +1,17 @@
+USE CASE Source code delivery
+	YOU MUST Grant License | each contributor grants you a non-exclusive, worldwide, royalty-free copyright license
+	YOU MUST Forward Copyright notices | you must retain all copyright
+	YOU MUST Forward Patent notices | patent, 
+	YOU MUST Forward Trademark notices | trademark, 
+	YOU MUST Forward License text | including a complete copy of this license
+	YOU MUST Use Original license | only under this license 
+ 
+USE CASE Binary-only delivery
+	YOU MUST Grant License | each contributor grants you a non-exclusive, worldwide, royalty-free copyright license
+	YOU MUST Forward Copyright notices | you must retain all copyright
+	YOU MUST Forward Patent notices | patent, 
+	YOU MUST Forward Trademark notices | trademark, 
+	YOU MUST Use Compatible license | under a license that complies with this license
+
+PATENT HINTS Yes | each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents
+COPYLEFT CLAUSE Yes | only under this license | under a license that complies with this license

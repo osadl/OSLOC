@@ -1,0 +1,7 @@
+USE CASE Source code delivery OR Binary-only delivery | Redistributions of source code | Redistributions in binary form
+	YOU MUST Forward Copyright notices | the above copyright notice
+	YOU MUST Forward License text | this list of conditions
+	YOU MUST Forward Warranty disclaimer | the following disclaimer
+	USE CASE Advertisement
+		YOU MUST Credit Organization | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement
+	YOU MUST NOT Promote | Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software

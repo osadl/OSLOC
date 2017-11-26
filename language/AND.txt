@@ -1,0 +1,1 @@
+When the AND language construct is used between elements of a condition, then the condition only applies, if all elements are fulfilled. When the AND language construct is used between obligations, then all obligation must be fulfilled. Note: The AND language construct is assumed by default between consecutive license obligations and attributes.

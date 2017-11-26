@@ -1,0 +1,1 @@
+The term Dynamic is used for a setting, a provision or a condition that may change over time and, thus, affect items that depend on them.
