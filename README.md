@@ -22,3 +22,11 @@ The compatibility of all licenses with each other is given as a matrix in the di
 * As a sequentially indexed array with explanations
 ### Checklists
 The license checklists along with references to the original license text are given in the directory [licenses](https://github.com/osadl/OSSLCC/tree/master/licenses). The license checklists without the reference are given in the directory [unreflicenses](https://github.com/osadl/OSSLCC/tree/master/unreflicenses).
+## Licensing
+Copyright (c) 2018-2022 Open Source Automation Development Lab (OSADL) eG  
+
+Licensed under CC0-1.0.
+
+To the extent possible under law, the person who associated CC0-1.0 with OSSLCC has waived all copyright and related or neighboring rights to OSSLCC.
+
+For the original license text see [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/).
