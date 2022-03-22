@@ -1,0 +1,1 @@
+A software component may provide a table with references to local addresses that a second software component may use to run code implemented in the first software component. Such a table is referred to as an Interface.

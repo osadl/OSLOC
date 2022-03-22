@@ -1,0 +1,1 @@
+The software may be made available on a file sharing server from where users may download the software and immediately make it available to other users beyond the control of the original server. Receiving and providing software using this mechanism is referred to as Via peer-to-peer transmission.

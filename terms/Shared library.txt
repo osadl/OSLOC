@@ -1,0 +1,1 @@
+A library may be provided as a separate, but required software component of an executable program and is only connected to it at runtime. Such a library is referred to as Shared library.

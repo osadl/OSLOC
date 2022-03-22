@@ -1,0 +1,1 @@
+A software component may provide a standard interface in such a way that this interface can be used to connect software components to each other in order to mutually access functions and data. Such software is referred to as Linkable work.

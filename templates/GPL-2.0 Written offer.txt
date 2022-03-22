@@ -1,9 +1,5 @@
-This product contains software components that are licensed by the holder of the rights as free software, or Open Source software, under GNU General Public License, Version 2, or GNU Lesser General Public License, Version 2.1, respectively. The source code for these software components can be obtained from us on a data carrier (CD, DVD or USB stick) by submitting a request to our customer service department at the following address within three years after delivery of the product:
+This product contains software components that are licensed by the copyright holders as Free Software or Open Source software under the GNU General Public License, version 2, and/or GNU Lesser General Public License, version 2.1. Anyone can obtain the source code for these software components from us on a data carrier (CD-ROM, DVD or USB memory stick). This offer is valid within three years after the most recent distribution of the object code by us. Please send your request to the following email address [email address] or via regular mail to the following address:
 [Company name]
-[Contact]
+[Department]
 [Address]
-Please provide the following product information
-[Name]
-[Serial number]
-[Date of delivery]
-and transfer 5 euros to the following account [account information] to cover the costs of providing the data carrier and shipping it.
+Please specify the address to which you wish us to send the source code. Additional product information (e.g. explicit product name, serial number etc.) will help us to identify the corresponding source code for you. The source code will be sent to the given address after reimbursement of the expenses actually incurred for providing the data carrier and shipping.

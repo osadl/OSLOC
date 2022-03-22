@@ -1,0 +1,1 @@
+The business model of Open Source software is based on the fact that such software normally does not come with any promise to provide new features, bug fixing, installation support, warranty etc. but that all of this may be offered for a fee by service providers which is referred to as Service offerings.

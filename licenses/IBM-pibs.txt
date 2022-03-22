@@ -1,0 +1,4 @@
+USE CASE Source code delivery OR Binary delivery | in any way he or she deems fit, including*compiling it
+	YOU MUST Provide Copyright notice (Copyright notice) | must include the IBM copyright notice*in the transferred software
+	YOU MUST Provide License text | work must include*this paragraph, and the preceding two paragraphs in the transferred software
+PATENT HINTS Yes | No license under IBM patents or patent applications is to be implied by the copyright license.

@@ -1,1 +1,1 @@
-A particular piece of source code may have a history of contributions by a number of other parties. Such authors are referred to as Other contributors.
+A particular piece of source code may have a history of contributions by a number of parties other than the original contributor. Such authors are referred to as Other contributors.

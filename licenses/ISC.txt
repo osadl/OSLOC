@@ -1,4 +1,3 @@
-USE CASE Source code delivery OR Binary-only delivery
+USE CASE Source code delivery OR Binary delivery
 	YOU MUST Forward Copyright notices | the above copyright notice
 	YOU MUST Forward License text | this permission notice
-	YOU MUST Forward Warranty disclaimer | THE SOFTWARE IS PROVIDED "AS IS" AND ISC DISCLAIMS ALL WARRANTIES | this permission notice

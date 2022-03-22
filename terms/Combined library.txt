@@ -1,0 +1,1 @@
+If two or more libraries are copied into a single library that offers the functionality of the library components all together, but without applying any modifications to them, then the resulting library is referred to as a Combined library.

@@ -1,1 +1,1 @@
-The YOU MUST NOT language elements specifies an individual license prohibition, i.e. what not to do, probably among other things, to become license compliant. It may optionally be followed by indented language constructs such as ATTRIBUTE that further describe the language prohibition.
+The YOU MUST NOT language construct specifies an individual license prohibition, i.e. what not to do, probably among other things, to become license compliant. It may optionally be followed by indented language constructs such as ATTRIBUTE that further describe the license prohibition.

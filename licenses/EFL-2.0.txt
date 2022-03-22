@@ -1,0 +1,3 @@
+USE CASE Source code delivery OR Binary delivery | any distribution of this package
+	YOU MUST Forward Copyright notices | copyright notices are retained unchanged,
+	YOU MUST Forward License text | any distribution of this package, whether modified or not, includes this license text.

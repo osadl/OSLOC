@@ -1,0 +1,19 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices
+	YOU MUST Forward License text
+	YOU MUST Forward Warranty disclaimer
+	IF Documentation
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." in Documentation
+	IF NOT Documentation
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." In Source code delivery
+	YOU MUST NOT Promote
+USE CASE Binary delivery
+	IF Documentation
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." in Documentation
+	IF NOT Documentation
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." In Binary delivery
+	YOU MUST Forward Copyright notices In Documentation OR Distribution material
+	YOU MUST Forward License text In Documentation OR Distribution material
+	YOU MUST Forward Warranty disclaimer In Documentation OR Distribution material
+	YOU MUST NOT Promote
+

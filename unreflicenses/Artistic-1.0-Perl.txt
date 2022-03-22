@@ -1,0 +1,31 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices
+	YOU MUST Forward Warranty disclaimer
+	IF Software modification
+		YOU MUST Provide Modification notice
+		YOU MUST Provide Modification report In Source code
+		YOU MUST Provide Modification date In Source code
+		EITHER
+			YOU MUST Publish Source code
+				ATTRIBUTE No charge
+		OR
+			YOU MUST Rename Source code
+			YOU MUST Provide Original source code
+			YOU MUST Provide Documentation
+				YOU MUST Provide Modification report
+	YOU MUST NOT Promote
+USE CASE Binary delivery
+	EITHER
+		YOU MUST Provide Original source code
+		YOU MUST Reference Original source code
+	OR
+		IF Software modification
+			YOU MUST Provide Source code
+				ATTRIBUTE Machine-readable
+			YOU MUST NOT Promote
+	OR
+		IF Software modification
+			YOU MUST Rename Source code
+			YOU MUST Provide Modification report In Distribution material
+			YOU MUST Reference Original source code In Distribution material
+	YOU MUST NOT Promote

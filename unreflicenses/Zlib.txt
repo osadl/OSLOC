@@ -1,0 +1,10 @@
+USE CASE Source code delivery
+	YOU MUST Forward License text
+	YOU MUST Forward Warranty disclaimer
+	IF Software modification
+		YOU MUST Mark
+	YOU MUST NOT Appropriate
+USE CASE Binary delivery
+	IF Software modification
+		YOU MUST Mark
+	YOU MUST NOT Appropriate

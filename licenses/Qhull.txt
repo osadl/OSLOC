@@ -1,0 +1,9 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Forward Copyright notices | All copyright notices must remain intact in all files.
+	YOU MUST Forward License text | A copy of this text file must be distributed along with any copies of Qhull that you redistribute
+	IF Software modification | If you modify Qhull
+		YOU MUST Provide Modification author | If you modify Qhull, you must include a notice giving the name of the person performing the modification
+		YOU MUST Provide Modification date | If you modify Qhull, you must include a notice giving*the date of modification
+		YOU MUST Provide Modification reason | If you modify Qhull, you must include a notice giving*reason for such modification
+		YOU MUST Reference Original source code  | When distributing modified versions of Qhull, or other software products that include Qhull, you must provide notice that the original source code may be obtained as noted above
+			ATTRIBUTE http://www.qhull.org | via http from www.qhull.org

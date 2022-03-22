@@ -1,0 +1,1 @@
+A document may contain sections that lack any relationship to a given scenario such as contract conditions. Such sections are referred to as Irrelevant parts.

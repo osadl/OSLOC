@@ -1,18 +1,31 @@
-USE CASE Source code delivery
+USE CASE Source code delivery | You may make and give away verbatim copies of the source form of the Standard Version of this Package
 	YOU MUST Forward Copyright notices | original copyright notices
 	YOU MUST Forward Warranty disclaimer | associated disclaimers
-	IF Source code modification
-		YOU MUST Provide File name | prominent notice in each changed file
-		YOU MUST Provide Modification date | and when
-		YOU MUST Provide Modification report | stating how
-		YOU MUST Publish Source code OR Rename Source code | place your modifications in the Public Domain | rename any non-standard executables so the names do not conflict with standard executables
-		YOU MUST NOT Promote | may not be used to endorse or promote
-
-USE CASE Binary-only delivery
-	YOU MUST Provide Retrieval information | instructions (in the manual page or equivalent) on where to get the Standard Version
-	IF Source code modification
-		YOU MUST Provide Source code | accompany the distribution with the machine-readable source
-			ATTRIBUTE Machine-readable | machine-readable
-		OR YOU MUST Rename Source code | give non-standard executables non-standard names
-		OR YOU MUST Provide Modification report | clearly document the differences
-		YOU MUST NOT Promote | may not be used to endorse or promote
+	IF Software modification | You may otherwise modify your copy of this Package in any way
+		YOU MUST Provide Modification notice | you insert a prominent notice in each changed file
+		YOU MUST Provide Modification report In Source code | stating how*you changed that file
+		YOU MUST Provide Modification date In Source code | stating*when you changed that file
+		EITHER | and provided that you do at least ONE of the following
+			YOU MUST Publish Source code | place your modifications in the Public Domain
+				ATTRIBUTE No charge
+		OR
+			YOU MUST Rename Source code | rename any non-standard executables so the names do not conflict with standard executables
+			YOU MUST Provide Original source code | standard executables, which must also be provided
+			YOU MUST Provide Documentation | provide a separate manual page for each non-standard executable that
+				YOU MUST Provide Modification report | clearly documents how it differs from the Standard Version
+	YOU MUST NOT Promote | The name of the Copyright Holder may not be used to endorse or promote products derived from this software
+USE CASE Binary delivery | You may distribute the programs of this Package in object code or executable form
+	EITHER | , provided that you do at least ONE of the following
+		YOU MUST Provide Original source code | distribute a Standard Version of the executables and library files
+		YOU MUST Reference Original source code | together with instructions (in the manual page or equivalent) on where to get the Standard Version.
+	OR
+		IF Software modification | of the Package with your modifications
+			YOU MUST Provide Source code | accompany the distribution with the machine-readable source of the Package with your modifications.
+				ATTRIBUTE Machine-readable | with the machine-readable source
+			YOU MUST NOT Promote | The name of the Copyright Holder may not be used to endorse or promote products derived from this software
+	OR
+		IF Software modification | give non-standard executables
+			YOU MUST Rename Source code | give non-standard executables non-standard names
+			YOU MUST Provide Modification report In Distribution material | clearly document the differences in manual pages (or equivalent)
+			YOU MUST Reference Original source code In Distribution material | in manual pages (or equivalent), together with instructions on where to get the Standard Version
+	YOU MUST NOT Promote | The name of the Copyright Holder may not be used to endorse or promote products derived from this software

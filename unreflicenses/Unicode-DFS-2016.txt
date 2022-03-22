@@ -1,0 +1,5 @@
+YOU MUST Forward Copyright notices In Files
+YOU MUST Forward License text In Files
+YOU MUST Provide Copyright notices In Documentation
+YOU MUST Provide License text In Documentation
+YOU MUST NOT Promote

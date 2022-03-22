@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Forward Copyright notices | provided that the above copyright notice appear in all copies
+	YOU MUST Forward Copyright notices In Documentation | provided that*[the] copyright notice*notice appear in supporting documentation
+	YOU MUST Forward License text In Documentation | provided that*this permission notice appear in supporting documentation
+	YOU MUST NOT Promote | provided that*the name [of] <copyright holder> [or <related entities>] not be used in advertising or publicity pertaining to distribution of the software

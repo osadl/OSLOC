@@ -1,0 +1,24 @@
+USE CASE Source code delivery OR Binary delivery OR Network service | distribute or communicate copies of the Original Work and Derivative Works to the public | use, distribution, or communication of the Original Work or Derivative Works in any way such that the Original Work or Derivative Works may be used by anyone other than You, whether those works are distributed or communicated to those persons or made available as an application intended for use over a network
+	YOU MUST Reference License text | obtain the express assent of recipients to the terms of this License | This DISCLAIMER OF WARRANTY constitutes an essential part of this License. No license to the Original Work is granted by this License except under this disclaimer. || No explicit requirement: The AFL-3.0 does not explicitly require to provide or reference the license text but in some jurisdictions the requirement of an effective consent to the license may require that the user can obtain knowledge of the license terms before acceptance.
+	YOU MUST Search License acceptance | obtain the express assent of recipients to the terms of this License
+		ATTRIBUTE Reasonable | a reasonable effort under the circumstances
+	USE CASE License change | distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice
+		YOU MUST Use Compatible license | that does not contradict the terms and conditions, including Licensor's reserved rights and remedies, in this Academic Free License;
+	IF Software modification | in the Source Code of any Derivative Works
+		YOU MUST Forward Copyright notices | You must retain, in the Source Code of any Derivative Works that You create, all copyright
+		YOU MUST Forward Patent notice | You must retain, in the Source Code of any Derivative Works that You create*patent
+		YOU MUST Forward Trademark notice | You must retain, in the Source Code of any Derivative Works that You create*trademark notices
+		YOU MUST Forward License notice | You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing
+		YOU MUST Provide Modification notice | You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work
+		YOU MUST NOT Promote | Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work
+		IF Modified work Under Original license | any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following licensing notice adjacent to the copyright notice for the Original Work
+			EITHER
+				YOU MUST Include Source code of Modified work | Licensor agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes
+					ATTRIBUTE Machine-readable | provide a machine-readable copy
+			OR
+				YOU MUST Provide Delayed source code delivery of Modified work | Licensor reserves the right to satisfy this obligation
+					ATTRIBUTE Machine-readable | placing a machine-readable copy
+					ATTRIBUTE Via Internet | in an information repository
+					ATTRIBUTE No profit | inexpensive and convenient access
+					ATTRIBUTE Duration As long as distributed | as long as Licensor continues to distribute the Original Work
+PATENT HINTS Yes | a worldwide, royalty-free, non-exclusive, sublicenseable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor, for the duration of the patents, to make, use, sell, offer for sale, have made, and import the Original Work and Derivative Works |  Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License with the permission of the contributor(s) of those copyrights and patent rights | This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent

@@ -1,1 +1,0 @@
-The action to Allow means to grant permission of a specified activity that possibly would be prohibited otherwise.

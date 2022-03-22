@@ -1,0 +1,1 @@
+The action to Modify means the act of modifying an existing text document in print form or an existing text or binary data file on a storage medium. To Modify covers the entire range from modifying a single bit in a data document or a single letter in a text document to completely removing the entire document.

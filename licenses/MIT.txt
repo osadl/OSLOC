@@ -1,4 +1,3 @@
-USE CASE Source code delivery OR Binary-only delivery
-	YOU MUST Forward Copyright notices | copyright notice
-	YOU MUST Forward License text | permission notice
-	YOU MUST Forward Warranty disclaimer | permission notice
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Forward OR Provide Copyright notices | The above copyright notice*shall be included
+	YOU MUST Forward OR Provide License text | this permission notice (including the next paragraph) shall be included

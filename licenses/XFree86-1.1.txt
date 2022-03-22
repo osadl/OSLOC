@@ -1,0 +1,18 @@
+USE CASE Source code delivery | Redistributions of source code
+	YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice
+	YOU MUST Forward License text | Redistributions of source code must retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain*the following disclaimer
+	IF Documentation | The end-user documentation included with the redistribution, if any
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." in Documentation | The end-user documentation*must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors"
+	IF NOT Documentation | Alternately,
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." In Source code delivery | Alternately, this acknowledgment may appear in the software itself
+	YOU MUST NOT Promote | the name of The XFree86 Project, Inc shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software
+USE CASE Binary delivery | Redistributions in binary form
+	IF Documentation | The end-user documentation included with the redistribution, if any
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." in Documentation | The end-user documentation*must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors"
+	IF NOT Documentation | Alternately,
+		YOU MUST Credit Verbatim "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors." In Binary delivery | Alternately, this acknowledgment may appear in the software itself
+	YOU MUST Forward Copyright notices In Documentation OR Distribution material | Redistributions in binary form must reproduce the above copyright notice*in the documentation and/or other materials provided with the distribution
+	YOU MUST Forward License text In Documentation OR Distribution material | Redistributions in binary form must reproduce*this list of conditions*in the documentation and/or other materials provided with the distribution
+	YOU MUST Forward Warranty disclaimer In Documentation OR Distribution material | Redistributions in binary form must reproduce*the following disclaimer in the documentation and/or other materials provided with the distribution
+	YOU MUST NOT Promote | the name of The XFree86 Project, Inc shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software

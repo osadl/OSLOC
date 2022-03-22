@@ -1,0 +1,1 @@
+The term Windows code refers to code that was written specifically to be used under the operating system named Windows that is manufactured by Microsoft Corporation in Redmond, Washington, USA.

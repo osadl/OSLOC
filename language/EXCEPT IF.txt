@@ -1,0 +1,1 @@
+A granted right or a license obligation may apply to a large variety of situations, but there may be clearly defined exceptions from such general rules in which case they are encoded using the EXCEPT IF language construct.

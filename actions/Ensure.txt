@@ -1,0 +1,1 @@
+The action to Ensure means to verify that a particular action was executed, a particular fact is established or a particular condition is met.

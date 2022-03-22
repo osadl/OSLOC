@@ -1,0 +1,1 @@
+A physical component such as an electric device, a data component such as a file, or a text component such as a license term or an instruction may be part of another component. In this case, the related property of the other component is referred to as Including the first component.

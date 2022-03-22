@@ -1,0 +1,65 @@
+USE CASE Source code delivery | You may Distribute verbatim copies of the Source form of the Standard Version of this Package
+	YOU MUST Forward Copyright notices | provided that you duplicate all of the original copyright notices
+	YOU MUST Forward Warranty disclaimer | provided that you duplicate all of the*associated disclaimers
+	IF Software modification | You may Distribute your Modified Version as Source
+		EXCEPT IF Provided By Copyright holder | You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
+		YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
+		EITHER | provided that you do at least ONE of the following
+			YOU MUST Provide Source code of Modified work | make the Modified Version available
+				ATTRIBUTE to Copyright holder of Original work | to the Copyright Holder of the Standard Version
+				ATTRIBUTE Original license | under the Original License
+		OR
+			YOU MUST NOT Impede Installation of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
+			YOU MUST NOT Impede Running Original work | ensure that installation of your Modified Version does not prevent the user*running the Standard Version
+			YOU MUST Rename Modified work | the Modified Version must bear a name that is different from the name of the Standard Version
+		OR
+			EITHER
+				YOU MUST Use Original license | make the Source form of the Modified Version available to others under (i) the Original License
+			OR
+				YOU MUST Use Strong copyleft license | a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed
+	YOU MUST NOT Require License fee | provided that you do not charge a licensing fee
+USE CASE Binary delivery | You may Distribute Compiled forms of the Standard Version
+	YOU MUST Reference Source code | include complete instructions on how to get the Source of the Standard Version
+		IF Reference Expires | If these instructions*become invalid
+			EITHER
+				YOU MUST Provide Reference On Request | you must provide new instructions on demand
+					ATTRIBUTE Within 30 days | within thirty days after you become aware that the instructions are invalid
+			OR
+				YOU MUST End Binary delivery | cease further distribution
+					ATTRIBUTE Within 30 days | within thirty days after you become aware that the instructions are invalid
+	IF Software modification | You may Distribute a Modified Version in Compiled form
+		EXCEPT IF Provided By Copyright holder | You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
+		YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
+		EITHER | provided that you do at least ONE of the following
+			YOU MUST Provide Source code of Modified work | make the Modified Version available
+				ATTRIBUTE to Copyright holder of Original work | to the Copyright Holder of the Standard Version
+				ATTRIBUTE Original license | under the Original License
+		OR
+			YOU MUST NOT Impede Installation of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
+			YOU MUST NOT Impede Running Original work | ensure that installation of your Modified Version does not prevent the user*running the Standard Version
+			YOU MUST Rename Modified work | the Modified Version must bear a name that is different from the name of the Standard Version
+		OR
+			EITHER
+				YOU MUST Use Original license | make the Source form of the Modified Version available to others under (i) the Original License
+			OR
+				YOU MUST Use Strong copyleft license | a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed
+	IF Linked work | You are permitted to link Modified and Standard Versions with other works
+		EITHER
+			YOU MUST NOT Provide Interface to Work | the result does not expose a direct interface 
+		OR
+			YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
+			EITHER | provided that you do at least ONE of the following
+				YOU MUST Provide Source code of Modified work | make the Modified Version available
+					ATTRIBUTE to Copyright holder of Original work | to the Copyright Holder of the Standard Version
+					ATTRIBUTE Original license | under the Original License
+			OR
+				YOU MUST NOT Impede Installation of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
+				YOU MUST NOT Impede Running Original work | ensure that installation of your Modified Version does not prevent the user*running the Standard Version
+				YOU MUST Rename Modified work | the Modified Version must bear a name that is different from the name of the Standard Version
+			OR
+				EITHER
+					YOU MUST Use Original license | make the Source form of the Modified Version available to others under (i) the Original License
+				OR
+					YOU MUST Use Strong copyleft license | a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed
+	YOU MUST NOT Require License fee | provided that you do not charge a licensing fee
+PATENT HINTS Yes | non-exclusive, worldwide, free-of-charge patent license*with respect to any patent claims licensable by the Copyright Holder*If you institute patent litigation (including a cross-claim or counterclaim) against any party alleging that the Package constitutes direct or contributory patent infringement, then this Artistic License to you shall terminate on the date that such litigation is filed

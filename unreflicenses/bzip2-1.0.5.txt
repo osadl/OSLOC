@@ -1,0 +1,14 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices
+	YOU MUST Forward License text
+	YOU MUST Forward Warranty disclaimer
+	YOU MUST NOT Appropriate
+	IF Software modification
+		YOU MUST Mark
+		YOU MUST NOT Appropriate
+		YOU MUST NOT Promote
+USE CASE Binary delivery
+	YOU MUST NOT Appropriate
+	IF Software modification
+		YOU MUST NOT Promote
+PATENT HINTS Yes

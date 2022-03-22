@@ -1,30 +1,68 @@
-USE CASE Source code delivery
-	YOU MUST Forward Copyright notices | copyright, 
-	YOU MUST Forward Patent notices | patent, 
-	YOU MUST Forward Trademark notices | trademark, 
+USE CASE Source code delivery | When the Program is Distributed as Source Code
 	YOU MUST Forward License text | Agreement must be included with each copy of the Program
-	YOU MUST Forward Warranty disclaimer | disclaimers of warranty
-
-USE CASE Binary-only delivery | in any form
-	YOU MUST Provide Source code | be made available as Source Code
-		ATTRIBUTE Customary medium | medium customarily used for software exchange
-		ATTRIBUTE Machine-readable | in a reasonable manner
-	USE CASE Delayed source code delivery
+	YOU MUST NOT Modify Copyright notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any copyright*notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Patent notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*patent*notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Trademark notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*trademark*notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Attribution notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*attribution notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Warranty disclaimers | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*disclaimers of warranty*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Liability disclaimers | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute
+	IF Software modification | "Contribution" means | in the case of each subsequent Contributor*i) changes to the Program*ii) additions to the Program
+		YOU MUST Grant License | it must be made available
+			ATTRIBUTE Original license | it must be made available under this Agreement
+	USE CASE License change | Distribute the Program under a license different than this Agreement
+		YOU MUST Use Warranty disclaimer On behalf of Other contributors | disclaims on behalf of all other Contributors all warranties and conditions
+			ATTRIBUTE Effective | effectively disclaims on behalf of all other Contributors
+		YOU MUST Use Liability disclaimer On behalf of Other contributors | excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+			ATTRIBUTE Effective | effectively excludes on behalf of all other Contributors all liability
+		YOU MUST NOT Restrict Granted rights | does not attempt to limit or alter the recipients' rights
+		YOU MUST Use Identical License obligations | under a license that satisfies the requirements of this section
+USE CASE Binary delivery | in any form
+	YOU MUST Notify License | accompany the Program with a statement that the Source Code for the Program is available under this Agreement
+	EITHER
+		YOU MUST Include Source code | the Program must also be made available as Source Code
+	OR
+		YOU MUST Provide Delayed source code delivery | be made available as Source Code*the Contributor must accompany the Program with a statement that the Source Code for the Program is available under this Agreement, and informs Recipients how to obtain it
 		YOU MUST Provide Written offer | informs Recipients how to obtain it
 			ATTRIBUTE Reasonable | in a reasonable manner
-	YOU MUST Forward Copyright notices | copyright, 
-	YOU MUST Forward Patent notices | patent, 
-	YOU MUST Forward Trademark notices | trademark, 
-	YOU MUST Forward License text | Agreement must be included with each copy of the Program
-	YOU MUST Forward Warranty disclaimer | disclaimers of warranty
-
-USE CASE License change | Distribute the Program under a license different than this Agreement
-	YOU MUST Use Warranty disclaimer On behalf of Other contributors | effectively disclaims on behalf of all other Contributors all warranties and conditions
-	YOU MUST NOT Impede Usage | does not attempt to limit or alter the recipients' rights
-	YOU MUST Use Compatible license | under a license that satisfies the requirements of this section 3
-
+			EITHER | on or through
+				ATTRIBUTE Customary medium | in a reasonable manner on*a medium customarily used for software exchange
+			OR
+				ATTRIBUTE Via Internet | in a reasonable manner*through a medium customarily used for software exchange
+	YOU MUST NOT Modify Copyright notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any copyright*notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Patent notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*patent*notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Trademark notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*trademark*notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Attribution notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*attribution notices,*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Warranty disclaimers | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*disclaimers of warranty*contained within the Program from any copy of the Program which they Distribute
+	YOU MUST NOT Modify Liability disclaimers | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute
+	USE CASE License change | Distribute the Program under a license different than this Agreement
+		YOU MUST Use Warranty disclaimer On behalf of Other contributors | disclaims on behalf of all other Contributors all warranties and conditions
+			ATTRIBUTE Effective | effectively disclaims on behalf of all other Contributors
+		YOU MUST Use Liability disclaimer On behalf of Other contributors | excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+			ATTRIBUTE Effective | effectively excludes on behalf of all other Contributors all liability
+		YOU MUST NOT Restrict Granted rights | does not attempt to limit or alter the recipients' rights
+		YOU MUST Use Identical License obligations | under a license that satisfies the requirements of this section
 USE CASE Commercial distribution | Commercial distributors of software
 	YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
-
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY EPL-1.0 || after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version.
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0
 PATENT HINTS Yes | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license | no assurances are provided by any Contributor that the Program does not infringe the patent | If Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
-COPYLEFT CLAUSE Yes | must be made available under this Agreement
+COPYLEFT CLAUSE Yes | must be made available under this Agreement | under a license that satisfies the requirements of this section

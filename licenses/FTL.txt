@@ -1,0 +1,11 @@
+USE CASE Source code delivery | Redistribution of source code must
+	YOU MUST Forward License text | must retain this license file*unaltered;
+	IF Software modification | any additions, deletions or changes to the original files
+		YOU MUST Provide Modification report | any additions, deletions or changes to the original files must be clearly indicated in accompanying documentation
+	YOU MUST Forward Copyright notices | The copyright notices of the unaltered, original files must be preserved in all copies of source files.
+	YOU MUST NOT Promote | nor you shall use the name of the other for commercial, advertising, or promotional purposes without specific prior written permission
+	YOU MUST Credit FreeType Team | If you use our work, you  must acknowledge us
+USE CASE Binary delivery | Redistribution in binary form must
+	YOU MUST Credit In Documentation FreeType Team | must provide a disclaimer that states that the software is based in part of the work of the FreeType Team, in the distribution documentation
+	YOU MUST NOT Promote | nor you shall use the name of the other for commercial, advertising, or promotional purposes without specific prior written permission
+	YOU MUST Credit FreeType Team | If you use our work, you  must acknowledge us

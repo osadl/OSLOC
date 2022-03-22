@@ -1,0 +1,1 @@
+A software distribution may consist of two or more originally separated components either in source code or binary form that are combined in such a way that they constitute a new work no longer allowing them to operate independently. If these components are distributed together, this is referred to as Combined work delivery.

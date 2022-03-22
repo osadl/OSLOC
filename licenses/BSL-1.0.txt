@@ -1,0 +1,5 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices |  The copyright notices in the Software*must be included in all copies of the Software
+	YOU MUST Forward License text | this entire statement, including the above license grant*must be included in all copies of the Software
+	YOU MUST Forward Warranty disclaimer | the following disclaimer*must be included in all copies of the Software
+USE CASE Binary delivery | unless such copies or derivative works are solely in the form of machine-executable object code

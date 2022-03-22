@@ -1,0 +1,55 @@
+USE CASE Source code delivery | made available in source code form
+	YOU MUST Forward License text | a copy of this Agreement must be included with each copy of the Program.
+	YOU MUST NOT Modify License text | No one other than IBM has the right to modify this Agreement
+	YOU MUST Credit Verbatim "Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved." | must include the following*in the Program*Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
+		ATTRIBUTE Highlighted | in a conspicuous location
+	IF Software modification | such derivative works
+		YOU MUST Grant License | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license
+			ATTRIBUTE Original license | it must be made available under this Agreement
+		YOU MUST Provide Copyright notice | must identify itself as the originator of its Contribution
+USE CASE Binary delivery | in object code form
+	YOU MUST Credit Verbatim "Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved." | must include the following*in the Program*Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
+		ATTRIBUTE Highlighted | in a conspicuous location
+	EITHER
+		YOU MUST Include Source code | states that source code for the Program is available
+	OR
+		YOU MUST Provide Delayed source code delivery | states that source code for the Program is available*informs licensees how to obtain it
+		YOU MUST Provide Written offer | informs licensees how to obtain it
+		EITHER | on or through a medium
+			ATTRIBUTE Customary medium | in a reasonable manner on*a medium customarily used for software exchange
+		OR
+			ATTRIBUTE Via Internet | in a reasonable manner*through a medium customarily used for software exchange
+		ATTRIBUTE Reasonable | in a reasonable manner
+	USE CASE License change | under its own license agreement
+		YOU MUST Use Equivalent License obligations | it complies with the terms and conditions of this Agreement
+		YOU MUST Use Warranty disclaimer On behalf of Contributors | disclaims on behalf of all Contributors all warranties
+			ATTRIBUTE Effective | effectively disclaims on behalf of all Contributors
+		YOU MUST Use Liability disclaimer On behalf of Contributors | excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+			ATTRIBUTE Effective | effectively excludes on behalf of all Contributors all liability
+		IF Service offerings | any provisions which differ from this Agreement
+			ATTRIBUTE NOT Transferable | are offered by that Contributor alone and not by any other party
+USE CASE Commercial distribution | Commercial distributors of software
+	YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY CPL-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY EPL-1.0
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+PATENT HINTS Yes | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license
+COPYLEFT CLAUSE Yes | it must be made available under this Agreement

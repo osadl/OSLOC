@@ -1,0 +1,21 @@
+USE CASE Source code delivery | Redistribution and use in source*forms, with or without modification, are permitted
+	YOU MUST Forward Copyright notices | Redistributions in source code must retain the above copyright notice
+	YOU MUST Forward License text | Redistributions in source code must retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | Redistributions in source code must retain*the following disclaimer
+	YOU MUST NOT Promote | The name Zope Corporation (tm) must not be used to endorse or promote products derived from this software
+	IF Software modification | If any files are modified
+		YOU MUST Provide Modification notice | stating that you changed the files
+			ATTRIBUTE Highlighted | carry prominent notices
+		YOU MUST Provide Modification date | date of any change
+			ATTRIBUTE Highlighted | carry prominent notices
+
+USE CASE Binary delivery | Redistribution and use in*binary forms, with or without modification, are permitted
+	YOU MUST Provide Copyright notices In Documentation OR Distribution material | Redistributions in binary form must reproduce the above copyright notice*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide License text In Documentation OR Distribution material | Redistributions in binary form must reproduce*this list of conditions*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide Warranty disclaimer In Documentation OR Distribution material | Redistributions in binary form must reproduce*the following disclaimer in the documentation and/or other materials provided with the distribution
+	YOU MUST NOT Promote | The name Zope Corporation (tm) must not be used to endorse or promote products derived from this software
+	IF Software modification | If any files are modified
+		YOU MUST Provide Modification notice | stating that you changed the files
+			ATTRIBUTE Highlighted | carry prominent notices
+		YOU MUST Provide Modification date | date of any change
+			ATTRIBUTE Highlighted | carry prominent notices

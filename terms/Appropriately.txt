@@ -1,0 +1,1 @@
+An action is considered to be executed Appropriately, if its intended goal is reached in an adequate manner.

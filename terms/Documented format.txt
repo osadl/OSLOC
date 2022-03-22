@@ -1,0 +1,1 @@
+If the data structure and the encoding of characters, if any, of a data container are described in a comprehensive way, then this is referred to as a Documented format.

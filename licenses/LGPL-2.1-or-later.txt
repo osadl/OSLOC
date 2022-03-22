@@ -1,0 +1,161 @@
+USE CASE Source code delivery | You may copy and distribute verbatim copies of the Library's complete source code
+	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy
+	YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy
+	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+	YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
+	YOU MUST Forward License text | distribute a copy of this License along with the Library
+	IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+		YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+		YOU MUST Provide Modification notice | stating that you changed the files
+		YOU MUST Provide Modification date | date of any change
+		YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+			ATTRIBUTE Original license | You must cause the whole of the work to be licensed*under the terms of this License
+		IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+			YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
+	YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+USE CASE Binary delivery | You may copy and distribute the Library*in object code or executable form
+	IF NOT Linked work | You may copy and distribute the Library*in object code or executable form under*provided that
+		YOU MUST Provide Source code | provided that you accompany it with the*source code
+			ATTRIBUTE Machine-readable | machine-readable source code,
+			ATTRIBUTE Customary medium | must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange
+			ATTRIBUTE Including Installation scripts | plus the scripts used to control compilation and installation of the library
+			IF Binary delivery Via Internet | If distribution of object code is made by offering access to copy from a designated place
+				ATTRIBUTE Source code delivery Via Internet | offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code
+					ATTRIBUTE On same server | from the same place satisfies the requirement to distribute the source code
+					ATTRIBUTE Equivalent | equivalent access to copy the source code
+		YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+			ATTRIBUTE Highlighted | conspicuously*publish on each copy
+			ATTRIBUTE Appropriately | appropriately publish on each copy
+		YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
+			ATTRIBUTE Highlighted | conspicuously*publish on each copy
+			ATTRIBUTE Appropriately | appropriately publish on each copy
+		YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+		YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
+		YOU MUST Forward License text | distribute a copy of this License along with the Library
+		IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+			YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+			YOU MUST Provide Modification notice | stating that you changed the files
+			YOU MUST Provide Modification date | date of any change
+			YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+				ATTRIBUTE Original license | under the terms of this License
+			IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+				YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
+		YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+	IF Combined work | As an exception to the Sections above, you may also combine or link a "work that uses the Library" with the Library to produce a work containing portions of the Library
+		YOU MUST Permit Modification of Linked work | provided that the terms permit modification of the work
+			ATTRIBUTE For own use | for the customer's own use
+		YOU MUST Permit Reverse engineering of Linked work | provided that the terms permit*reverse engineering
+			ATTRIBUTE For Debugging Of Modification | for debugging such modifications
+			ATTRIBUTE For own use | for the customer's own use
+		YOU MUST Notify Library | You must give prominent notice with each copy of the work that the Library is used in it
+			ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
+		YOU MUST Provide License announcement | You must give prominent notice with each copy of the work*that the Library and its use are covered by this License
+			ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
+		YOU MUST Provide License text | You must supply a copy of this License
+		EITHER
+			YOU MUST Provide Linkable work | Accompany the work*with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.
+		OR
+			YOU MUST Use Shared library | Use a suitable shared library mechanism for linking with the Library
+		IF Interactive AND Displaying Copyright notices | If the work during execution displays copyright notices 
+			YOU MUST Display Copyright notices | you must include the copyright notice for the Library among them  || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+			YOU MUST Reference License text | you must include*a reference directing the user to the copy of this License
+		EITHER | Also, you must do one of these things
+			YOU MUST Provide Source code | Accompany the work with the complete corresponding machine-readable source code for the Library including whatever changes were used in the work
+				ATTRIBUTE Machine-readable | machine-readable source code,
+				ATTRIBUTE Customary medium | must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange
+				ATTRIBUTE Including Installation scripts | plus the scripts used to control compilation and installation of the library
+				IF Binary delivery Via Internet | If distribution of object code is made by offering access to copy from a designated place
+					ATTRIBUTE Source code delivery Via Internet | offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code
+						ATTRIBUTE On same server | from the same place satisfies the requirement to distribute the source code
+						ATTRIBUTE Equivalent | equivalent access to copy the source code
+			YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+				ATTRIBUTE Highlighted | conspicuously*publish on each copy
+				ATTRIBUTE Appropriately | appropriately publish on each copy
+			YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
+				ATTRIBUTE Highlighted | conspicuously*publish on each copy
+				ATTRIBUTE Appropriately | appropriately publish on each copy
+			YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+			YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
+			YOU MUST Provide License text | distribute a copy of this License along with the Library
+			IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+				YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+				YOU MUST Provide Modification notice | stating that you changed the files
+				YOU MUST Provide Modification date | date of any change
+				YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+					ATTRIBUTE Original license | under the terms of this License
+				IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+					YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
+			YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+		OR
+			YOU MUST NOT Provide Library | Use a suitable shared library mechanism for linking with the Library. A suitable mechanism is one that*uses at run time a copy of the library already present on the user's computer system
+			YOU MUST Ensure Interoperability | will operate properly with a modified version of the library, if the user installs one, as long as the modified version is interface-compatible with the version that the work was made with
+		OR
+			YOU MUST Provide Delayed source code delivery | Accompany the work with a written offer
+			YOU MUST Provide Written offer | Accompany the work with a written offer
+				ATTRIBUTE Duration 3 years | valid for at least three years
+				ATTRIBUTE No profit | for a charge no more than the cost of performing this distribution
+			IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+				YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+				YOU MUST Provide Modification notice | stating that you changed the files
+				YOU MUST Provide Modification date | date of any change
+				YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+					ATTRIBUTE Original license | under the terms of this License
+				IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+					YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
+			YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+		OR
+			YOU MUST Ensure Source code delivery | Verify that the user has already received a copy of these materials or that you have already sent this user a copy
+	IF Combined library | You may place library facilities that are a work based on the Library side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined library*provided that you do these two things
+		YOU MUST Permit Binary delivery of Library | provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted
+		YOU MUST Provide Library | Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities
+			ATTRIBUTE Original license | This must be distributed under the terms of the Sections above.
+		YOU MUST Provide License notices | Give prominent notice with the combined library of the fact that part of it is a work based on the Library
+		YOU MUST Reference Library | explaining where to find the accompanying uncombined form of the same work
+	YOU MUST NOT Restrict Granted rights | Such a contradiction means you cannot use both them and the Library together | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+USE CASE Header files Included in Linked work | When a "work that uses the Library" uses material from a header file that is part of the Library, the object code for the work may be a derivative work of the Library even though the source code is not
+	IF Substantial work | If such an object file uses only numerical parameters, data structure layouts and accessors, and small macros and small inline functions
+		ATTRIBUTE More than 10 lines of code | ten lines or less in length
+		YOU MUST Use GPL-2.0-or-later For Library AND Linked work | You may opt to apply the terms of the ordinary GNU General Public License | This option is useful when you wish to copy part of the code of the Library into a program that is not a library. 
+			YOU MUST Provide Source code Of Library AND Linked work | You may opt to apply the terms of the ordinary GNU General Public License
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY GPL-2.0-or-later | You may opt to apply the terms of the ordinary GNU General Public License instead of this License
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY LGPL-3.0-or-later | either version 2.1 of the License, or (at your option) any later version
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0 || It has also been designated as GPL compatible by the Free Software Foundation (FSF).
+DEPENDING COMPATIBILITY EPL-2.0 || "Secondary License" means*the GNU General Public License, Version 2.0 | "This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}." | Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
+INCOMPATIBILITY Apache-1.0 | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY Apache-1.1 | The end-user documentation included with the redistribution, if any, must include the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY Apache-2.0 | You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License*only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY BSD-4-Clause | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY BSD-4-Clause-UC | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY FTL | If you use our work, you must acknowledge us | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY IJG | If only executable code is distributed, then the accompanying documentation must state that "this software is based in part on the work of the Independent JPEG Group" | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY OpenSSL | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY Python-2.0 | In the event Licensee prepares a derivative work*agrees to include in any such work a brief summary of the changes made to Python. | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Brief summary: The requirement of the Python license to provide a brief summary of the changes may definitely be seen as a further restriction the final license prohibits to impose, since it requires to describe the changes rather than only to mention the fact that changes were made and such brief summary must be included in source code and binary delivery. However, another interpretation may argue that the final license requires at least disclosure, though not always inclusion, of the complete corresponding source code which enables a sufficiently well trained engineer to extract the differences, understand the changes and derive a summary which then would be, at least partly, in line with the Python license requirement.
+INCOMPATIBILITY zlib-acknowledgement | an acknowledgment (see the following) in the product documentation is required | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY XFree86-1.1 | must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors" | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+PATENT HINTS Yes | any patent license obtained for a version of the library must be consistent with the full freedom of use specified in this license | any patent must be licensed for everyone's free use | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+COPYLEFT CLAUSE Yes | under the terms of this License

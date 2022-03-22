@@ -1,0 +1,1 @@
+The action to Delete means either the act of removing a word, several words or entire sections from a text file or the removal of an entire file or several files, even recursively, from a directory.

@@ -1,0 +1,14 @@
+USE CASE Source code delivery | Redistribution and use in source*forms*are permitted
+	YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice
+	YOU MUST Forward License text | permission notice | Redistributions of source code must retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain the*following disclaimer.
+	YOU MUST NOT Appropriate | The origin of this software must not be misrepresented; you must not claim that you wrote the original software
+	IF Software modification | Altered source versions
+		YOU MUST Mark | Altered source versions must be plainly marked as such
+		YOU MUST NOT Appropriate | Altered source versions*must not be misrepresented as being the original software
+		YOU MUST NOT Promote | The name of the author may not be used to endorse or promote products derived from this software
+USE CASE Binary delivery | Redistribution and use in*binary forms*are permitted
+	YOU MUST NOT Appropriate | The origin of this software must not be misrepresented; you must not claim that you wrote the original software
+	IF Software modification | products derived from this software
+		YOU MUST NOT Promote | The name of the author may not be used to endorse or promote products derived from this software
+PATENT HINTS Yes | PATENTS: To the best of my knowledge, bzip2 and libbzip2 do not use any patented algorithms. However, I do not have the resources to carry out a patent search. Therefore I cannot give any guarantee of the above statement.

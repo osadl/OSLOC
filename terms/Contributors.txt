@@ -1,0 +1,2 @@
+A particular piece of source code may have a history of contributions by a number of parties including the original contributor. All such authors are referred to as Contributors.
+

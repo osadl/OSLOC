@@ -1,0 +1,7 @@
+USE CASE Source code delivery | Redistributions of source code
+	YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice
+	YOU MUST Forward License text | Redistributions of source code must retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain*the following disclaimer
+	YOU MUST NOT Promote | Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software
+USE CASE Binary delivery | Redistributions in binary form
+	YOU MUST NOT Promote | Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software

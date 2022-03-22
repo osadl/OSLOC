@@ -1,0 +1,1 @@
+The language construct EITHER is used to start a list of optional license obligations at least one of which must be fulfilled.

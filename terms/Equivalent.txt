@@ -1,0 +1,1 @@
+A service may offer identical functions as another one, a mechanism may behave in the same way as another mechanism, and a legal term may have the same meaning as another legal term. Such pairs of services, mechanisms and legal terms are referred to as Equivalent.

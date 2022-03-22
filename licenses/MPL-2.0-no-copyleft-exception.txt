@@ -1,0 +1,45 @@
+USE CASE Source code delivery | All distribution of Covered Software in Source Code Form,
+	YOU MUST Provide License notice | You must inform recipients that the Source Code Form of the Covered Software is governed by the terms of this License
+	YOU MUST Reference License text | You must inform recipients*how they can obtain a copy of this License
+	YOU MUST NOT Modify Legal notices | You may not remove or alter the substance of any license notices (including copyright notices, patent notices, disclaimers of warranty, or limitations of liability)
+	IF Service offerings | You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations
+		ATTRIBUTE NOT Transferable | However, You may do so only on Your own behalf, and not on behalf of any Contributor. You must make it absolutely clear that any such warranty, support, indemnity, or liability obligation is offered by You alone
+		YOU MUST Indemnify Other contributors | You hereby agree to indemnify every Contributor for any liability
+	IF Software modification | Modifications that You create or to which You contribute
+		YOU MUST Grant License | must be under the terms of this License
+			ATTRIBUTE Original license | must be under the terms of this License
+	YOU MUST NOT Restrict Granted rights | You may not attempt to alter or restrict the recipients' rights || Legal and/or other means: The wording 'alter or restrict' along with the term 'rights' in the context of a license text could be interpreted in such a way that it merely refers to legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'alter or restrict the rights'.
+USE CASE Binary delivery | If You distribute Covered Software in Executable Form
+	YOU MUST Inform Recipients | You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form
+		ATTRIBUTE Delayed source code delivery | must also be made available in Source Code Form*You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form
+			ATTRIBUTE Reasonable | You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form by reasonable means
+			ATTRIBUTE Timely | You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form*in a timely manner
+			ATTRIBUTE No profit | You must inform recipients of the Executable Form how they can obtain a copy of such Source Code Form*at a charge no more than the cost of distribution to the recipient
+	USE CASE License change | or sublicense it under different terms
+		YOU MUST NOT Restrict Granted rights For Source code | the license for the Executable Form does not attempt to limit or alter the recipients' rights in the Source Code Form under this License || Legal and/or other means: The wording 'limit or alter' along with the term 'rights' in the context of a license text could be interpreted in such a way that it merely refers to legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'limit or alter the rights'.
+	IF Service offerings | You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations
+		ATTRIBUTE NOT Transferable | However, You may do so only on Your own behalf, and not on behalf of any Contributor. You must make it absolutely clear that any such warranty, support, indemnity, or liability obligation is offered by You alone
+		YOU MUST Indemnify Other contributors | You hereby agree to indemnify every Contributor for any liability
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY MPL-2.0
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0
+COPYLEFT CLAUSE Yes | must be under the terms of this License | This Source Code Form is "Incompatible With Secondary Licenses"
+PATENT HINTS Yes | Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license: | (b) under Patent Claims of such Contributor to make, use, sell, offer for sale, have made, import, and otherwise transfer either its Contributions or its Contributor Version | If You initiate litigation against any entity by asserting a patent infringement claim (excluding declaratory judgment actions, counter-claims, and cross-claims) alleging that a Contributor Version directly or indirectly infringes any patent, then the rights granted to You by any and all Contributors for the Covered Software under Section 2.1 of this License shall terminate

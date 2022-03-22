@@ -1,0 +1,1 @@
+A combined work between an application and a library or between several libraries may be separated in such a way that the libraries may be handled individually. Such libraries are then referred to as Uncombined. 

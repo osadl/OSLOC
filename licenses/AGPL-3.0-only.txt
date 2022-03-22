@@ -1,0 +1,125 @@
+USE CASE Source code delivery | You may convey verbatim copies of the Program's source code as you receive it
+	YOU MUST Provide Copyright notice | provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy 
+	YOU MUST NOT Modify License notices | keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code
+	YOU MUST NOT Modify Warranty disclaimer | keep intact all notices of the absence of any warranty
+	YOU MUST Forward License text | give all recipients a copy of this License
+		IF Non-permissive Additional terms | Notwithstanding any other provision of this License, for material you add to a covered work, you may*supplement the terms of this License with terms:
+			EITHER
+				YOU MUST Include Additional terms In Source code | If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files
+			OR
+				YOU MUST Reference Additional terms In Source code | If you add terms to a covered work in accord with this section, you must place, in the relevant source files*a notice indicating where to find the applicable terms.
+			YOU MUST Forward Additional terms | Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
+	IF Software modification | You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code
+		YOU MUST Provide Modification notice | carry prominent notices stating that you modified it
+		YOU MUST Provide Modification date | giving a relevant date
+		YOU MUST Grant License | You must license the entire work
+			ATTRIBUTE Original license | the entire work, as a whole, under this License
+		IF Interactive AND Displaying License announcement | interactive user interfaces
+			YOU MUST Display Appropriate legal notices | must display Appropriate Legal Notices
+	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the exercise of the rights || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+		EXCEPT IF NOT Permitted By Additional terms | Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms | All other non-permissive additional terms are considered "further restrictions"
+	YOU MUST NOT Litigate Circumvention | you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work
+USE CASE Binary delivery | You may convey a covered work in object code form
+	YOU MUST Provide Copyright notice | provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy 
+	YOU MUST NOT Modify License notices | keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code
+	YOU MUST NOT Modify Warranty disclaimer | keep intact all notices of the absence of any warranty
+	YOU MUST Provide License text | License text | give all recipients a copy of this License
+		IF Non-permissive Additional terms | Notwithstanding any other provision of this License, for material you add to a covered work, you may*supplement the terms of this License with terms:
+			EITHER
+				YOU MUST Include Additional terms In Source code | If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files
+			OR
+				YOU MUST Reference Additional terms In Source code | If you add terms to a covered work in accord with this section, you must place, in the relevant source files*a notice indicating where to find the applicable terms.
+			YOU MUST Provide Additional terms | Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
+	YOU MUST Provide Source code | provided that you also convey the machine-readable Corresponding Source
+		ATTRIBUTE Machine-readable | machine-readable
+		ATTRIBUTE Documented format | must be in a format that is publicly documented
+		ATTRIBUTE Including Tool chain information | The "Corresponding Source" for a work in object code form means all the source code needed*to modify the work | any methods, procedures, authorization keys, or other information
+	IF Binary delivery On Customary medium OR Installed
+		EITHER | You may convey a covered work in object code form*in one of these ways
+			YOU MUST Include Source code | provided that you also convey the machine-readable Corresponding Source under the terms of this License | accompanied by the Corresponding Source
+				ATTRIBUTE Customary medium | fixed on a durable physical medium customarily used for software interchange
+		OR
+			YOU MUST Provide Delayed source code delivery | provided that you also convey the machine-readable Corresponding Source under the terms of this License | with a copy of the written offer to provide the Corresponding Source | offer equivalent access to the Corresponding Source
+			YOU MUST Provide Written offer | accompanied by a written offer
+				ATTRIBUTE Duration At least 3 years | valid for at least three years
+				ATTRIBUTE Duration As long as product is supported | valid for as long as you offer spare parts or customer support for that product model
+				ATTRIBUTE Source code delivery
+					EITHER
+						ATTRIBUTE Customary medium | customarily used for software interchange,
+						ATTRIBUTE No profit | a price no more than your reasonable cost of physically performing this conveying of source
+					OR
+						ATTRIBUTE Via Internet | from a network server
+						ATTRIBUTE No charge | at no charge.
+	IF Binary delivery Via Internet | Convey the object code by offering access from a designated place
+		YOU MUST Provide Source code
+			ATTRIBUTE Via Internet | offer equivalent access to the Corresponding Source
+			ATTRIBUTE Duration As long as needed | as long as needed || Unclear : It is not clear how long the source code has to be provided, only as long as the binary delivery is available or even longer and, if so, how long?
+			IF Source code On same server | in the same way through the same place 
+				ATTRIBUTE No charge | at no further charge
+			IF Source code On other server | If the place to copy the object code is a network server, the Corresponding Source may be on a different server
+				ATTRIBUTE Equivalent | that supports equivalent copying facilities
+				YOU MUST Reference Source code | maintain clear directions next to the object code saying where to find the Corresponding Source
+	IF Binary delivery Via peer-to-peer transmission | Convey the object code using peer-to-peer transmission
+		YOU MUST Reference Source code | provided you inform other peers where*Corresponding Source of the work are being offered
+			ATTRIBUTE No charge | to the general public at no charge under
+	IF Software modification | You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code
+		YOU MUST Provide Modification notice | carry prominent notices stating that you modified it
+		YOU MUST Provide Modification date | giving a relevant date
+		YOU MUST Grant License | You must license the entire work
+			ATTRIBUTE Original license | the entire work, as a whole, under this License
+		IF Interactive AND Displaying License announcement | interactive user interfaces
+			YOU MUST Display Appropriate legal notices | must display Appropriate Legal Notices
+	IF User product | A "User Product" is either (1) a "consumer product", which means any tangible personal property which is normally used for personal, family, or household purposes | If you convey an object code work under this section in, or with, or specifically for use in, a User Product*the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term
+		YOU MUST Provide Installation information | If you convey an object code*must be accompanied by the Installation Information | any methods, procedures, authorization keys, or other information
+			EXCEPT IF Installation Is NOT Feasible | But this requirement does not apply if neither you nor any third party retains the ability to install modified object code on the User Product (for example, the work has been installed in ROM).
+	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the exercise of the rights || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+		EXCEPT IF NOT Permitted By Additional terms | Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms | All other non-permissive additional terms are considered "further restrictions"
+	YOU MUST NOT Litigate Circumvention | you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work
+USE CASE Network service | all users interacting with it remotely through a computer network
+	IF Software modification | if you modify the Program,
+		YOU MUST Provide Source code | an opportunity to receive the Corresponding Source
+			ATTRIBUTE Via Internet | providing access to the Corresponding Source from a network server
+			ATTRIBUTE No charges | at no charge,
+			ATTRIBUTE Customary method | through some standard or customary means
+COMPATIBILITY Apache-2.0 | Notwithstanding any other provision of this License, for material you add to a covered work, you may*supplement the terms of this License with terms: | f) Requiring indemnification of licensors and authors of that material by anyone who conveys the material
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY GPL-3.0-only | you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work.
+COMPATIBILITY GPL-3.0-or-later | you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work.
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY LGPL-3.0-only | you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work.
+COMPATIBILITY LGPL-3.0-or-later | you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work.
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0 || It has also been designated as GPL compatible by the Free Software Foundation (FSF).
+INCOMPATIBILITY Apache-1.0 | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY Apache-1.1 | The end-user documentation included with the redistribution, if any, must include the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY BSD-4-Clause | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License
+INCOMPATIBILITY BSD-4-Clause-UC | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
+INCOMPATIBILITY FTL | If you use our work, you must acknowledge us | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License
+INCOMPATIBILITY IJG | If only executable code is distributed, then the accompanying documentation must state that "this software is based in part on the work of the Independent JPEG Group" | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License
+INCOMPATIBILITY OpenSSL | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License
+INCOMPATIBILITY Python-2.0 | In the event Licensee prepares a derivative work*agrees to include in any such work a brief summary of the changes made to Python. | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License || Brief summary: The requirement of the Python license to provide a brief summary of the changes may definitely be seen as a further restriction the final license prohibits to impose, since it requires to describe the changes rather than only to mention the fact that changes were made and such brief summary must be included in source code and binary delivery. However, another interpretation may argue that the final license requires at least disclosure, though not always inclusion, of the complete corresponding source code which enables a sufficiently well trained engineer to extract the differences, understand the changes and derive a summary which then would be, at least partly, in line with the Python license requirement.
+INCOMPATIBILITY zlib-acknowledgement | an acknowledgment (see the following) in the product documentation is required | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License
+INCOMPATIBILITY XFree86-1.1 | must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors" | You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License
+PATENT HINTS Yes | the GPL assures that patents cannot be used to render the program non-free | you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed | Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims
+COPYLEFT CLAUSE Yes | You must license the entire work, as a whole, under this License

@@ -1,0 +1,72 @@
+USE CASE Source code delivery | The Licensor may provide the Work*in its Source Code form
+	YOU MUST NOT Modify Copyright notices | Attribution right: the Licensee shall keep intact all copyright*notices and all*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates.
+	YOU MUST NOT Modify Patent notices | Attribution right: the Licensee shall keep intact all*patent *s notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates
+	YOU MUST NOT Modify Trademark notices | Attribution right: the Licensee shall keep intact all*trademarks notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
+	YOU MUST NOT Modify License notice | Attribution right: the Licensee shall keep intact*all notices that refer to the Licence*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
+	YOU MUST NOT Modify Warranty disclaimer | Attribution right: the Licensee shall keep intact*all notices that refer*to the disclaimer of warranties. The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
+	YOU MUST Forward License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
+	IF Software modification | The Licensee must cause any Derivative Work
+		YOU MUST Grant License | If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence
+			ATTRIBUTE Original license | If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence
+		YOU MUST Provide Modification notice | The Licensee must cause any Derivative Work to carry prominent notices stating that the Work has been modified
+		YOU MUST Provide Modification date | The Licensee must cause any Derivative Work to carry prominent notices stating*the date of modification.
+	YOU MUST NOT Restrict Granted rights | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+	IF Service offerings | While distributing the Original Work or Derivative Works, You may choose to conclude an additional agreement to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or services consistent with this Licence
+		ATTRIBUTE NOT Transferable | You may act only on your own behalf and on your sole responsibility, not on behalf of the original Licensor or any other Contributor
+		YOU MUST Indemnify Other contributors | only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against such Contributor by the fact You have accepted any such warranty or additional liability
+USE CASE Binary delivery | The Licensor may provide the Work*as Executable Code.
+	EITHER | the Licensor distributes or indicates
+		YOU MUST Include Source code | If the Work is provided as Executable Code, the Licensor provides in addition a machine-readable copy of the Source Code of the Work along with each copy of the Work that the Licensor distributes
+ 			ATTRIBUTE Machine-readable | a machine-readable copy of the Source Code
+		YOU MUST NOT Modify Copyright notices | Attribution right: the Licensee shall keep intact all copyright*notices and all*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates.
+		YOU MUST NOT Modify Patent notices | Attribution right: the Licensee shall keep intact all*patent *s notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates
+		YOU MUST NOT Modify Trademark notices | Attribution right: the Licensee shall keep intact all*trademarks notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
+		YOU MUST NOT Modify License notice | Attribution right: the Licensee shall keep intact*all notices that refer to the Licence*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
+		YOU MUST NOT Modify Warranty disclaimer | Attribution right: the Licensee shall keep intact*all notices that refer*to the disclaimer of warranties. The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
+		YOU MUST Forward License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
+	OR
+		YOU MUST Provide Delayed source code delivery | indicates*a repository where the Source Code is*accessible
+		YOU MUST Reference Source code | indicates, in a notice following the copyright notice*a repository where the Source Code is*accessible
+			ATTRIBUTE No charges | a repository where the Source Code is easily and freely accessible
+			ATTRIBUTE Duration As long as distributed | accessible for as long as the Licensor continues to distribute and/or communicate the Work
+	IF Software modification | The Licensee must cause any Derivative Work
+		YOU MUST Grant License | If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence
+			ATTRIBUTE Original license | If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence
+		YOU MUST Provide Modification notice | The Licensee must cause any Derivative Work to carry prominent notices stating that the Work has been modified
+		YOU MUST Provide Modification date | The Licensee must cause any Derivative Work to carry prominent notices stating*the date of modification.
+	YOU MUST NOT Restrict Granted rights | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+	IF Service offerings | While distributing the Original Work or Derivative Works, You may choose to conclude an additional agreement to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or services consistent with this Licence
+		ATTRIBUTE NOT Transferable | You may act only on your own behalf and on your sole responsibility, not on behalf of the original Licensor or any other Contributor
+		YOU MUST Indemnify Other contributors | only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against such Contributor by the fact You have accepted any such warranty or additional liability
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0
+INCOMPATIBILITY Apache-1.0 | All advertising materials mentioning features or use of this software must display the following acknowledgment | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY Apache-1.1 | The end-user documentation included with the redistribution, if any, must include the following acknowledgment | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY BSD-4-Clause | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY BSD-4-Clause-UC | 3. All advertising materials mentioning features or use of this software must display the following acknowledgement | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence. 
+INCOMPATIBILITY FTL | If you use our work, you must acknowledge us | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY IJG | If only executable code is distributed, then the accompanying documentation must state that "this software is based in part on the work of the Independent JPEG Group" | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY OpenSSL | All advertising materials mentioning features or use of this software must display the following acknowledgment | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY Python-2.0 | In the event Licensee prepares a derivative work*agrees to include in any such work a brief summary of the changes made to Python. | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence. || Brief summary: The requirement of the Python license to provide a brief summary of the changes may definitely be seen as a further restriction the final license prohibits to impose, since it requires to describe the changes rather than only to mention the fact that changes were made and such brief summary must be included in source code and binary delivery. However, another interpretation may argue that the final license requires at least disclosure, though not always inclusion, of the complete corresponding source code which enables a sufficiently well trained engineer to extract the differences, understand the changes and derive a summary which then would be, at least partly, in line with the Python license requirement.
+INCOMPATIBILITY zlib-acknowledgement | an acknowledgment (see the following) in the product documentation is required | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+INCOMPATIBILITY XFree86-1.1 | must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors" | The Licensee (becoming Licensor) cannot offer or impose any additional terms or conditions on the Work or Derivative Work that alter or restrict the terms of the Licence.
+PATENT HINTS Yes | The Licensor grants to the Licensee royalty-free, non exclusive usage rights to any patents held by the Licensor, to the extent necessary to make use of the rights granted on the Work under this Licence.
+COPYLEFT CLAUSE Yes | Copyleft clause: If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence

@@ -1,0 +1,1 @@
+A software distribution may be accompanied not only by the documentation of the product but by other texts in printed form, on a data carrier or in a data stream. Such texts are referred to as Distribution material.  

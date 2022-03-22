@@ -1,0 +1,1 @@
+A work may be linked to another work at compile time or at run time in which case the other work is referred to as Linked work.

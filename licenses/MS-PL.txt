@@ -4,14 +4,34 @@ USE CASE Source code delivery
 	YOU MUST Forward Patent notices | patent, 
 	YOU MUST Forward Trademark notices | trademark, 
 	YOU MUST Forward License text | including a complete copy of this license
-	YOU MUST Use Original license | only under this license 
- 
-USE CASE Binary-only delivery
+	YOU MUST Use Original license | only under this license
+USE CASE Binary delivery
 	YOU MUST Grant License | each contributor grants you a non-exclusive, worldwide, royalty-free copyright license
 	YOU MUST Forward Copyright notices | you must retain all copyright
 	YOU MUST Forward Patent notices | patent, 
 	YOU MUST Forward Trademark notices | trademark, 
 	YOU MUST Use Compatible license | under a license that complies with this license
-
-PATENT HINTS Yes | each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents
-COPYLEFT CLAUSE Yes | only under this license | under a license that complies with this license
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSD-4-Clause
+COMPATIBILITY BSD-4-Clause-UC
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0
+PATENT HINTS Yes | each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents | If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+COPYLEFT CLAUSE Questionable | only under this license | under a license that complies with this license || Unclear copyleft condition : It is unclear whether "any portion of the software" assumes code changes and additions that also must be distributed "only under this license". In addition, a "license that complies with this license" may or may not be interpreted as a copyleft clause. If not, the copyleft condition would depend on the mode of delivery which would require a case-by-case assessment. Therefore, a general recommendation on the compatibility of the MS-PL license can only be given for selected cases.

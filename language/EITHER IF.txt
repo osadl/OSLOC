@@ -1,0 +1,1 @@
+The language construct EITHER IF is used to start a list of conditional license obligations. At least one of the listed conditions and the respective obligation must apply.

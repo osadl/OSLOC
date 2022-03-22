@@ -1,0 +1,1 @@
+The term Software modification relates to a situation where parts or all of an existing software is deleted, modified or expanded. A particular license may individually define the scope of Software modification, e.g. in the GPL-3.0, and may have an implication on copyleft.

@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Forward Copyright notices
+	YOU MUST Forward Copyright notices In Documentation
+	YOU MUST Forward License text In Documentation
+	YOU MUST NOT Promote

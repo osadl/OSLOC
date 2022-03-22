@@ -1,0 +1,1 @@
+A given functionality or feature may be rendered inactive. Such action is referred to as to Disable.

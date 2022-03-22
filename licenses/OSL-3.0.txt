@@ -1,0 +1,58 @@
+USE CASE Source code delivery | distribute or communicate copies of the Original Work and Derivative Works to the public
+	YOU MUST Reference License text OSL-3.0 | copies of Original Work or Derivative Works that You distribute or communicate shall be licensed under this Open Software License | obtain the express assent of recipients to the terms of this License || No explicit requirement: The OSL-3.0 does not explicitly require to provide or reference the license text but in some jurisdictions the requirement of an effective consent to the license may require that the user can obtain knowledge of the license terms before acceptance.
+	YOU MUST Search License acceptance | obtain the express assent of recipients to the terms of this License
+		ATTRIBUTE Reasonable | a reasonable effort under the circumstances
+	IF Software modification | in the Source Code of any Derivative Works that You create
+		YOU MUST Grant License | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed
+			ATTRIBUTE Original license | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed under this Open Software License
+		YOU MUST Forward Copyright notices | You must retain, in the Source Code of any Derivative Works that You create, all copyright*notices from the Source Code of the Original Work
+		YOU MUST Forward Patent notices | You must retain, in the Source Code of any Derivative Works that You create, all* patent, *notices from the Source Code of the Original Work
+		YOU MUST Forward Trademark notices | You must retain, in the Source Code of any Derivative Works that You create, all*trademark notices from the Source Code of the Original Work
+		YOU MUST Forward License notice | You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing
+		YOU MUST Provide Modification notice | You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.
+		YOU MUST NOT Promote | Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work
+USE CASE Binary delivery OR Network service | to translate*the Original Work,*to distribute or communicate copies of the Original Work and Derivative Works to the public | use, distribution, or communication of the Original Work or Derivative Works in any way such that the Original Work or Derivative Works may be used by anyone other than You, whether those works are distributed or communicated to those persons or made available as an application intended for use over a network
+	YOU MUST Reference License text OSL-3.0 | copies of Original Work or Derivative Works that You distribute or communicate shall be licensed under this Open Software License | obtain the express assent of recipients to the terms of this License || No explicit requirement: The OSL-3.0 does not explicitly require to provide or reference the license text but in some jurisdictions the requirement of an effective consent to the license may require that the user can obtain knowledge of the license terms before acceptance.
+	YOU MUST Search License acceptance | obtain the express assent of recipients to the terms of this License
+		ATTRIBUTE Reasonable | a reasonable effort under the circumstances
+	IF Software modification | to translate, adapt, alter, transform, modify, or arrange the Original Work, thereby creating derivative works
+		YOU MUST Grant License | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed
+			ATTRIBUTE Original license | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed under this Open Software License
+		YOU MUST Forward Copyright notices | You must retain, in the Source Code of any Derivative Works that You create, all copyright*notices from the Source Code of the Original Work
+		YOU MUST Forward Patent notices | You must retain, in the Source Code of any Derivative Works that You create, all* patent, *notices from the Source Code of the Original Work
+		YOU MUST Forward Trademark notices | You must retain, in the Source Code of any Derivative Works that You create, all*trademark notices from the Source Code of the Original Work
+		YOU MUST Forward License notice | You must retain, in the Source Code of any Derivative Works that You create*any notices of licensing
+		YOU MUST Provide Modification notice | You must cause the Source Code for any Derivative Works that You create to carry a prominent Attribution Notice reasonably calculated to inform recipients that You have modified the Original Work.
+		EITHER
+			YOU MUST Include Source code Of Modification | Licensor agrees to provide a machine-readable copy of the Source Code of the Original Work along with each copy of the Original Work that Licensor distributes
+				ATTRIBUTE Machine-readable | to provide a machine-readable copy of the Source Code
+		OR
+			YOU MUST Provide Delayed source code delivery Of Modification | Licensor reserves the right to satisfy this obligation by placing a machine-readable copy of the Source Code in an information repository
+				ATTRIBUTE Machine-readable | by placing a machine-readable copy of the Source Code
+				ATTRIBUTE Via Internet | in an information repository
+				ATTRIBUTE No profit | reasonably calculated to permit inexpensive and convenient access
+				ATTRIBUTE Duration As long as distributed | as long as Licensor continues to distribute the Original Work.
+		YOU MUST NOT Promote | Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | Open Software License (OSL)*v. 3.0
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY NTP
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COMPATIBILITY ZPL-2.0
+PATENT HINTS Yes | Licensor grants You a worldwide, royalty-free, non-exclusive, sublicensable license, under patent claims owned or controlled by the Licensor that are embodied in the Original Work as furnished by the Licensor | Licensor warrants that*the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You under the terms of this License with the permission of the contributor(s) of those*patent rights | This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, against Licensor or any licensee alleging that the Original Work infringes a patent
+COPYLEFT CLAUSE Yes | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed under this Open Software License
