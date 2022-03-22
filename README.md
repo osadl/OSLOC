@@ -1,4 +1,4 @@
-# Open Source License Obligations Checklists
+# Open Source License Obligations Checklists (OSLOC)
 The official project website is [https://www.osadl.org/OSLOC](https://www.osadl.org/OSLOC).
 ## Background and goal of the project
 Whenever Open Source software is copied and distributed which typically is permitted by every type of Open Source license, a number of obligations and prohibitions are imposed on the distributor. It is very common for the recipients of such software to recursively redistribute it in such a way that a chain of distributors and recipients is created &ndash; all of them having to fulfill the same license obligations. This project aims to establish a common understanding of how these obligations are to be fulfilled that is accepted by distributors and copyright holders and trusted by all members of the distribution chain.
@@ -27,6 +27,6 @@ Copyright (c) 2018-2022 Open Source Automation Development Lab (OSADL) eG
 
 Licensed under CC0-1.0.
 
-To the extent possible under law, the person who associated CC0-1.0 with OSSLCC has waived all copyright and related or neighboring rights to OSSLCC.
+To the extent possible under law, the person who associated CC0-1.0 with OSLOC has waived all copyright and related or neighboring rights to OSLOC.
 
 For the original license text see [http://creativecommons.org/publicdomain/zero/1.0/](http://creativecommons.org/publicdomain/zero/1.0/).
