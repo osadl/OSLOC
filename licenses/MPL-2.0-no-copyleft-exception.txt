@@ -20,6 +20,7 @@ USE CASE Binary delivery | If You distribute Covered Software in Executable Form
 	IF Service offerings | You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations
 		ATTRIBUTE NOT Transferable | However, You may do so only on Your own behalf, and not on behalf of any Contributor. You must make it absolutely clear that any such warranty, support, indemnity, or liability obligation is offered by You alone
 		YOU MUST Indemnify Other contributors | You hereby agree to indemnify every Contributor for any liability
+COMPATIBILITY Apache-2.0
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause

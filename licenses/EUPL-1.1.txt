@@ -17,7 +17,7 @@ USE CASE Source code delivery | The Licensor may provide the Work*in its Source 
 USE CASE Binary delivery | The Licensor may provide the Work*as Executable Code.
 	EITHER | the Licensor distributes or indicates
 		YOU MUST Include Source code | If the Work is provided as Executable Code, the Licensor provides in addition a machine-readable copy of the Source Code of the Work along with each copy of the Work that the Licensor distributes
- 			ATTRIBUTE Machine-readable | a machine-readable copy of the Source Code
+			ATTRIBUTE Machine-readable | a machine-readable copy of the Source Code
 		YOU MUST NOT Modify Copyright notices | Attribution right: the Licensee shall keep intact all copyright*notices and all*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates.
 		YOU MUST NOT Modify Patent notices | Attribution right: the Licensee shall keep intact all*patent *s notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates
 		YOU MUST NOT Modify Trademark notices | Attribution right: the Licensee shall keep intact all*trademarks notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
@@ -25,8 +25,8 @@ USE CASE Binary delivery | The Licensor may provide the Work*as Executable Code.
 		YOU MUST NOT Modify Warranty disclaimer | Attribution right: the Licensee shall keep intact*all notices that refer*to the disclaimer of warranties. The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
 		YOU MUST Forward License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
 	OR
-		YOU MUST Provide Delayed source code delivery | indicates*a repository where the Source Code is*accessible
-		YOU MUST Reference Source code | indicates, in a notice following the copyright notice*a repository where the Source Code is*accessible
+		YOU MUST Reference Source code | indicates*a repository where the Source Code is*accessible
+			ATTRIBUTE Notice Following Copyright notice | in a notice following the copyright notice  
 			ATTRIBUTE No charges | a repository where the Source Code is easily and freely accessible
 			ATTRIBUTE Duration As long as distributed | accessible for as long as the Licensor continues to distribute and/or communicate the Work
 	IF Software modification | The Licensee must cause any Derivative Work

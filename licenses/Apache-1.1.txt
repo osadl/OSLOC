@@ -6,7 +6,7 @@ USE CASE Source code delivery | Redistributions of source code
 		YOU MUST Credit Verbatim In Documentation "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)." | The end-user documentation included with the redistribution, if any, must include the following acknowledgment: "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)."
 	IF Software modification | derived from this software
 		YOU MUST NOT Promote using "Apache" or "Apache Software Foundation" | The names "Apache" and "Apache Software Foundation" must not be used to endorse or promote products derived from this software
-		YOU MUST NOT Use "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] in product name | Products derived from this software may not be called "Apache", nor may "Apache" appear in their name
+		YOU MUST NOT Use "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] in Product name | Products derived from this software may not be called "Apache", nor may "Apache" appear in their name
 USE CASE Binary delivery | Redistributions in binary form
 	IF Documentation | The end-user documentation*if any
 		YOU MUST Credit Verbatim In Documentation "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)." | The end-user documentation included with the redistribution, if any, must include the following acknowledgment: "This product includes software developed by the Apache Software Foundation (http://www.apache.org/)."
@@ -15,4 +15,4 @@ USE CASE Binary delivery | Redistributions in binary form
 	YOU MUST Forward Warranty disclaimer In Documentation OR Distribution material | reproduce*the following disclaimer
 	IF Software modification | derived from this software
 		YOU MUST NOT Promote using "Apache" or "Apache Software Foundation" | The names "Apache" and "Apache Software Foundation" must not be used to endorse or promote products derived from this software
-		YOU MUST NOT Use "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] in product name | Products derived from this software may not be called "Apache", nor may "Apache" appear in their name
+		YOU MUST NOT Use "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] in Product name | Products derived from this software may not be called "Apache", nor may "Apache" appear in their name

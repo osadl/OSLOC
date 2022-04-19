@@ -20,6 +20,7 @@ USE CASE Binary delivery
 	IF Service offerings
 		ATTRIBUTE NOT Transferable
 		YOU MUST Indemnify Other contributors
+COMPATIBILITY Apache-2.0
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause

@@ -81,6 +81,7 @@ https://www.osadl.org/fileadmin/checklists/terms/Other%20contributors.txt
 https://www.osadl.org/fileadmin/checklists/terms/Patent%20holder.txt
 https://www.osadl.org/fileadmin/checklists/terms/Patent%20license.txt
 https://www.osadl.org/fileadmin/checklists/terms/Patent%20notice.txt
+https://www.osadl.org/fileadmin/checklists/terms/Product%20name.txt
 https://www.osadl.org/fileadmin/checklists/terms/Reasonable.txt
 https://www.osadl.org/fileadmin/checklists/terms/Recipient.txt
 https://www.osadl.org/fileadmin/checklists/terms/Relinking.txt

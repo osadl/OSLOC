@@ -7,7 +7,7 @@ USE CASE Source code delivery | Source Code form must be distributed only under 
 		YOU MUST Grant License | You have sufficient rights to grant the rights conveyed by this License.
 			ATTRIBUTE Original license | The Modifications that You create or to which You contribute are governed by the terms of this License
 		YOU MUST Provide Copyright notice | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
-	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients rights hereunder
+	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder.
 USE CASE Binary delivery | make available in Executable form
 	YOU MUST Provide License text | You may distribute the Executable form of the Covered Software under the terms of this License || Lack of explicit obligation : The license does not explicitly state that the license text must be provided along with the software; however, the term "to distribute under the terms of a license" may indirectly imply that the license text must be provided, since one cannot "distribute under a license" without, at least, showing the text of the license to a licensee. A more defensive approach, however, would be to not only show, but hand it over to the licensee.
 	YOU MUST NOT Modify Copyright notices | You may not remove or alter any copyright*notices contained within the Covered Software
@@ -24,7 +24,7 @@ USE CASE Binary delivery | make available in Executable form
 		YOU MUST Grant License | You have sufficient rights to grant the rights conveyed by this License.
 			ATTRIBUTE Original license | The Modifications that You create or to which You contribute are governed by the terms of this License
 		YOU MUST Provide Copyright notice | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
-	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients rights hereunder
+	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder.
 	USE CASE License change | or under the terms of a license of Your choice
 		YOU MUST Use Compatible license | provided that You are in compliance with the terms of this License
 		YOU MUST Indemnify Other contributors | You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of any such terms You offer
@@ -47,5 +47,5 @@ COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
-PATENT HINTS Yes | each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license | under Patent Claims | If You assert a patent infringement claim*against Initial Developer or a Contributor*alleging that the Participant Software*directly or indirectly infringes any patent, then any and all rights granted directly or indirectly to You by such Participant*and all Contributors*this License shall*terminate prospectively and automatically
+PATENT HINTS Yes | each Contributor hereby grants You a world-wide, royalty-free, non-exclusive license | under Patent Claims | If You assert a patent infringement claim*against Initial Developer or a Contributor*alleging that the Participant Software*directly or indirectly infringes any patent, then any and all rights granted directly or indirectly to You by such Participant*and all Contributors*this License shall*terminate prospectively and automatically |  If You assert a patent infringement claim against Participant alleging that the Participant Software directly or indirectly infringes any patent where such claim is resolved (such as by license or settlement) prior to the initiation of patent infringement litigation, then the reasonable value of the licenses granted by such Participant under Sections 2.1 or 2.2 shall be taken into account in determining the amount or value of any payment or license.
 COPYLEFT CLAUSE Yes | The Modifications that You create or to which You contribute are governed by the terms of this License

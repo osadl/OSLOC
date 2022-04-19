@@ -1,0 +1,4 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Forward Copyright notices | provided that the above copyright notice*appear in all copies
+	YOU MUST Forward License text | this paragraph*appear in all copies
+	YOU MUST Forward Warranty disclaimer | the following two paragraphs appear in all copies

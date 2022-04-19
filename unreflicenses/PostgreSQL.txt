@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Forward Copyright notices
+	YOU MUST Forward License text
+	YOU MUST Forward Warranty disclaimer
+

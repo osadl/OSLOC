@@ -26,7 +26,6 @@ USE CASE Binary delivery
 		YOU MUST Forward License text
 	OR
 		YOU MUST Reference Source code
-			ATTRIBUTE Notice Following Copyright notice
 			ATTRIBUTE No charges
 			ATTRIBUTE Duration As long as distributed
 	IF Software modification
@@ -57,7 +56,6 @@ COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
-COMPATIBILITY ZPL-2.0
 INCOMPATIBILITY Apache-1.0
 INCOMPATIBILITY Apache-1.1
 INCOMPATIBILITY BSD-4-Clause
