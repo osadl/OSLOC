@@ -1,20 +1,21 @@
 USE CASE Source code delivery | made available in source code form
-	YOU MUST Forward License text | a copy of this Agreement must be included with each copy of the Program.
-	YOU MUST NOT Modify License text | No one other than IBM has the right to modify this Agreement
+	YOU MUST Forward OR Provide License text | a copy of this Agreement must be included with each copy of the Program.
 	YOU MUST Credit Verbatim "Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved." | must include the following*in the Program*Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
 		ATTRIBUTE Highlighted | in a conspicuous location
 	IF Software modification | such derivative works
 		YOU MUST Grant License | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license
 			ATTRIBUTE Original license | it must be made available under this Agreement
 		YOU MUST Provide Copyright notice | must identify itself as the originator of its Contribution
+	IF Commercial distribution | Commercial distributors of software
+		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
 USE CASE Binary delivery | in object code form
 	YOU MUST Credit Verbatim "Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved." | must include the following*in the Program*Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
 		ATTRIBUTE Highlighted | in a conspicuous location
 	EITHER
-		YOU MUST Include Source code | states that source code for the Program is available
+		YOU MUST Provide Source code | states that source code for the Program is available
 	OR
 		YOU MUST Provide Delayed source code delivery | states that source code for the Program is available*informs licensees how to obtain it
-		YOU MUST Provide Written offer | informs licensees how to obtain it
+			ATTRIBUTE Inform Recipient | informs licensees how to obtain it
 		EITHER | on or through a medium
 			ATTRIBUTE Customary medium | in a reasonable manner on*a medium customarily used for software exchange
 		OR
@@ -28,8 +29,8 @@ USE CASE Binary delivery | in object code form
 			ATTRIBUTE Effective | effectively excludes on behalf of all Contributors all liability
 		IF Service offerings | any provisions which differ from this Agreement
 			ATTRIBUTE NOT Transferable | are offered by that Contributor alone and not by any other party
-USE CASE Commercial distribution | Commercial distributors of software
-	YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+	IF Commercial distribution | Commercial distributors of software
+		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause

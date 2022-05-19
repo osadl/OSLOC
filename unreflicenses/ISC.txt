@@ -1,3 +1,4 @@
 USE CASE Source code delivery OR Binary delivery
-	YOU MUST Forward Copyright notices
-	YOU MUST Forward License text
+	YOU MUST Forward OR Provide Copyright notices
+	YOU MUST Forward OR Provide License text
+

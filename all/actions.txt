@@ -1,5 +1,4 @@
 https://www.osadl.org/fileadmin/checklists/actions/Abuse.txt
-https://www.osadl.org/fileadmin/checklists/actions/Appropriate.txt
 https://www.osadl.org/fileadmin/checklists/actions/Credit.txt
 https://www.osadl.org/fileadmin/checklists/actions/Delete.txt
 https://www.osadl.org/fileadmin/checklists/actions/Disable.txt
@@ -18,6 +17,7 @@ https://www.osadl.org/fileadmin/checklists/actions/Indemnify.txt
 https://www.osadl.org/fileadmin/checklists/actions/Inform.txt
 https://www.osadl.org/fileadmin/checklists/actions/Litigate.txt
 https://www.osadl.org/fileadmin/checklists/actions/Mark.txt
+https://www.osadl.org/fileadmin/checklists/actions/Misrepresent.txt
 https://www.osadl.org/fileadmin/checklists/actions/Modify.txt
 https://www.osadl.org/fileadmin/checklists/actions/Notify.txt
 https://www.osadl.org/fileadmin/checklists/actions/Permit.txt

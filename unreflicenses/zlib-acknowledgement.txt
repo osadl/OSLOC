@@ -1,14 +1,17 @@
 USE CASE Source code delivery
-	YOU MUST Forward Warranty disclaimer
 	YOU MUST Forward License text
-	YOU MUST NOT Appropriate
+	YOU MUST Forward Warranty disclaimer
+	YOU MUST NOT Misrepresent Authorship
 	IF Software modification
-		YOU MUST Mark
-
+		YOU MUST Mark Modified work
+		YOU MUST NOT Misrepresent Modified work
+	IF Commercial distribution
+		YOU MUST Credit Verbatim "Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002 Philip A. Craig"
 USE CASE Binary delivery
-	YOU MUST NOT Appropriate
+	YOU MUST NOT Misrepresent Authorship
 	IF Software modification
-		YOU MUST Mark
+		YOU MUST Mark Modified work
+		YOU MUST NOT Misrepresent Modified work
+	IF Commercial distribution
+		YOU MUST Credit Verbatim "Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002 Philip A. Craig"
 
-USE CASE Commercial distribution
-	YOU MUST Credit Verbatim "Portions Copyright (c) 2002-2007 Charlie Poole or Copyright (c) 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov or Copyright (c) 2000-2002 Philip A. Craig"

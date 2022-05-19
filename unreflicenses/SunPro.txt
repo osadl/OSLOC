@@ -1,2 +1,5 @@
 USE CASE Source code delivery OR Binary delivery
 	YOU MUST Forward License text
+		ATTRIBUTE Including Copyright notice
+
+

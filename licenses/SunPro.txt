@@ -1,2 +1,4 @@
 USE CASE Source code delivery OR Binary delivery
 	YOU MUST Forward License text | provided that this notice is preserved
+		ATTRIBUTE Including Copyright notice | Copyright (C) 1993 by Sun Microsystems, Inc. All rights reserved. | Developed at SunPro, a Sun Microsystems, Inc. business. | provided that this notice is preserved || With or without copyright notice : The term "notice" in the SunPro License may refer to the entire text including the copyright notice and the "Developed at" text.
+

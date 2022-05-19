@@ -16,6 +16,8 @@ USE CASE Source code delivery
 			ATTRIBUTE Effective
 		YOU MUST NOT Restrict Granted rights
 		YOU MUST Use Identical License obligations
+	IF Commercial distribution
+		YOU MUST Indemnify Other contributors
 USE CASE Binary delivery
 	YOU MUST Notify License
 	EITHER
@@ -41,8 +43,8 @@ USE CASE Binary delivery
 			ATTRIBUTE Effective
 		YOU MUST NOT Restrict Granted rights
 		YOU MUST Use Identical License obligations
-USE CASE Commercial distribution
-	YOU MUST Indemnify Other contributors
+	IF Commercial distribution
+		YOU MUST Indemnify Other contributors
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause

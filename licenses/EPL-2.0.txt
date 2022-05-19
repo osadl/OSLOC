@@ -16,6 +16,8 @@ USE CASE Source code delivery | When the Program is Distributed as Source Code
 			ATTRIBUTE Effective | effectively excludes on behalf of all other Contributors all liability
 		YOU MUST NOT Restrict Granted rights | does not attempt to limit or alter the recipients' rights
 		YOU MUST Use Identical License obligations | under a license that satisfies the requirements of this section
+	IF Commercial distribution | Commercial distributors of software
+		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
 USE CASE Binary delivery | in any form
 	YOU MUST Notify License | accompany the Program with a statement that the Source Code for the Program is available under this Agreement
 	EITHER
@@ -41,8 +43,8 @@ USE CASE Binary delivery | in any form
 			ATTRIBUTE Effective | effectively excludes on behalf of all other Contributors all liability
 		YOU MUST NOT Restrict Granted rights | does not attempt to limit or alter the recipients' rights
 		YOU MUST Use Identical License obligations | under a license that satisfies the requirements of this section
-USE CASE Commercial distribution | Commercial distributors of software
-	YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+	IF Commercial distribution | Commercial distributors of software
+		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause

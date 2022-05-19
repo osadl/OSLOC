@@ -1,5 +1,8 @@
-YOU MUST Forward Copyright notices In Files | (a) this copyright*notice appear with all copies of the Data Files or Software
-YOU MUST Forward License text In Files | (a) this*permission notice appear with all copies of the Data Files or Software
-YOU MUST Provide Copyright notices In Documentation | (b) this copyright*notice appear in associated Documentation
-YOU MUST Provide License text In Documentation | (b) this*permission notice appear in associated Documentation
-YOU MUST NOT Promote | Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings
+USE CASE Source code delivery OR Binary delivery
+	EITHER | provided that either
+		YOU MUST Provide Copyright notices | (a) this copyright*notice appear with all copies of the Data Files or Software
+		YOU MUST Provide License text | (a) this*permission notice appear with all copies of the Data Files or Software
+	OR
+		YOU MUST Provide Copyright notices In Documentation | (b) this copyright*notice appear in associated Documentation
+		YOU MUST Provide License text In Documentation | (b) this*permission notice appear in associated Documentation
+	YOU MUST NOT Promote | Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings

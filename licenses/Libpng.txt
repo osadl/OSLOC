@@ -1,7 +1,7 @@
 USE CASE Source code delivery | Permission is hereby granted to use, copy, modify, and distribute this source code
-	YOU MUST NOT Appropriate | The origin of this source code must not be misrepresented.
+	YOU MUST NOT Misrepresent Authorship | The origin of this source code must not be misrepresented.
 	YOU MUST Forward License text | This Copyright notice may not be removed or altered
 	IF Software modification | Altered versions | or altered source distribution
-		YOU MUST Mark | Altered versions must be plainly marked as such
-		YOU MUST NOT Appropriate | Altered versions*must not be misrepresented as being the original source
+		YOU MUST Mark Modified work | Altered versions must be plainly marked as such
+		YOU MUST NOT Misrepresent Modified work | Altered versions*must not be misrepresented as being the original source
 USE CASE Binary delivery | The Contributing Authors and Group 42, Inc. specifically permit*the use of this source code as a component*in commercial products

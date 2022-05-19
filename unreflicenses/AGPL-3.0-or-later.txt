@@ -16,7 +16,7 @@ USE CASE Source code delivery
 		YOU MUST Provide Modification date
 		YOU MUST Grant License
 			ATTRIBUTE Original license
-		IF Interactive AND Display License announcement
+		IF Interactive AND Displaying License announcement
 			YOU MUST Display Appropriate legal notices
 	YOU MUST NOT Restrict Granted rights
 		EXCEPT IF NOT Permitted By Additional terms
@@ -71,7 +71,7 @@ USE CASE Binary delivery
 		YOU MUST Provide Modification date
 		YOU MUST Grant License
 			ATTRIBUTE Original license
-		IF Interactive AND Display License announcement
+		IF Interactive AND Displaying License announcement
 			YOU MUST Display Appropriate legal notices
 	IF User product
 		YOU MUST Provide Installation information

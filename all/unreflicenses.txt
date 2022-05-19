@@ -9,6 +9,7 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/Apache-1.1.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Apache-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Artistic-1.0-Perl.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Artistic-2.0.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-1-Clause.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause-Patent.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-3-Clause.txt
@@ -18,6 +19,7 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-Source-Code.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CC0-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CDDL-1.0.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/CDDL-1.1.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CPL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/EFL-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/EPL-1.0.txt
@@ -54,6 +56,8 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/NBPL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/NTP.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/OSL-3.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/OpenSSL.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/PHP-3.01.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/PostgreSQL.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Python-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Qhull.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/RPL-1.5.txt

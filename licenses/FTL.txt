@@ -1,5 +1,6 @@
 USE CASE Source code delivery | Redistribution of source code must
-	YOU MUST Forward License text | must retain this license file*unaltered;
+	YOU MUST Forward License text | must retain this license file
+	YOU MUST NOT Modify License text | this license file (`FTL.TXT') unaltered
 	IF Software modification | any additions, deletions or changes to the original files
 		YOU MUST Provide Modification report | any additions, deletions or changes to the original files must be clearly indicated in accompanying documentation
 	YOU MUST Forward Copyright notices | The copyright notices of the unaltered, original files must be preserved in all copies of source files.

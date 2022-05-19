@@ -1,5 +1,5 @@
 USE CASE Source code delivery OR Binary delivery
-	YOU MUST Forward Copyright notices | provided that*the above copyright notice appears in all copies
+	YOU MUST Forward OR Provide Copyright notices | provided that*the above copyright notice appears in all copies
 	YOU MUST Provide Copyright notice In Documentation | provided that*that copyright notice*appear in supporting documentation
 	YOU MUST Provide License text In Documentation | provided that*this permission notice*appear in supporting documentation
 	YOU MUST NOT Promote | provided that*the name of CMU and The Regents of the University of California not be used in advertising or publicity pertaining to distribution of the software

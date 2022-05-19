@@ -4,6 +4,7 @@ https://www.osadl.org/fileadmin/checklists/terms/Any%20third%20party.txt
 https://www.osadl.org/fileadmin/checklists/terms/Appropriate%20legal%20notices.txt
 https://www.osadl.org/fileadmin/checklists/terms/Appropriately.txt
 https://www.osadl.org/fileadmin/checklists/terms/Attribution%20notice.txt
+https://www.osadl.org/fileadmin/checklists/terms/Authorship.txt
 https://www.osadl.org/fileadmin/checklists/terms/Beginning.txt
 https://www.osadl.org/fileadmin/checklists/terms/Binary%20delivery.txt
 https://www.osadl.org/fileadmin/checklists/terms/Binary-only%20delivery.txt

@@ -5,7 +5,7 @@ USE CASE Source code delivery | Redistribution*in source
 	YOU MUST Credit Verbatim "This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;" | Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;"
 	IF Software modification | Products derived from this software
 		YOU MUST NOT Promote Using "PHP" | The name "PHP" must not be used to endorse or promote products derived from this software
-		YOU MUST NOT Use "PHP" As Product name | Products derived from this software may not be called "PHP", nor may "PHP" appear in their name
+		YOU MUST NOT Use "PHP" In Product name | Products derived from this software may not be called "PHP", nor may "PHP" appear in their name
 		YOU MUST NOT Prepend "PHP" To Product name | You may indicate that your software works in conjunction with PHP by saying "Foo for PHP" instead of calling it "PHP Foo" or "phpfoo" 
 USE CASE Binary delivery | Redistribution*binary forms
 	YOU MUST Provide Copyright notices In Documentation OR Distribution material | must reproduce the above copyright notice*in the documentation and/or other materials provided with the distribution
@@ -14,5 +14,5 @@ USE CASE Binary delivery | Redistribution*binary forms
 	YOU MUST Credit Verbatim "This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;" | Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes PHP software, freely available from &lt;http://www.php.net/software/&gt;"
 	IF Software modification | Products derived from this software
 		YOU MUST NOT Promote Using "PHP" | The name "PHP" must not be used to endorse or promote products derived from this software
-		YOU MUST NOT Use "PHP" As Product name | Products derived from this software may not be called "PHP", nor may "PHP" appear in their name
+		YOU MUST NOT Use "PHP" In Product name | Products derived from this software may not be called "PHP", nor may "PHP" appear in their name
 		YOU MUST NOT Prepend "PHP" To Product name | You may indicate that your software works in conjunction with PHP by saying "Foo for PHP" instead of calling it "PHP Foo" or "phpfoo"
