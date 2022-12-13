@@ -16,4 +16,3 @@ USE CASE Binary delivery
 		YOU MUST NOT Promote Using "PHP"
 		YOU MUST NOT Use "PHP" In Product name
 		YOU MUST NOT Prepend "PHP" To Product name
-

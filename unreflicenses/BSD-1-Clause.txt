@@ -3,5 +3,3 @@ USE CASE Source code delivery
 	YOU MUST Forward License text
 	YOU MUST Forward Warranty disclaimer
 USE CASE Binary delivery
-
-

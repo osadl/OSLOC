@@ -20,4 +20,3 @@ USE CASE Binary delivery
 			YOU MUST Mark Modification
 			YOU MUST Rename Modified work
 			YOU MUST NOT Use "Info-ZIP", "Zip", "UnZip", "UnZipSFX", "WiZ", "Pocket UnZip", "Pocket Zip", "MacZip"
-

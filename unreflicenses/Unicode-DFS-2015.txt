@@ -10,4 +10,3 @@ USE CASE Source code delivery OR Binary delivery
 		YOU MUST Provide Modification notice In Source code
 		YOU MUST Provide Modification notice In Documentation
 	YOU MUST NOT Promote
-

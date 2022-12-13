@@ -1,15 +1,15 @@
 USE CASE Source code delivery
-	YOU MUST Forward Copyright notices
-	YOU MUST Forward Warranty disclaimer
+	YOU MUST Provide Copyright notices
+	YOU MUST Provide Warranty disclaimer
 	IF Software modification
 		EXCEPT IF Provided By Copyright holder
 		YOU MUST Provide Modification report
 		EITHER
-			YOU MUST Provide Source code of Modified work
-				ATTRIBUTE to Copyright holder of Original work
+			YOU MUST Provide Source code Of Modified work
+				ATTRIBUTE To Copyright holder Of Original work
 				ATTRIBUTE Original license
 		OR
-			YOU MUST NOT Impede Installation of Original work
+			YOU MUST NOT Impede Installation Of Original work
 			YOU MUST NOT Impede Running Original work
 			YOU MUST Rename Modified work
 		OR
@@ -31,11 +31,11 @@ USE CASE Binary delivery
 		EXCEPT IF Provided By Copyright holder
 		YOU MUST Provide Modification report
 		EITHER
-			YOU MUST Provide Source code of Modified work
-				ATTRIBUTE to Copyright holder of Original work
+			YOU MUST Provide Source code Of Modified work
+				ATTRIBUTE To Copyright holder Of Original work
 				ATTRIBUTE Original license
 		OR
-			YOU MUST NOT Impede Installation of Original work
+			YOU MUST NOT Impede Installation Of Original work
 			YOU MUST NOT Impede Running Original work
 			YOU MUST Rename Modified work
 		OR
@@ -45,15 +45,15 @@ USE CASE Binary delivery
 				YOU MUST Use Strong copyleft license
 	IF Linked work
 		EITHER
-			YOU MUST NOT Provide Interface to Work
+			YOU MUST NOT Provide Interface To Work
 		OR
 			YOU MUST Provide Modification report
 			EITHER
-				YOU MUST Provide Source code of Modified work
-					ATTRIBUTE to Copyright holder of Original work
+				YOU MUST Provide Source code Of Modified work
+					ATTRIBUTE To Copyright holder Of Original work
 					ATTRIBUTE Original license
 			OR
-				YOU MUST NOT Impede Installation of Original work
+				YOU MUST NOT Impede Installation Of Original work
 				YOU MUST NOT Impede Running Original work
 				YOU MUST Rename Modified work
 			OR
@@ -63,4 +63,3 @@ USE CASE Binary delivery
 					YOU MUST Use Strong copyleft license
 	YOU MUST NOT Require License fee
 PATENT HINTS Yes
-

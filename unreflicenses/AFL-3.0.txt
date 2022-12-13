@@ -2,7 +2,7 @@ USE CASE Source code delivery OR Binary delivery OR Network service
 	YOU MUST Reference License text
 	YOU MUST Search License acceptance
 		ATTRIBUTE Reasonable
-	USE CASE License change
+	IF License change
 		YOU MUST Use Compatible license
 	IF Software modification
 		YOU MUST Forward Copyright notices
@@ -11,7 +11,7 @@ USE CASE Source code delivery OR Binary delivery OR Network service
 		YOU MUST Forward License notice
 		YOU MUST Provide Modification notice
 		YOU MUST NOT Promote
-		IF Modified work under Original license
+		IF Modified work Under Original license
 			EITHER
 				YOU MUST Include Source code of Modified work
 					ATTRIBUTE Machine-readable
@@ -22,4 +22,3 @@ USE CASE Source code delivery OR Binary delivery OR Network service
 					ATTRIBUTE No profit
 					ATTRIBUTE Duration As long as distributed
 PATENT HINTS Yes
-

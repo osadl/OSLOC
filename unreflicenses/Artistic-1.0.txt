@@ -24,14 +24,14 @@ USE CASE Source code delivery
 	YOU MUST NOT Require License fee
 	YOU MUST NOT Promote
 USE CASE Binary delivery
+	YOU MUST Provide Original work
+	YOU MUST Reference Original work In Distribution material
 	IF Software modification
 		EITHER
-			YOU MUST Provide Original work
-			YOU MUST Reference Original work In Distribution material
-		OR
 			YOU MUST Provide Source code
 				ATTRIBUTE Machine-readable
 		OR
+			YOU MUST Provide Original work As Binary delivery
 			YOU MUST Rename Modified work
 			YOU MUST Provide Modification report In Distribution material
 			YOU MUST Reference Original work In Distribution material

@@ -1,6 +1,6 @@
 USE CASE Source code delivery OR Binary delivery
 	YOU MUST Forward Copyright notices
-	YOU MUST Forward License text
+	YOU MUST Provide License text
 	IF Software modification
 		YOU MUST Provide Modification author
 		YOU MUST Provide Modification date

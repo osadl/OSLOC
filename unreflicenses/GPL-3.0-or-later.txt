@@ -5,14 +5,8 @@ USE CASE Source code delivery
 	YOU MUST NOT Modify License notices
 	YOU MUST NOT Modify Warranty disclaimer
 	YOU MUST Provide License text
-	IF Non-permissive Additional terms
-		EITHER
-			YOU MUST Include Additional terms In Source code
-		OR
-			YOU MUST Reference Additional terms In Source code
-		YOU MUST Provide Additional terms
-	USE CASE Combined work With AGPL-3.0-or-later
-		YOU MUST Fulfill License obligations Of AGPL-3.0-or-later
+	IF Combined work With AGPL-3.0-only OR AGPL-3.0-or-later
+		YOU MUST Fulfill License obligations Of AGPL-3.0-only OR AGPL-3.0-or-later
 	IF Software modification
 		YOU MUST Provide Modification notice
 			ATTRIBUTE Highlighted
@@ -24,8 +18,13 @@ USE CASE Source code delivery
 		IF Interactive AND Displaying Appropriate legal notices
 			YOU MUST Display Appropriate legal notices
 				ATTRIBUTE Highlighted
+		IF Non-permissive additional terms Added
+			EITHER
+				YOU MUST Include Non-permissive additional terms In Source code
+			OR
+				YOU MUST Reference Non-permissive additional terms In Source code
 	YOU MUST NOT Restrict Granted rights
-		EXCEPT IF NOT Permitted By Additional terms
+		EXCEPT IF Permitted Non-permissive additional terms
 	YOU MUST NOT Litigate Circumvention
 USE CASE Binary delivery
 	YOU MUST Provide Copyright notice
@@ -34,14 +33,8 @@ USE CASE Binary delivery
 	YOU MUST NOT Modify License notices
 	YOU MUST NOT Modify Warranty disclaimer
 	YOU MUST Provide License text
-		IF Non-permissive Additional terms
-			EITHER
-				YOU MUST Include Additional terms In Source code
-			OR
-				YOU MUST Reference Additional terms In Source code
-			YOU MUST Provide Additional terms
-			USE CASE Combined work With AGPL-3.0-or-later
-				YOU MUST Fulfill License obligations Of AGPL-3.0-or-later
+	IF Combined work With AGPL-3.0-only OR AGPL-3.0-or-later
+		YOU MUST Fulfill License obligations Of AGPL-3.0-only OR AGPL-3.0-or-later
 	EITHER IF Binary delivery On Customary medium OR Installed
 		EITHER
 			YOU MUST Provide Source code
@@ -103,11 +96,19 @@ USE CASE Binary delivery
 		IF Interactive AND Displaying Appropriate legal notices
 			YOU MUST Display Appropriate legal notices
 				ATTRIBUTE Highlighted
+		IF Non-permissive additional terms Added
+			EITHER
+				YOU MUST Include Non-permissive additional terms In Source code
+					ATTRIBUTE With Source code delivery
+			OR
+				YOU MUST Reference Non-permissive additional terms In Source code
+					ATTRIBUTE With Source code delivery
 	YOU MUST NOT Restrict Granted rights
-		EXCEPT IF NOT Permitted By Additional terms
+		EXCEPT IF Permitted Non-permissive additional terms
 	YOU MUST NOT Litigate Circumvention
-COMPATIBILITY AGPL-3.0-or-later
 COMPATIBILITY Apache-2.0
+COMPATIBILITY Artistic-2.0
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -117,6 +118,9 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
+COMPATIBILITY GPL-1.0-or-later
 COMPATIBILITY GPL-2.0-or-later
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
@@ -128,11 +132,17 @@ COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY MPL-2.0
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
+COMPATIBILITY W3C
+COMPATIBILITY W3C-19980720
+COMPATIBILITY W3C-20150513
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
 COMPATIBILITY ZPL-2.0
+DEPENDING COMPATIBILITY AGPL-3.0-only
+DEPENDING COMPATIBILITY AGPL-3.0-or-later
 DEPENDING COMPATIBILITY EPL-2.0
 INCOMPATIBILITY Apache-1.0
 INCOMPATIBILITY Apache-1.1
@@ -146,4 +156,3 @@ INCOMPATIBILITY zlib-acknowledgement
 INCOMPATIBILITY XFree86-1.1
 PATENT HINTS Yes
 COPYLEFT CLAUSE Yes
-

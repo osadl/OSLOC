@@ -7,15 +7,14 @@ USE CASE Source code delivery
 		YOU MUST Credit Verbatim In Advertisement "This product includes software developed by the Apache Group for use in the Apache HTTP server project (http://www.apache.org/)."
 	IF Software modification
 		YOU MUST NOT Promote using "Apache Server" or "Apache Group"
-		YOU MUST NOT Use "Apache" in Product name
+		YOU MUST NOT Use "Apache" In Product name
 USE CASE Binary delivery
-	YOU MUST Forward Copyright notices In Documentation OR Distribution material
-	YOU MUST Forward License text In Documentation OR Distribution material
-	YOU MUST Forward Warranty disclaimer In Documentation OR Distribution material
+	YOU MUST Provide Copyright notices In Documentation OR Distribution material
+	YOU MUST Provide License text In Documentation OR Distribution material
+	YOU MUST Provide Warranty disclaimer In Documentation OR Distribution material
 	YOU MUST Credit Verbatim "This product includes software developed by the Apache Group for use in the Apache HTTP server project (http://www.apache.org/)."
 	IF Advertisement
 		YOU MUST Credit Verbatim In Advertisement "This product includes software developed by the Apache Group for use in the Apache HTTP server project (http://www.apache.org/)."
 	IF Software modification
 		YOU MUST NOT Promote using "Apache Server" or "Apache Group"
-		YOU MUST NOT Use "Apache" in Product name
-
+		YOU MUST NOT Use "Apache" In Product name

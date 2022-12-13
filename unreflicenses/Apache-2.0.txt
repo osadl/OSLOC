@@ -1,7 +1,7 @@
 USE CASE Source code delivery
-	YOU MUST Forward License text
+	YOU MUST Provide License text
 	IF Software modification
-		YOU MUST Provide Modification notices
+		YOU MUST Provide Modification notice
 		YOU MUST Forward Copyright notices
 		YOU MUST Forward Patent notices
 		YOU MUST Forward Trademark notices
@@ -9,11 +9,11 @@ USE CASE Source code delivery
 		IF Work Includes File "NOTICE"
 			YOU MUST Delete Irrelevant parts
 			EITHER
-				YOU MUST Forward File "NOTICE"
+				YOU MUST Provide File "NOTICE"
 			OR
-				YOU MUST Forward File "NOTICE" In Source code
+				YOU MUST Provide File "NOTICE" In Source code
 			OR
-				YOU MUST Forward File "NOTICE" In Documentation
+				YOU MUST Provide File "NOTICE" In Documentation
 			OR
 				YOU MUST Display File "NOTICE"
 	IF Service offerings
@@ -24,14 +24,13 @@ USE CASE Binary delivery
 		IF Work Includes File "NOTICE"
 			YOU MUST Delete Irrelevant parts
 			EITHER
-				YOU MUST Forward File "NOTICE"
+				YOU MUST Provide File "NOTICE"
 			OR
-				YOU MUST Forward File "NOTICE" In Source code
+				YOU MUST Provide File "NOTICE" In Source code
 			OR
-				YOU MUST Forward File "NOTICE" In Documentation
+				YOU MUST Provide File "NOTICE" In Documentation
 			OR
 				YOU MUST Display File "NOTICE"
 	IF Service offerings
 		YOU MUST Indemnify Other contributors
 PATENT HINTS Yes
-

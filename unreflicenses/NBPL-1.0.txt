@@ -1,6 +1,6 @@
 USE CASE Source code delivery
-	YOU MUST Forward Copyright notices
-	YOU MUST Forward Warranty disclaimer
+	YOU MUST Provide Copyright notices
+	YOU MUST Provide Warranty disclaimer
 	IF Software modification
 		YOU MUST Provide Modification notice
 		YOU MUST Provide Modification report

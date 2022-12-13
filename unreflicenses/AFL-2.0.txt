@@ -22,4 +22,3 @@ USE CASE Source code delivery OR Binary delivery
 				YOU MUST Reference Source code
 					ATTRIBUTE Below Copyright notice
 PATENT HINTS Yes
-

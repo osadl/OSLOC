@@ -4,13 +4,7 @@ USE CASE Source code delivery
 		ATTRIBUTE Appropriately
 	YOU MUST NOT Modify License notices
 	YOU MUST NOT Modify Warranty disclaimer
-	YOU MUST Forward License text
-		IF Non-permissive Additional terms
-			EITHER
-				YOU MUST Include Additional terms In Source code
-			OR
-				YOU MUST Reference Additional terms In Source code
-			YOU MUST Forward Additional terms
+	YOU MUST Provide License text
 	IF Software modification
 		YOU MUST Provide Modification notice
 		YOU MUST Provide Modification date
@@ -18,8 +12,13 @@ USE CASE Source code delivery
 			ATTRIBUTE Original license
 		IF Interactive AND Displaying License announcement
 			YOU MUST Display Appropriate legal notices
+		IF Non-permissive additional terms Added
+			EITHER
+				YOU MUST Include Non-permissive additional terms In Source code
+			OR
+				YOU MUST Reference Non-permissive additional terms In Source code
 	YOU MUST NOT Restrict Granted rights
-		EXCEPT IF NOT Permitted By Additional terms
+		EXCEPT IF Permitted Non-permissive additional terms
 	YOU MUST NOT Litigate Circumvention
 USE CASE Binary delivery
 	YOU MUST Provide Copyright notice
@@ -28,12 +27,12 @@ USE CASE Binary delivery
 	YOU MUST NOT Modify License notices
 	YOU MUST NOT Modify Warranty disclaimer
 	YOU MUST Provide License text
-		IF Non-permissive Additional terms
+		IF Non-permissive additional terms
 			EITHER
-				YOU MUST Include Additional terms In Source code
+				YOU MUST Include Non-permissive additional terms In Source code
 			OR
-				YOU MUST Reference Additional terms In Source code
-			YOU MUST Provide Additional terms
+				YOU MUST Reference Non-permissive additional terms In Source code
+			YOU MUST Provide Non-permissive additional terms
 	YOU MUST Provide Source code
 		ATTRIBUTE Machine-readable
 		ATTRIBUTE Documented format
@@ -73,11 +72,18 @@ USE CASE Binary delivery
 			ATTRIBUTE Original license
 		IF Interactive AND Displaying License announcement
 			YOU MUST Display Appropriate legal notices
+		IF Non-permissive additional terms Added
+			EITHER
+				YOU MUST Include Non-permissive additional terms In Source code
+					ATTRIBUTE With Source code delivery
+			OR
+				YOU MUST Reference Non-permissive additional terms In Source code
+					ATTRIBUTE With Source code delivery
 	IF User product
 		YOU MUST Provide Installation information
 			EXCEPT IF Installation Is NOT Feasible
 	YOU MUST NOT Restrict Granted rights
-		EXCEPT IF NOT Permitted By Additional terms
+		EXCEPT IF Permitted Non-permissive additional terms
 	YOU MUST NOT Litigate Circumvention
 USE CASE Network service
 	IF Software modification
@@ -85,8 +91,9 @@ USE CASE Network service
 			ATTRIBUTE Via Internet
 			ATTRIBUTE No charges
 			ATTRIBUTE Customary method
-COMPATIBILITY AGPL-3.0-only
 COMPATIBILITY Apache-2.0
+COMPATIBILITY Artistic-2.0
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -96,22 +103,29 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
-COMPATIBILITY GPL-3.0-only
-COMPATIBILITY GPL-3.0-or-later
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
-COMPATIBILITY LGPL-3.0-only
-COMPATIBILITY LGPL-3.0-or-later
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY MPL-2.0
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
 COMPATIBILITY ZPL-2.0
+DEPENDING COMPATIBILITY GPL-1.0-or-later
+DEPENDING COMPATIBILITY GPL-2.0-or-later
+DEPENDING COMPATIBILITY GPL-3.0-only
+DEPENDING COMPATIBILITY GPL-3.0-or-later
+DEPENDING COMPATIBILITY LGPL-2.1-only
+DEPENDING COMPATIBILITY LGPL-2.1-or-later
+DEPENDING COMPATIBILITY LGPL-3.0-only
+DEPENDING COMPATIBILITY LGPL-3.0-or-later
 INCOMPATIBILITY Apache-1.0
 INCOMPATIBILITY Apache-1.1
 INCOMPATIBILITY BSD-4-Clause
@@ -124,4 +138,3 @@ INCOMPATIBILITY zlib-acknowledgement
 INCOMPATIBILITY XFree86-1.1
 PATENT HINTS Yes
 COPYLEFT CLAUSE Yes
-

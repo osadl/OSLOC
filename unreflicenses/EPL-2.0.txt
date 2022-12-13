@@ -1,5 +1,5 @@
 USE CASE Source code delivery
-	YOU MUST Forward License text
+	YOU MUST Provide License text
 	YOU MUST NOT Modify Copyright notices
 	YOU MUST NOT Modify Patent notices
 	YOU MUST NOT Modify Trademark notices
@@ -9,7 +9,7 @@ USE CASE Source code delivery
 	IF Software modification
 		YOU MUST Grant License
 			ATTRIBUTE Original license
-	USE CASE License change
+	IF License change
 		YOU MUST Use Warranty disclaimer On behalf of Other contributors
 			ATTRIBUTE Effective
 		YOU MUST Use Liability disclaimer On behalf of Other contributors
@@ -36,7 +36,7 @@ USE CASE Binary delivery
 	YOU MUST NOT Modify Attribution notices
 	YOU MUST NOT Modify Warranty disclaimers
 	YOU MUST NOT Modify Liability disclaimers
-	USE CASE License change
+	IF License change
 		YOU MUST Use Warranty disclaimer On behalf of Other contributors
 			ATTRIBUTE Effective
 		YOU MUST Use Liability disclaimer On behalf of Other contributors
@@ -45,6 +45,8 @@ USE CASE Binary delivery
 		YOU MUST Use Identical License obligations
 	IF Commercial distribution
 		YOU MUST Indemnify Other contributors
+COMPATIBILITY Apache-2.0
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -55,12 +57,15 @@ COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EPL-1.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
@@ -68,4 +73,3 @@ COMPATIBILITY Zlib
 COMPATIBILITY ZPL-2.0
 PATENT HINTS Yes
 COPYLEFT CLAUSE Yes
-

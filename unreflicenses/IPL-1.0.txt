@@ -1,5 +1,5 @@
 USE CASE Source code delivery
-	YOU MUST Forward OR Provide License text
+	YOU MUST Provide License text
 	YOU MUST Credit Verbatim "Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved."
 		ATTRIBUTE Highlighted
 	IF Software modification
@@ -21,7 +21,7 @@ USE CASE Binary delivery
 		OR
 			ATTRIBUTE Via Internet
 		ATTRIBUTE Reasonable
-	USE CASE License change
+	IF License change
 		YOU MUST Use Equivalent License obligations
 		YOU MUST Use Warranty disclaimer On behalf of Contributors
 			ATTRIBUTE Effective
@@ -31,6 +31,7 @@ USE CASE Binary delivery
 			ATTRIBUTE NOT Transferable
 	IF Commercial distribution
 		YOU MUST Indemnify Other contributors
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -42,16 +43,18 @@ COMPATIBILITY CPL-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EPL-1.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
 PATENT HINTS Yes
 COPYLEFT CLAUSE Yes
-

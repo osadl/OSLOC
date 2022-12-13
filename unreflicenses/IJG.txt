@@ -1,13 +1,12 @@
 USE CASE Source code delivery
-	YOU MUST Forward Copyright notices
-	YOU MUST Forward License text
-	YOU MUST Forward Warranty disclaimer
+	YOU MUST Provide Copyright notices
+	YOU MUST Provide License text
+	YOU MUST Provide Warranty disclaimer
 	YOU MUST NOT Misrepresent Authorship
 	IF Software modification
-		YOU MUST Provide Modification report
+		YOU MUST Provide Modification report In Documentation
 	YOU MUST Indemnify Original authors
 	YOU MUST NOT Promote
 USE CASE Binary delivery
-	YOU MUST Credit Verbatim "This software is based in part on the work of the Independent JPEG Group"
+	YOU MUST Credit Verbatim "this software is based in part on the work of the Independent JPEG Group"
 PATENT HINTS Yes
-

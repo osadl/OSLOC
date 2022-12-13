@@ -12,4 +12,3 @@ USE CASE Binary delivery
 	IF Software modification
 		YOU MUST NOT Promote
 PATENT HINTS Yes
-

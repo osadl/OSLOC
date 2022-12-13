@@ -5,4 +5,3 @@ USE CASE Source code delivery
 	YOU MUST NOT Promote
 USE CASE Binary delivery
 	YOU MUST NOT Promote
-

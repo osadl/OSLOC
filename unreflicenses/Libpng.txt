@@ -5,4 +5,3 @@ USE CASE Source code delivery
 		YOU MUST Mark Modified work
 		YOU MUST NOT Misrepresent Modified work
 USE CASE Binary delivery
-

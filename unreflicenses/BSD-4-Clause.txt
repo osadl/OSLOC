@@ -12,4 +12,3 @@ USE CASE Binary delivery
 	IF Advertisement
 		YOU MUST Credit In Advertisement Verbatim "This product includes software developed by [the organization]."
 	YOU MUST NOT Promote
-
