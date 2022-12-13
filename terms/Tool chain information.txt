@@ -1,4 +1,4 @@
-The term Tool chain information is only relevant in a context where the licensee must be enabled to compile a delivered source code.
-The Tool chain information must include name and version number of all software elements that are needed to compile all components of the delivered source code into a runnable binary object.
-The Tool chain information must point to software that is able to produce code for the architecture and the type of processor of the item where the object code must be installable according to the license.
+The term Tool chain information is only relevant in a context where the licensee must be enabled to compile, link or otherwise create a software product from a delivered source code.
+The Tool chain information must include name and version number of all software elements that are needed to compile and link all components of the delivered source code into a runnable object.
+The Tool chain information must point to software that is able to produce code for the architecture and the type of processor of the item where the software product must be installable according to the license.
 If the Tool chain information points to publicly accessible server from where the indicated software can be retrieved easily and in a version that is functionally equivalent to the one used at the licensor's site, then providing this information is sufficient. The term Tool chain information comprises the delivery of the entire tool chain, otherwise.

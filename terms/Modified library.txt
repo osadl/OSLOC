@@ -1,0 +1,1 @@
+An existing library may be modified, i.e. parts of it may be modified, removed or expanded, if permitted by the original author which by definition is the case in a work distributed under an Open Source license. The resulting library is referred to as Modified library.

@@ -1,1 +1,1 @@
-A work is called Substantial work, if it is of significant extend or has a relevant impact on the system within which it is placed or used.
+A work is called Substantial work, if it is not limited to numerical parameters, data structure layouts and accessors, or small macros, inline functions and templates (ten or fewer lines in length) .

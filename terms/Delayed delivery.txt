@@ -1,0 +1,4 @@
+The term Delayed delivery is only relevant, if the license permits to deliver the licensed software as a binary object and to deliver other materials separately at a later date.
+The term Delayed delivery means any delivery of mateial that is not directly connected to the delivery of the binary object.
+If the object code is embodied in physical form and delivered in a parcel or similar, then any delivery of material that is not accompanying the object code in the same parcel is considered Delayed delivery.
+If the object code is delivered in a software archive as data stream for example to be downloaded from a server, then other material must be contained in the same archive or at least be part of the same download action in order not to be considered Delayed delivery.
