@@ -1,0 +1,1 @@
+The action to Enable means to provide a mechanism that makes it possible to execute a particular action. 
