@@ -1,6 +1,6 @@
 USE CASE Source code delivery OR Binary delivery
-	YOU MUST Forward OR Provide Copyright notices | provided that the above copyright notice(s)*appear in all copies of the Software
-	YOU MUST Forward OR Provide License text | provided that*this permission notice appear in all copies of the Software
+	YOU MUST Provide Copyright notices | provided that the above copyright notice(s)*appear in all copies of the Software
+	YOU MUST Provide License text | provided that*this permission notice appear in all copies of the Software
 	YOU MUST Provide Copyright notices In Documentation | provided that*both the above copyright notice(s)*appear in supporting documentation.
 	YOU MUST Provide License text In Documentation | provided that*this permission notice appear in supporting documentation.
 	YOU MUST NOT Promote | the name of a copyright holder shall not be used in advertising or otherwise to promote the sale

@@ -1,0 +1,10 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide License text | provided that you include | The full text of this NOTICE
+		ATTRIBUTE Viewable | in a location viewable to users
+	YOU MUST Provide Legal notices | provided that you include | Any pre-existing intellectual property disclaimers, notices, or terms and conditions
+	IF No Legal notices | If none exist
+		YOU MUST Provide Notice "Copyright © [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). All Rights Reserved. http://www.w3.org/Consortium/Legal/" | provided that you include | a short notice of the following form (hypertext is preferred, text is permitted) should be used within the body of any redistributed or derivative code: "Copyright © [$date-of-software] World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). All Rights Reserved. http://www.w3.org/Consortium/Legal/"
+	IF Software modification
+		YOU MUST Provide Modification notice | provided that you include | Notice of any changes or modifications to the W3C files
+		YOU MUST Provide Modification date | provided that you include | the date changes were made
+	YOU MUST NOT Promote | The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission

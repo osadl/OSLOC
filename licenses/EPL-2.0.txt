@@ -1,5 +1,5 @@
 USE CASE Source code delivery | When the Program is Distributed as Source Code
-	YOU MUST Forward License text | Agreement must be included with each copy of the Program
+	YOU MUST Provide License text | Agreement must be included with each copy of the Program
 	YOU MUST NOT Modify Copyright notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any copyright*notices,*contained within the Program from any copy of the Program which they Distribute
 	YOU MUST NOT Modify Patent notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*patent*notices,*contained within the Program from any copy of the Program which they Distribute
 	YOU MUST NOT Modify Trademark notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*trademark*notices,*contained within the Program from any copy of the Program which they Distribute
@@ -9,7 +9,7 @@ USE CASE Source code delivery | When the Program is Distributed as Source Code
 	IF Software modification | "Contribution" means | in the case of each subsequent Contributor*i) changes to the Program*ii) additions to the Program
 		YOU MUST Grant License | it must be made available
 			ATTRIBUTE Original license | it must be made available under this Agreement
-	USE CASE License change | Distribute the Program under a license different than this Agreement
+	IF License change | Distribute the Program under a license different than this Agreement
 		YOU MUST Use Warranty disclaimer On behalf of Other contributors | disclaims on behalf of all other Contributors all warranties and conditions
 			ATTRIBUTE Effective | effectively disclaims on behalf of all other Contributors
 		YOU MUST Use Liability disclaimer On behalf of Other contributors | excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
@@ -36,7 +36,7 @@ USE CASE Binary delivery | in any form
 	YOU MUST NOT Modify Attribution notices | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*attribution notices,*contained within the Program from any copy of the Program which they Distribute
 	YOU MUST NOT Modify Warranty disclaimers | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*disclaimers of warranty*contained within the Program from any copy of the Program which they Distribute
 	YOU MUST NOT Modify Liability disclaimers | "Contributor" means any person or entity that Distributes the Program | Contributors may not remove or alter any*limitations of liability ("notices") contained within the Program from any copy of the Program which they Distribute
-	USE CASE License change | Distribute the Program under a license different than this Agreement
+	IF License change | Distribute the Program under a license different than this Agreement
 		YOU MUST Use Warranty disclaimer On behalf of Other contributors | disclaims on behalf of all other Contributors all warranties and conditions
 			ATTRIBUTE Effective | effectively disclaims on behalf of all other Contributors
 		YOU MUST Use Liability disclaimer On behalf of Other contributors | excludes on behalf of all other Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
@@ -45,6 +45,8 @@ USE CASE Binary delivery | in any form
 		YOU MUST Use Identical License obligations | under a license that satisfies the requirements of this section
 	IF Commercial distribution | Commercial distributors of software
 		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+COMPATIBILITY Apache-2.0 ||| Effectively tolerated by right holders: Review of a large number of use cases indicates that this compatibility can be considered to be generally tolerated. On request, the license stewart of the EPL-2.0, the Eclipse Foundation, stated that it is their practice that software components under permissive licenses such as MIT, BSD-3-Clause, and Apache-2.0 may be included in EPL-1.0 and EPL-2.0 licensed components.
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -55,12 +57,15 @@ COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EPL-1.0 || after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version.
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

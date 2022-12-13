@@ -4,7 +4,7 @@ USE CASE Source code delivery | The Licensor may provide the Work*in its Source 
 	YOU MUST NOT Modify Trademark notices | Attribution right: the Licensee shall keep intact all*trademarks notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
 	YOU MUST NOT Modify License notice | Attribution right: the Licensee shall keep intact*all notices that refer to the Licence*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
 	YOU MUST NOT Modify Warranty disclaimer | Attribution right: the Licensee shall keep intact*all notices that refer*to the disclaimer of warranties. The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
-	YOU MUST Forward License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
+	YOU MUST Provide License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
 	IF Software modification | The Licensee must cause any Derivative Work
 		YOU MUST Grant License | If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence
 			ATTRIBUTE Original license | If the Licensee distributes and/or communicates copies of the Original Works or Derivative Works based upon the Original Work, this Distribution and/or Communication will be done under the terms of this Licence
@@ -23,7 +23,7 @@ USE CASE Binary delivery | The Licensor may provide the Work*as Executable Code.
 		YOU MUST NOT Modify Trademark notices | Attribution right: the Licensee shall keep intact all*trademarks notices*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
 		YOU MUST NOT Modify License notice | Attribution right: the Licensee shall keep intact*all notices that refer to the Licence*The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
 		YOU MUST NOT Modify Warranty disclaimer | Attribution right: the Licensee shall keep intact*all notices that refer*to the disclaimer of warranties. The Licensee must include a copy of such notices*with every copy of the Work he/she distributes and/or communicates. 
-		YOU MUST Forward License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
+		YOU MUST Provide License text | The Licensee must include*a copy of the Licence with every copy of the Work he/she distributes and/or communicates. 
 	OR
 		YOU MUST Reference Source code | indicates*a repository where the Source Code is*accessible
 			ATTRIBUTE Notice Following Copyright notice | in a notice following the copyright notice  
@@ -38,6 +38,7 @@ USE CASE Binary delivery | The Licensor may provide the Work*as Executable Code.
 	IF Service offerings | While distributing the Original Work or Derivative Works, You may choose to conclude an additional agreement to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or services consistent with this Licence
 		ATTRIBUTE NOT Transferable | You may act only on your own behalf and on your sole responsibility, not on behalf of the original Licensor or any other Contributor
 		YOU MUST Indemnify Other contributors | only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against such Contributor by the fact You have accepted any such warranty or additional liability
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -47,12 +48,15 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

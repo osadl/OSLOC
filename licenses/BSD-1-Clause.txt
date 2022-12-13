@@ -3,4 +3,3 @@ USE CASE Source code delivery | Redistributions of source code
 	YOU MUST Forward License text | Redistributions of source code must retain*this list of conditions
 	YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain*the following disclaimer
 USE CASE Binary delivery
-

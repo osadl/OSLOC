@@ -40,7 +40,7 @@ USE CASE Binary delivery | You may copy and distribute the Program (or a work ba
 					ATTRIBUTE On same server | from the same place counts as distribution of the source code
 					ATTRIBUTE Equivalent | equivalent access to copy the source code
 	OR
-		YOU MUST Provide Written offer | Accompany it with a written offer
+		YOU MUST Provide Written offer (Written offer) | Accompany it with a written offer
 			ATTRIBUTE Duration 3 years | valid for at least three years
 			ATTRIBUTE To Any third party | to give any third party
 			ATTRIBUTE No profit | for a charge no more than your cost of physically performing source distribution
@@ -60,6 +60,8 @@ USE CASE Binary delivery | You may copy and distribute the Program (or a work ba
 			YOU MUST Display Warranty disclaimer | you must cause it*to print or display*a notice that there is no warranty
 			YOU MUST Reference License text | you must cause it*to print or display an announcement*and telling the user how to view a copy of this License
 	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the recipients' exercise of the rights granted herein. || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -70,9 +72,9 @@ COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | GNU General Public License (GNU GPL) v. 2
-COMPATIBILITY GPL-2.0-only | version 2 or any later version.
-COMPATIBILITY GPL-2.0-only WITH Classpath-exception-2.0 | version 2 or any later version.
-COMPATIBILITY GPL-3.0-or-later | version 2 or any later version.
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
+COMPATIBILITY GPL-1.0-or-later || you can redistribute it and/or modify it under the terms of the GNU General Public License*(at your option) any later version.
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
@@ -82,12 +84,18 @@ COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
+COMPATIBILITY W3C
+COMPATIBILITY W3C-19980720
+COMPATIBILITY W3C-20150513
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
 COMPATIBILITY ZPL-2.0 || It has also been designated as GPL compatible by the Free Software Foundation (FSF).
 DEPENDING COMPATIBILITY EPL-2.0 || "Secondary License" means*the GNU General Public License, Version 2.0 | "This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}." | Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
+DEPENDING COMPATIBILITY AGPL-3.0-only || you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work. ||| Via GPL-3.0 and linking only : GPL-2.0-or-later licensed material must be used under GPL-3.0-or-later and must not be inserted into the code, but can only be linked or combined with it.
+DEPENDING COMPATIBILITY AGPL-3.0-or-later || you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work. ||| Via GPL-3.0 and linking only : GPL-2.0-or-later licensed material must be used under GPL-3.0-or-later and must not be inserted into the code, but can only be linked or combined with it.
 INCOMPATIBILITY Apache-1.0 | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
 INCOMPATIBILITY Apache-1.1 | The end-user documentation included with the redistribution, if any, must include the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
 INCOMPATIBILITY Apache-2.0 | You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License*only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability | You may not impose any further restrictions on the recipients' exercise of the rights granted herein

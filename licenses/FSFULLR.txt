@@ -1,0 +1,3 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide License text | as long as this notice is preserved
+		ATTRIBUTE Including Copyright notice | Copyright 1996-2006 Free Software Foundation, Inc. | as long as this notice is preserved || With or without copyright notice: The term "notice" in the FSFULLR license may refer to the entire text including the copyright notice.

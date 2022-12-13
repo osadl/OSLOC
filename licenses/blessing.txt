@@ -1,0 +1,1 @@
+USE CASE Source code delivery OR Binary delivery | The author disclaims copyright to this source code.

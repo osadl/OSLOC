@@ -1,5 +1,5 @@
 USE CASE Source code delivery | When the Program is made available in source code form
-	YOU MUST Forward OR Provide License text | Agreement must be included with each copy of the Program
+	YOU MUST Provide License text | Agreement must be included with each copy of the Program
 	YOU MUST NOT Modify Copyright notices | "Contributor" means any person or entity that distributes the Program. | Contributors may not remove or alter any copyright notices contained within the Program.
 	IF Software modification | such derivative works
 		YOU MUST Grant License | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license
@@ -19,7 +19,7 @@ USE CASE Binary delivery | A Contributor may choose to distribute the Program in
 		OR
 			ATTRIBUTE Via Internet | in a reasonable manner*through a medium customarily used for software exchange
 		ATTRIBUTE Reasonable | in a reasonable manner
-	USE CASE License change | "Contributor" means any person or entity that distributes the Program. | A Contributor may choose to distribute the Program in object code form under its own license agreement
+	IF License change | "Contributor" means any person or entity that distributes the Program. | A Contributor may choose to distribute the Program in object code form under its own license agreement
 		YOU MUST Use Identical License obligations | it complies with the terms and conditions of this Agreement
 		YOU MUST Use Warranty disclaimer On behalf of Other contributors | disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose
 			ATTRIBUTE Effective | effectively disclaims on behalf of all Contributors all warranties
@@ -29,6 +29,7 @@ USE CASE Binary delivery | A Contributor may choose to distribute the Program in
 			ATTRIBUTE NOT Transferable | are offered by that Contributor alone and not by any other party
 	IF Commercial distribution | Commercial distributors of software
 		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -36,9 +37,11 @@ COMPATIBILITY BSL-1.0
 COMPATIBILITY bzip2-1.0.5
 COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EPL-1.0
-COMPATIBILITY curl
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY IPL-1.0
@@ -46,6 +49,7 @@ COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

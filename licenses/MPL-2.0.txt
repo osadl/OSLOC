@@ -15,12 +15,13 @@ USE CASE Binary delivery | If You distribute Covered Software in Executable Form
 			ATTRIBUTE Reasonable | how they can obtain a copy of such Source Code Form by reasonable means
 			ATTRIBUTE Timely | how they can obtain a copy of such Source Code Form*in a timely manner
 			ATTRIBUTE No profit | how they can obtain a copy of such Source Code Form*at a charge no more than the cost of distribution to the recipient
-	USE CASE License change | or sublicense it under different terms
+	IF License change | or sublicense it under different terms
 		YOU MUST NOT Restrict Granted rights For Source code | the license for the Executable Form does not attempt to limit or alter the recipients' rights in the Source Code Form under this License || Legal and/or other means: The wording 'limit or alter' along with the term 'rights' in the context of a license text could be interpreted in such a way that it merely refers to legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'limit or alter the rights'.
 	IF Service offerings | You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations
 		ATTRIBUTE NOT Transferable | However, You may do so only on Your own behalf, and not on behalf of any Contributor. You must make it absolutely clear that any such warranty, support, indemnity, or liability obligation is offered by You alone
 		YOU MUST Indemnify Other contributors | You hereby agree to indemnify every Contributor for any liability
 COMPATIBILITY Apache-2.0
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -30,12 +31,15 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

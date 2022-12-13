@@ -1,6 +1,6 @@
 USE CASE Source code delivery | You may make and give away verbatim copies of the source form of the Standard Version of this Package
-	YOU MUST Forward Copyright notices | provided that you duplicate all of the original copyright notices
-	YOU MUST Forward Warranty disclaimer | provided that you duplicate all of the original*associated disclaimers
+	YOU MUST Provide Copyright notices | provided that you duplicate all of the original copyright notices
+	YOU MUST Provide Warranty disclaimer | provided that you duplicate all of the original*associated disclaimers
 	IF Software modification | You may otherwise modify your copy of this Package in any way
 		YOU MUST Provide Modification notice | provided that you insert a prominent notice in each changed file
 		YOU MUST Provide Modification report | provided that you insert a prominent notice in each changed file stating how*you changed that file

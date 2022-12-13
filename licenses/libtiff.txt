@@ -1,6 +1,6 @@
 USE CASE Source code delivery OR Binary delivery
-	YOU MUST Forward OR Provide Copyright notices | provided that*the above copyright notices*appear in all copies of the software
-	YOU MUST Forward OR Provide License text | provided that*this permission notice appear in all copies of the software
+	YOU MUST Provide Copyright notices | provided that*the above copyright notices*appear in all copies of the software
+	YOU MUST Provide License text | provided that*this permission notice appear in all copies of the software
 	YOU MUST Provide Copyright notices In Documentation | provided that*the above copyright notices*appear in all copies of the*related documentation
 	YOU MUST Provide License text In Documentation | provided that*this permission notice appear in all copies of the*related documentation
 	YOU MUST NOT Promote | provided that*the names of Sam Leffler and Silicon Graphics may not be used in any advertising or publicity relating to the software

@@ -1,5 +1,5 @@
 USE CASE Source code delivery | made available in source code form
-	YOU MUST Forward OR Provide License text | a copy of this Agreement must be included with each copy of the Program.
+	YOU MUST Provide License text | a copy of this Agreement must be included with each copy of the Program.
 	YOU MUST Credit Verbatim "Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved." | must include the following*in the Program*Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
 		ATTRIBUTE Highlighted | in a conspicuous location
 	IF Software modification | such derivative works
@@ -21,7 +21,7 @@ USE CASE Binary delivery | in object code form
 		OR
 			ATTRIBUTE Via Internet | in a reasonable manner*through a medium customarily used for software exchange
 		ATTRIBUTE Reasonable | in a reasonable manner
-	USE CASE License change | under its own license agreement
+	IF License change | under its own license agreement
 		YOU MUST Use Equivalent License obligations | it complies with the terms and conditions of this Agreement
 		YOU MUST Use Warranty disclaimer On behalf of Contributors | disclaims on behalf of all Contributors all warranties
 			ATTRIBUTE Effective | effectively disclaims on behalf of all Contributors
@@ -31,6 +31,7 @@ USE CASE Binary delivery | in object code form
 			ATTRIBUTE NOT Transferable | are offered by that Contributor alone and not by any other party
 	IF Commercial distribution | Commercial distributors of software
 		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -42,12 +43,15 @@ COMPATIBILITY CPL-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EPL-1.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

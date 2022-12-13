@@ -2,7 +2,7 @@ USE CASE Source code delivery OR Binary delivery OR Network service | distribute
 	YOU MUST Reference License text | obtain the express assent of recipients to the terms of this License | This DISCLAIMER OF WARRANTY constitutes an essential part of this License. No license to the Original Work is granted by this License except under this disclaimer. || No explicit requirement: The AFL-3.0 does not explicitly require to provide or reference the license text but in some jurisdictions the requirement of an effective consent to the license may require that the user can obtain knowledge of the license terms before acceptance.
 	YOU MUST Search License acceptance | obtain the express assent of recipients to the terms of this License
 		ATTRIBUTE Reasonable | a reasonable effort under the circumstances
-	USE CASE License change | distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice
+	IF License change | distribute or communicate copies of the Original Work and Derivative Works to the public, under any license of your choice
 		YOU MUST Use Compatible license | that does not contradict the terms and conditions, including Licensor's reserved rights and remedies, in this Academic Free License;
 	IF Software modification | in the Source Code of any Derivative Works
 		YOU MUST Forward Copyright notices | You must retain, in the Source Code of any Derivative Works that You create, all copyright

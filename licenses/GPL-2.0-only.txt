@@ -2,7 +2,7 @@ USE CASE Source code delivery | You may copy and distribute verbatim copies of t
 	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || Done by default: Usually no separate action required, since copyright notices normally are included in the source code.
 		ATTRIBUTE Highlighted | conspicuously*publish on each copy
 		ATTRIBUTE Appropriately | appropriately publish on each copy
-	YOU MUST Provide Warranty disclaimer (Warranty disclaimer) | conspicuously and appropriately publish on each copy a* disclaimer of warranty || Done by default: Usually no separate action required, since the warranty disclaimer normally is included in the license text.
+	YOU MUST Provide Warranty disclaimer (Warranty disclaimer) | conspicuously and appropriately publish on each copy a* disclaimer of warranty
 		ATTRIBUTE Highlighted | conspicuously*publish on each copy
 		ATTRIBUTE Appropriately | appropriately publish on each copy
 	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
@@ -60,6 +60,8 @@ USE CASE Binary delivery | You may copy and distribute the Program (or a work ba
 			YOU MUST Display Warranty disclaimer (Warranty disclaimer) | you must cause it*to print or display*a notice that there is no warranty
 			YOU MUST Reference License text | you must cause it*to print or display an announcement*and telling the user how to view a copy of this License
 	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the recipients' exercise of the rights granted herein. || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -70,8 +72,11 @@ COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | GNU General Public License (GNU GPL) v. 2
-COMPATIBILITY GPL-2.0-only WITH Classpath-exception-2.0 | version 2.
-COMPATIBILITY GPL-2.0-or-later | version 2.
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
+COMPATIBILITY GPL-1.0-or-later || you can redistribute it and/or modify it under the terms of the GNU General Public License*(at your option) any later version.
+COMPATIBILITY GPL-2.0-only WITH Classpath-exception-2.0 || version 2.
+COMPATIBILITY GPL-2.0-or-later || you can redistribute it and/or modify it under the terms of the GNU General Public License*either version 2 of the License
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
@@ -81,7 +86,12 @@ COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
 COMPATIBILITY NTP
+COMPATIBILITY Sleepycat
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
+COMPATIBILITY W3C
+COMPATIBILITY W3C-19980720
+COMPATIBILITY W3C-20150513
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib

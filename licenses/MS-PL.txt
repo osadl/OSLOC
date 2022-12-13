@@ -1,16 +1,15 @@
 USE CASE Source code delivery
-	YOU MUST Grant License | each contributor grants you a non-exclusive, worldwide, royalty-free copyright license
-	YOU MUST Forward Copyright notices | you must retain all copyright
-	YOU MUST Forward Patent notices | patent, 
-	YOU MUST Forward Trademark notices | trademark, 
-	YOU MUST Forward License text | including a complete copy of this license
+	YOU MUST Forward Copyright notices | you must retain all copyright*and attribution notices
+	YOU MUST Forward Patent notices | you must retain all*patent,*notices 
+	YOU MUST Forward Trademark notices | you must retain all*trademark,*notices 
+	YOU MUST Provide License text | including a complete copy of this license
 	YOU MUST Use Original license | only under this license
 USE CASE Binary delivery
-	YOU MUST Grant License | each contributor grants you a non-exclusive, worldwide, royalty-free copyright license
-	YOU MUST Forward Copyright notices | you must retain all copyright
-	YOU MUST Forward Patent notices | patent, 
-	YOU MUST Forward Trademark notices | trademark, 
+	YOU MUST Forward Copyright notices | you must retain all copyright*and attribution notices
+	YOU MUST Forward Patent notices | you must retain all*patent,*notices
+	YOU MUST Forward Trademark notices | you must retain all*trademark,*notices
 	YOU MUST Use Compatible license | under a license that complies with this license
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -22,12 +21,15 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

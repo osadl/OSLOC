@@ -1,0 +1,4 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide Copyright notice | provided the copyright notice*are preserved
+	YOU MUST Provide License text | provided*this notice are preserved
+		ATTRIBUTE Including Warranty disclaimer | This file is offered as-is, without any warranty. 

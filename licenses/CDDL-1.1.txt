@@ -25,9 +25,10 @@ USE CASE Binary delivery | make available in Executable form
 			ATTRIBUTE Original license | The Modifications that You create or to which You contribute are governed by the terms of this License
 		YOU MUST Provide Copyright notice | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
 	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder.
-	USE CASE License change | or under the terms of a license of Your choice
+	IF License change | or under the terms of a license of Your choice
 		YOU MUST Use Compatible license | provided that You are in compliance with the terms of this License
 		YOU MUST Indemnify Other contributors | You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of any such terms You offer
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -37,12 +38,15 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11

@@ -1,6 +1,6 @@
 USE CASE Source code delivery OR Binary delivery
 	YOU MUST Forward Copyright notices | All copyright notices must remain intact in all files.
-	YOU MUST Forward OR Provide License text | A copy of this text file must be distributed along with any copies of Qhull that you redistribute
+	YOU MUST Provide License text | A copy of this text file must be distributed along with any copies of Qhull that you redistribute
 	IF Software modification | If you modify Qhull
 		YOU MUST Provide Modification author | If you modify Qhull, you must include a notice giving the name of the person performing the modification
 		YOU MUST Provide Modification date | If you modify Qhull, you must include a notice giving*the date of modification

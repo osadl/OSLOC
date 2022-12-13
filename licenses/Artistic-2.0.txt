@@ -1,15 +1,15 @@
 USE CASE Source code delivery | You may Distribute verbatim copies of the Source form of the Standard Version of this Package
-	YOU MUST Forward Copyright notices | provided that you duplicate all of the original copyright notices
-	YOU MUST Forward Warranty disclaimer | provided that you duplicate all of the*associated disclaimers
+	YOU MUST Provide Copyright notices | provided that you duplicate all of the original copyright notices
+	YOU MUST Provide Warranty disclaimer | provided that you duplicate all of the*associated disclaimers
 	IF Software modification | You may Distribute your Modified Version as Source
 		EXCEPT IF Provided By Copyright holder | You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
 		YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
 		EITHER | provided that you do at least ONE of the following
-			YOU MUST Provide Source code of Modified work | make the Modified Version available
-				ATTRIBUTE to Copyright holder of Original work | to the Copyright Holder of the Standard Version
+			YOU MUST Provide Source code Of Modified work | make the Modified Version available
+				ATTRIBUTE To Copyright holder Of Original work | to the Copyright Holder of the Standard Version
 				ATTRIBUTE Original license | under the Original License
 		OR
-			YOU MUST NOT Impede Installation of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
+			YOU MUST NOT Impede Installation Of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
 			YOU MUST NOT Impede Running Original work | ensure that installation of your Modified Version does not prevent the user*running the Standard Version
 			YOU MUST Rename Modified work | the Modified Version must bear a name that is different from the name of the Standard Version
 		OR
@@ -31,11 +31,11 @@ USE CASE Binary delivery | You may Distribute Compiled forms of the Standard Ver
 		EXCEPT IF Provided By Copyright holder | You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
 		YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
 		EITHER | provided that you do at least ONE of the following
-			YOU MUST Provide Source code of Modified work | make the Modified Version available
-				ATTRIBUTE to Copyright holder of Original work | to the Copyright Holder of the Standard Version
+			YOU MUST Provide Source code Of Modified work | make the Modified Version available
+				ATTRIBUTE To Copyright holder Of Original work | to the Copyright Holder of the Standard Version
 				ATTRIBUTE Original license | under the Original License
 		OR
-			YOU MUST NOT Impede Installation of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
+			YOU MUST NOT Impede Installation Of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
 			YOU MUST NOT Impede Running Original work | ensure that installation of your Modified Version does not prevent the user*running the Standard Version
 			YOU MUST Rename Modified work | the Modified Version must bear a name that is different from the name of the Standard Version
 		OR
@@ -45,15 +45,15 @@ USE CASE Binary delivery | You may Distribute Compiled forms of the Standard Ver
 				YOU MUST Use Strong copyleft license | a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed
 	IF Linked work | You are permitted to link Modified and Standard Versions with other works
 		EITHER
-			YOU MUST NOT Provide Interface to Work | the result does not expose a direct interface 
+			YOU MUST NOT Provide Interface To Work | the result does not expose a direct interface 
 		OR
 			YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
 			EITHER | provided that you do at least ONE of the following
-				YOU MUST Provide Source code of Modified work | make the Modified Version available
-					ATTRIBUTE to Copyright holder of Original work | to the Copyright Holder of the Standard Version
+				YOU MUST Provide Source code Of Modified work | make the Modified Version available
+					ATTRIBUTE To Copyright holder Of Original work | to the Copyright Holder of the Standard Version
 					ATTRIBUTE Original license | under the Original License
 			OR
-				YOU MUST NOT Impede Installation of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
+				YOU MUST NOT Impede Installation Of Original work | ensure that installation of your Modified Version does not prevent the user installing*the Standard Version. I
 				YOU MUST NOT Impede Running Original work | ensure that installation of your Modified Version does not prevent the user*running the Standard Version
 				YOU MUST Rename Modified work | the Modified Version must bear a name that is different from the name of the Standard Version
 			OR

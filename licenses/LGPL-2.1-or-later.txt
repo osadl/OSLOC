@@ -7,7 +7,7 @@ USE CASE Source code delivery | You may copy and distribute verbatim copies of t
 		ATTRIBUTE Appropriately | appropriately publish on each copy
 	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
 	YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
-	YOU MUST Forward License text | distribute a copy of this License along with the Library
+	YOU MUST Provide License text | distribute a copy of this License along with the Library
 	IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
 		YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
 		YOU MUST Provide Modification notice | stating that you changed the files
@@ -16,112 +16,154 @@ USE CASE Source code delivery | You may copy and distribute verbatim copies of t
 			ATTRIBUTE Original license | You must cause the whole of the work to be licensed*under the terms of this License
 		IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
 			YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
-	YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
 	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
 USE CASE Binary delivery | You may copy and distribute the Library*in object code or executable form
-	IF NOT Linked work | You may copy and distribute the Library*in object code or executable form under*provided that
-		YOU MUST Provide Source code | provided that you accompany it with the*source code
+	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy
+	YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy
+	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+	YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
+	YOU MUST Provide License text | distribute a copy of this License along with the Library
+	YOU MUST Provide Source code | provided that you accompany it with the*source code
+		ATTRIBUTE Machine-readable | machine-readable source code,
+		ATTRIBUTE Customary medium | must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange
+		ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+		ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the library
+		IF Binary delivery Via Internet | If distribution of object code is made by offering access to copy from a designated place
+			ATTRIBUTE Source code delivery Via Internet | offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code
+				ATTRIBUTE On same server | from the same place satisfies the requirement to distribute the source code
+				ATTRIBUTE Equivalent | equivalent access to copy the source code
+	IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+		YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+		YOU MUST Provide Modification notice | stating that you changed the files
+		YOU MUST Provide Modification date | date of any change
+		YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+			ATTRIBUTE Original license | under the terms of this License
+		IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+			YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
+	YOU MUST NOT Restrict Granted rights | Such a contradiction means you cannot use both them and the Library together | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+USE CASE Source code delivery Of Combined work | As an exception to the Sections above, you may also combine or link a "work that uses the Library" with the Library to produce a work containing portions of the Library
+	YOU MUST Permit Modification of Linked work | provided that the terms permit modification of the work
+		ATTRIBUTE For own use | for the customer's own use
+	YOU MUST Notify Library | You must give prominent notice with each copy of the work that the Library is used in it
+		ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
+	YOU MUST Provide License announcement | You must give prominent notice with each copy of the work*that the Library and its use are covered by this License
+		ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
+	YOU MUST Provide License text | You must supply a copy of this License
+	IF Interactive AND Displaying Copyright notices | If the work during execution displays copyright notices 
+		YOU MUST Display Copyright notices | you must include the copyright notice for the Library among them  || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+		YOU MUST Reference License text | you must include*a reference directing the user to the copy of this License
+	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy
+	YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
+		ATTRIBUTE Highlighted | conspicuously*publish on each copy
+		ATTRIBUTE Appropriately | appropriately publish on each copy
+	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+	YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
+	IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+		YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+		YOU MUST Provide Modification notice | stating that you changed the files
+		YOU MUST Provide Modification date | date of any change
+		YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+			ATTRIBUTE Original license | under the terms of this License
+		IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+			YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
+	YOU MUST NOT Restrict Granted rights | Such a contradiction means you cannot use both them and the Library together | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+USE CASE Binary delivery Of Combined work | As an exception to the Sections above, you may also combine or link a "work that uses the Library" with the Library to produce a work containing portions of the Library
+	YOU MUST Permit Modification of Linked work | provided that the terms permit modification of the work
+		ATTRIBUTE For own use | for the customer's own use
+	YOU MUST Permit Reverse engineering of Linked work | provided that the terms permit*reverse engineering
+		ATTRIBUTE For Debugging Of Modification | for debugging such modifications
+		ATTRIBUTE For own use | for the customer's own use
+	YOU MUST Notify Library | You must give prominent notice with each copy of the work that the Library is used in it
+		ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
+	YOU MUST Provide License announcement | You must give prominent notice with each copy of the work*that the Library and its use are covered by this License
+		ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
+	YOU MUST Provide License text | You must supply a copy of this License
+	IF Interactive AND Displaying Copyright notices | If the work during execution displays copyright notices 
+		YOU MUST Display Copyright notices | you must include the copyright notice for the Library among them  || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
+		YOU MUST Reference License text | you must include*a reference directing the user to the copy of this License
+	EITHER | Also, you must do one of these things
+		YOU MUST Use Shared library | Use a suitable shared library mechanism for linking with the Library
+		YOU MUST Provide Source code Of the Library | provided that you accompany it with the*source code
 			ATTRIBUTE Machine-readable | machine-readable source code,
 			ATTRIBUTE Customary medium | must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange
-			ATTRIBUTE Including Installation scripts | plus the scripts used to control compilation and installation of the library
-			IF Binary delivery Via Internet | If distribution of object code is made by offering access to copy from a designated place
-				ATTRIBUTE Source code delivery Via Internet | offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code
-					ATTRIBUTE On same server | from the same place satisfies the requirement to distribute the source code
-					ATTRIBUTE Equivalent | equivalent access to copy the source code
-		YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
-			ATTRIBUTE Highlighted | conspicuously*publish on each copy
-			ATTRIBUTE Appropriately | appropriately publish on each copy
-		YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
-			ATTRIBUTE Highlighted | conspicuously*publish on each copy
-			ATTRIBUTE Appropriately | appropriately publish on each copy
-		YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
-		YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
-		YOU MUST Forward License text | distribute a copy of this License along with the Library
-		IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
-			YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
-			YOU MUST Provide Modification notice | stating that you changed the files
-			YOU MUST Provide Modification date | date of any change
-			YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
-				ATTRIBUTE Original license | under the terms of this License
-			IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
-				YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
-		YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
-	IF Combined work | As an exception to the Sections above, you may also combine or link a "work that uses the Library" with the Library to produce a work containing portions of the Library
-		YOU MUST Permit Modification of Linked work | provided that the terms permit modification of the work
-			ATTRIBUTE For own use | for the customer's own use
-		YOU MUST Permit Reverse engineering of Linked work | provided that the terms permit*reverse engineering
-			ATTRIBUTE For Debugging Of Modification | for debugging such modifications
-			ATTRIBUTE For own use | for the customer's own use
-		YOU MUST Notify Library | You must give prominent notice with each copy of the work that the Library is used in it
-			ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
-		YOU MUST Provide License announcement | You must give prominent notice with each copy of the work*that the Library and its use are covered by this License
-			ATTRIBUTE Highlighted | You must give prominent notice with each copy of the work
-		YOU MUST Provide License text | You must supply a copy of this License
-		EITHER
-			YOU MUST Provide Linkable work | Accompany the work*with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.
-		OR
-			YOU MUST Use Shared library | Use a suitable shared library mechanism for linking with the Library
-		IF Interactive AND Displaying Copyright notices | If the work during execution displays copyright notices 
-			YOU MUST Display Copyright notices | you must include the copyright notice for the Library among them  || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
-			YOU MUST Reference License text | you must include*a reference directing the user to the copy of this License
-		EITHER | Also, you must do one of these things
-			YOU MUST Provide Source code | Accompany the work with the complete corresponding machine-readable source code for the Library including whatever changes were used in the work
+			ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+			ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the library
+		YOU MUST Enable Relinking With Modified library | will operate properly with a modified version of the library, if the user installs one, as long as the modified version is interface-compatible with the version that the work was made with.
+	OR
+		YOU MUST Provide Linkable work | Accompany the work*with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.
+			ATTRIBUTE Machine-readable | the complete machine-readable "work that uses the Library"
+			ATTRIBUTE Including Tool chain information | For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it
+		YOU MUST Provide Source code Of the Library | Accompany the work with the complete corresponding machine-readable source code for the Library including whatever changes were used in the work
+			ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+			ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the library
+		YOU MUST Enable Relinking With Modified library | so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+	OR
+		YOU MUST Provide Written offer | Accompany the work with a written offer
+			ATTRIBUTE Duration 3 years | valid for at least three years
+			ATTRIBUTE No profit | for a charge no more than the cost of performing this distribution
+			ATTRIBUTE Delayed source code delivery Of the Library | the complete corresponding machine-readable source code for the Library | to give the same user the materials specified in Subsection 6a
 				ATTRIBUTE Machine-readable | machine-readable source code,
 				ATTRIBUTE Customary medium | must be distributed under the terms of Sections 1 and 2 above on a medium customarily used for software interchange
-				ATTRIBUTE Including Installation scripts | plus the scripts used to control compilation and installation of the library
-				IF Binary delivery Via Internet | If distribution of object code is made by offering access to copy from a designated place
-					ATTRIBUTE Source code delivery Via Internet | offering equivalent access to copy the source code from the same place satisfies the requirement to distribute the source code
-						ATTRIBUTE On same server | from the same place satisfies the requirement to distribute the source code
-						ATTRIBUTE Equivalent | equivalent access to copy the source code
-			YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
-				ATTRIBUTE Highlighted | conspicuously*publish on each copy
-				ATTRIBUTE Appropriately | appropriately publish on each copy
-			YOU MUST Provide Warranty disclaimer | conspicuously and appropriately publish on each copy a* disclaimer of warranty
-				ATTRIBUTE Highlighted | conspicuously*publish on each copy
-				ATTRIBUTE Appropriately | appropriately publish on each copy
-			YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
-			YOU MUST NOT Modify Warranty disclaimer | keep intact all the notices that refer*to the absence of any warranty
-			YOU MUST Provide License text | distribute a copy of this License along with the Library
-			IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
-				YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
-				YOU MUST Provide Modification notice | stating that you changed the files
-				YOU MUST Provide Modification date | date of any change
-				YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
-					ATTRIBUTE Original license | under the terms of this License
-				IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
-					YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
-			YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
-		OR
-			YOU MUST NOT Provide Library | Use a suitable shared library mechanism for linking with the Library. A suitable mechanism is one that*uses at run time a copy of the library already present on the user's computer system
-			YOU MUST Ensure Interoperability | will operate properly with a modified version of the library, if the user installs one, as long as the modified version is interface-compatible with the version that the work was made with
-		OR
-			YOU MUST Provide Delayed source code delivery | Accompany the work with a written offer
-			YOU MUST Provide Written offer | Accompany the work with a written offer
-				ATTRIBUTE Duration 3 years | valid for at least three years
-				ATTRIBUTE No profit | for a charge no more than the cost of performing this distribution
-			IF Software modification | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
-				YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
-				YOU MUST Provide Modification notice | stating that you changed the files
-				YOU MUST Provide Modification date | date of any change
-				YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
-					ATTRIBUTE Original license | under the terms of this License
-				IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
-					YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
-			YOU MUST Provide Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
-		OR
-			YOU MUST Ensure Source code delivery | Verify that the user has already received a copy of these materials or that you have already sent this user a copy
-	IF Combined library | You may place library facilities that are a work based on the Library side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined library*provided that you do these two things
-		YOU MUST Permit Binary delivery of Library | provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted
-		YOU MUST Provide Library | Accompany the combined library with a copy of the same work based on the Library, uncombined with any other library facilities
-			ATTRIBUTE Original license | This must be distributed under the terms of the Sections above.
-		YOU MUST Provide License notices | Give prominent notice with the combined library of the fact that part of it is a work based on the Library
-		YOU MUST Reference Library | explaining where to find the accompanying uncombined form of the same work
+				ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+				ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the library
+			ATTRIBUTE Delayed delivery Of Linkable work | Accompany the work*with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.
+				ATTRIBUTE Interoperability With Modified library | so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+				ATTRIBUTE Machine-readable | the complete machine-readable "work that uses the Library"
+				ATTRIBUTE Including Tool chain information | For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it
+			YOU MUST Enable Relinking With Modified library | so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+	OR IF Binary delivery Via Internet | If distribution of the work is made by offering access to copy from a designated place
+		YOU MUST Provide Source code delivery Of the Library Via Internet | offer equivalent access to copy the above specified materials from the same place
+			ATTRIBUTE On same server | the above specified materials from the same place
+			ATTRIBUTE Equivalent | equivalent access to copy the above specified materials
+			ATTRIBUTE Machine-readable | machine-readable source code,
+			ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+			ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the library
+		YOU MUST Provide Linkable work Via Internet | Accompany the work*with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.
+			ATTRIBUTE On same server | the above specified materials from the same place
+			ATTRIBUTE Equivalent | equivalent access to copy the above specified materials
+			ATTRIBUTE Machine-readable | the complete machine-readable "work that uses the Library"
+			ATTRIBUTE Interoperability With Modified library | so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+			ATTRIBUTE Including Tool chain information | For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it
+		YOU MUST Enable Relinking With Modified library | so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+	OR
+		YOU MUST Ensure Source code delivery Of the Library | Verify that the user has already received a copy of these materials or that you have already sent this user a copy
+			ATTRIBUTE Machine-readable | machine-readable source code,
+			ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation
+			ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the library
+		YOU MUST Ensure Delivery Of Linkable work | Accompany the work*with the complete machine-readable "work that uses the Library", as object code and/or source code, so that the user can modify the Library and then relink to produce a modified executable containing the modified Library.
+			ATTRIBUTE Machine-readable | the complete machine-readable "work that uses the Library"
+			ATTRIBUTE Including Tool chain information | For an executable, the required form of the "work that uses the Library" must include any data and utility programs needed for reproducing the executable from it
+		YOU MUST Enable Relinking With Modified library | so that the user can modify the Library and then relink to produce a modified executable containing the modified Library. (It is understood that the user who changes the contents of definitions files in the Library will not necessarily be able to recompile the application to use the modified definitions.)
+	IF Software modification Of Library | You may modify your copy or copies of the Library or any portion of it*provided that you also meet all of these conditions
+		YOU MUST Ensure Modified work Is Library | The modified work must itself be a software library
+		YOU MUST Provide Modification notice | stating that you changed the files
+		YOU MUST Provide Modification date | date of any change
+		YOU MUST Grant License | copy and distribute such modifications or work under the terms of Section 1
+			ATTRIBUTE Original license | under the terms of this License
+		IF Software modification Uses Linked work | If a facility in the modified Library refers to a function or a table of data to be supplied by an application program that uses the facility
+			YOU MUST Ensure Functionality Without Linked work | you must make a good faith effort to ensure that, in the event an application does not supply such function or table, the facility still operates
 	YOU MUST NOT Restrict Granted rights | Such a contradiction means you cannot use both them and the Library together | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
-USE CASE Header files Included in Linked work | When a "work that uses the Library" uses material from a header file that is part of the Library, the object code for the work may be a derivative work of the Library even though the source code is not
-	IF Substantial work | If such an object file uses only numerical parameters, data structure layouts and accessors, and small macros and small inline functions
-		ATTRIBUTE More than 10 lines of code | ten lines or less in length
+USE CASE Source code delivery OR Binary delivery Of Combined library | You may place library facilities that are a work based on the Library side-by-side in a single library together with other library facilities not covered by this License, and distribute such a combined library*provided that you do these two things
+	YOU MUST Permit Binary delivery of Library | provided that the separate distribution of the work based on the Library and of the other library facilities is otherwise permitted
+	YOU MUST Provide Library | Accompany the combined library with a copy of the same work based on the Library
+		ATTRIBUTE Uncombined | uncombined with any other library facilities
+		ATTRIBUTE Original license | This must be distributed under the terms of the Sections above.
+	YOU MUST Provide License notices | Give prominent notice with the combined library of the fact that part of it is a work based on the Library
+	YOU MUST Reference Library | explaining where to find the accompanying uncombined form of the same work
+		ATTRIBUTE Uncombined | uncombined form of the same work
+	YOU MUST NOT Restrict Granted rights | Such a contradiction means you cannot use both them and the Library together | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
+USE CASE Binary delivery Of Linked work With Header files Of Library Included In Linked work | When a "work that uses the Library" uses material from a header file that is part of the Library, the object code for the work may be a derivative work of the Library even though the source code is not
+	IF More than 10 lines of code | If such an object file uses only numerical parameters, data structure layouts and accessors, and small macros and small inline functions (ten lines or less in length) | Otherwise, if the work is a derivative of the Library, you may distribute the object code for the work under the terms of Section 6
 		YOU MUST Use GPL-2.0-or-later For Library AND Linked work | You may opt to apply the terms of the ordinary GNU General Public License | This option is useful when you wish to copy part of the code of the Library into a program that is not a library. 
 			YOU MUST Provide Source code Of Library AND Linked work | You may opt to apply the terms of the ordinary GNU General Public License
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
+COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
@@ -131,20 +173,23 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
-COMPATIBILITY GPL-2.0-or-later | You may opt to apply the terms of the ordinary GNU General Public License instead of this License
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
-COMPATIBILITY LGPL-3.0-or-later | either version 2.1 of the License, or (at your option) any later version
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
 COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
 COMPATIBILITY NTP
+COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
 COMPATIBILITY ZPL-2.0 || It has also been designated as GPL compatible by the Free Software Foundation (FSF).
+DEPENDING COMPATIBILITY AGPL-3.0-only || you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work. ||| Via GPL-3.0 and linking only : LGPL-2.1-or-later licensed material must be used under GPL-3.0-or-later and must not be inserted into the code, but can only be linked or combined with it.
+DEPENDING COMPATIBILITY AGPL-3.0-or-later || you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work. ||| Via GPL-3.0 and linking only : LGPL-3.0-or-later licensed material must be used under GPL-3.0-or-later and must not be inserted into the code, but can only be linked or combined with it.
 DEPENDING COMPATIBILITY EPL-2.0 || "Secondary License" means*the GNU General Public License, Version 2.0 | "This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}." | Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
 INCOMPATIBILITY Apache-1.0 | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
 INCOMPATIBILITY Apache-1.1 | The end-user documentation included with the redistribution, if any, must include the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein

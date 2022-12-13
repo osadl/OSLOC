@@ -6,13 +6,13 @@ USE CASE Source code delivery | You may make and give away verbatim copies of th
 		YOU MUST Provide Modification report In Source code | stating how*you changed that file
 		YOU MUST Provide Modification date In Source code | stating*when you changed that file
 		EITHER | and provided that you do at least ONE of the following
-			YOU MUST Publish Modification | place your modifications in the Public Domain or otherwise make them Freely Available, such as by posting said modifications to Usenet or an equivalent medium, or placing the modifications on a major archive site such as uunet.uu.net
+			YOU MUST Publish Modification | place your modifications in the Public Domain or otherwise make them Freely Available, such as by posting said modifications to Usenet or an equivalent medium, or placing the modifications on a major archive site such as ftp.uu.net
 			YOU MUST Grant License | place your modifications in the Public Domain or otherwise make them Freely Available
 				EITHER
 					ATTRIBUTE Public domain | place your modifications in the Public Domain
 				OR
 					ATTRIBUTE No profit | make them Freely Available | "Freely Available" means that no fee is charged for the item itself, though there may be fees involved in handling the item.
-					ATTRIBUTE Original license | make them Freely Available | It also means that recipients of the item may redistribute it under the same conditions they received it
+					ATTRIBUTE Original license | make them Freely Available | It also means that recipients of the item may redistribute it under the same conditions they received it.
 		OR
 			YOU MUST Provide Source code Of Modified work | include your modifications
 				ATTRIBUTE To Copyright holder Of Original work | allowing the Copyright Holder | "Copyright Holder" is whoever is named in the copyright or copyrights for the package.
@@ -24,18 +24,18 @@ USE CASE Source code delivery | You may make and give away verbatim copies of th
 	YOU MUST NOT Require License fee | You may not charge a fee for this Package itself
 	YOU MUST NOT Promote | The name of the Copyright Holder may not be used to endorse or promote products derived from this software
 USE CASE Binary delivery | You may distribute the programs of this Package in object code or executable form
-	IF Software modification | Package with your modifications | give non-standard executables
+	YOU MUST Provide Original work | distribute a Standard Version of the executables and library files
+	YOU MUST Reference Original work In Distribution material | together with instructions (in the manual page or equivalent) on where to get the Standard Version.
+	IF Software modification | Package with your modifications | accompany any non-standard executables
 		EITHER | , provided that you do at least ONE of the following
-			YOU MUST Provide Original work | distribute a Standard Version of the executables and library files
-			YOU MUST Reference Original work In Distribution material | together with instructions (in the manual page or equivalent) on where to get the Standard Version.
-		OR
 			YOU MUST Provide Source code | accompany the distribution with the machine-readable source of the Package with your modifications.
 				ATTRIBUTE Machine-readable | with the machine-readable source
 		OR
-			YOU MUST Rename Modified work | give non-standard executables non-standard names
-			YOU MUST Provide Modification report In Distribution material | clearly document the differences in manual pages (or equivalent)
+			YOU MUST Provide Original work As Binary delivery | accompany any non-standard executables with their corresponding Standard Version executables
+			YOU MUST Rename Modified work | giving the non-standard executables non-standard names
+			YOU MUST Provide Modification report In Distribution material | clearly documenting the differences in manual pages (or equivalent)
 			YOU MUST Reference Original work In Distribution material | in manual pages (or equivalent), together with instructions on where to get the Standard Version
-	IF Distributed With Other works | distribute this Package in aggregate with other (possibly commercial) programs as part of a larger (possi$
+	IF Distributed With Other works | distribute this Package in aggregate with other (possibly commercial) programs as part of a larger (possibly commercial) software distribution
 		YOU MUST NOT Misrepresent Authorship | provided that you do not advertise this Package as a product of your own
 	YOU MUST NOT Require License fee | You may not charge a fee for this Package itself
 	YOU MUST NOT Promote | The name of the Copyright Holder may not be used to endorse or promote products derived from this software

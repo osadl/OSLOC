@@ -1,0 +1,65 @@
+USE CASE Source code delivery | Redistributions of source code
+	YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice
+	YOU MUST Forward License text | Redistributions of source code must retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain*the following disclaimer
+	YOU MUST NOT Promote | Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+	IF Software modification | Redistribution*in source*forms, with* modification | must be freely redistributable under reasonable conditions
+		YOU MUST Use License For Modification | and must be*redistributable under*conditions
+			ATTRIBUTE No charge | freely redistributable
+			ATTRIBUTE Reasonable | redistributable under reasonable conditions
+USE CASE Binary delivery | Redistributions in binary form
+	YOU MUST Provide Copyright notices In Documentation OR Distribution material | Redistributions in binary form must reproduce the above copyright notice*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide License text In Documentation OR Distribution material | Redistributions in binary form must reproduce*this list of conditions*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide Warranty disclaimer In Documentation OR Distribution material | Redistributions in binary form must reproduce*the following disclaimer in the documentation and/or other materials provided with the distribution
+	YOU MUST NOT Promote | Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+	EITHER
+		YOU MUST Include Source code | The source code must*be included in the distribution
+	OR
+		YOU MUST Provide Delayed source code delivery | The source code must*be available
+			ATTRIBUTE No profit | no more than the cost of distribution plus a nominal fee
+	IF Software modification | Redistribution*in *binary forms, with *modification | must be freely redistributable under reasonable conditions
+		YOU MUST Use License For Modification | and must be*redistributable under*conditions
+			ATTRIBUTE No charge | freely redistributable
+			ATTRIBUTE Reasonable | redistributable under reasonable conditions
+USE CASE Combined work delivery | the DB software and any accompanying software that uses the DB software
+	YOU MUST NOT Promote | Neither the name of the University nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+	YOU MUST Use License For Combined work | the DB software and any accompanying software that uses the DB software* must be freely redistributable under*conditions
+		ATTRIBUTE No charge | freely redistributable
+		ATTRIBUTE Reasonable | redistributable under reasonable conditions
+	IF Source code delivery | Redistributions of source code
+		YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice
+		YOU MUST Forward License text | Redistributions of source code must retain*this list of conditions
+		YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain*the following disclaimer
+	IF Binary delivery | Redistributions in binary form
+		YOU MUST Provide Copyright notices In Documentation OR Distribution material | Redistributions in binary form must reproduce the above copyright notice*in the documentation and/or other materials provided with the distribution
+		YOU MUST Provide License text In Documentation OR Distribution material | Redistributions in binary form must reproduce*this list of conditions*in the documentation and/or other materials provided with the distribution
+		YOU MUST Provide Warranty disclaimer In Documentation OR Distribution material | Redistributions in binary form must reproduce*the following disclaimer in the documentation and/or other materials provided with the distribution
+		EITHER
+			YOU MUST Include Source code Of Combined work | source code for the DB software and any accompanying software that uses the DB software*The source code must*be included in the distribution
+		OR
+			YOU MUST Provide Delayed source code delivery Of Combined work | source code for the DB software and any accompanying software*The source code must*be available
+				ATTRIBUTE No profit | no more than the cost of distribution plus a nominal fee
+COMPATIBILITY blessing
+COMPATIBILITY BSD-2-Clause
+COMPATIBILITY BSD-2-Clause-Patent
+COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSL-1.0
+COMPATIBILITY bzip2-1.0.5
+COMPATIBILITY bzip2-1.0.6
+COMPATIBILITY CC0-1.0
+COMPATIBILITY curl
+COMPATIBILITY EFL-2.0
+COMPATIBILITY FSFAP
+COMPATIBILITY FSFULLR
+COMPATIBILITY IBM-pibs
+COMPATIBILITY ICU
+COMPATIBILITY ISC
+COMPATIBILITY Libpng
+COMPATIBILITY MIT
+COMPATIBILITY NTP
+COMPATIBILITY Unlicense
+COMPATIBILITY UPL-1.0
+COMPATIBILITY WTFPL
+COMPATIBILITY X11
+COMPATIBILITY Zlib
+COPYLEFT CLAUSE Yes | Redistributions in any form must be accompanied by information on how to obtain complete source code for*any accompanying software that uses the DB software. The source code*must be freely redistributable under reasonable conditions. || No specific license enforced : For extensions or modifications the use of a specific such as the original license is not enforced, but the license must be generally free and reasonable. This is still considered "copyleft", albeit in a more general variant.

@@ -1,12 +1,8 @@
 USE CASE Source code delivery | Permission is granted to anyone to*redistribute it freely
 	YOU MUST Forward License text | This notice may not be removed or altered from any source distribution
-	YOU MUST Forward Warranty disclaimer | without any express or implied warranty | This notice may not be removed or altered from any source distribution
 	YOU MUST NOT Misrepresent Authorship | The origin of this software must not be misrepresented; you must not claim that you wrote the original software
 	IF Software modification | Altered source versions
-		YOU MUST Mark Modified work | must be plainly marked as such
+		YOU MUST Provide Modification notice | must be plainly marked as such
 		YOU MUST NOT Misrepresent Modified work | and must not be misrepresented as being the original software
 USE CASE Binary delivery | Permission is granted to anyone to*redistribute it freely
 	YOU MUST NOT Misrepresent Authorship | The origin of this software must not be misrepresented; you must not claim that you wrote the original software
-	IF Software modification | Altered source versions
-		YOU MUST Mark Modified work| must be plainly marked as such
-		YOU MUST NOT Misrepresent Modified work | and must not be misrepresented as being the original software

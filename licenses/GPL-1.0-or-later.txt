@@ -1,66 +1,55 @@
 USE CASE Source code delivery | You may copy and distribute verbatim copies of the Program's source code as you receive it
-	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice
+	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || Done by default: Usually no separate action required, since copyright notices normally are included in the source code.
 		ATTRIBUTE Highlighted | conspicuously*publish on each copy
 		ATTRIBUTE Appropriately | appropriately publish on each copy
 	YOU MUST Provide Warranty disclaimer (Warranty disclaimer) | conspicuously and appropriately publish on each copy a* disclaimer of warranty
 		ATTRIBUTE Highlighted | conspicuously*publish on each copy
 		ATTRIBUTE Appropriately | appropriately publish on each copy
-	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this General Public License
 	YOU MUST NOT Modify Warranty disclaimer (Warranty disclaimer) | keep intact all the notices that refer*to the absence of any warranty
-	YOU MUST Provide License text | give any other recipients of the Program a copy of this License
+	YOU MUST Provide License text | give any other recipients of the Program a copy of this General Public License || Done by default: Usually no separate action required, since the license text normally is included in the source code delivery.
 	IF Software modification | You may modify your copy or copies of the Program or any portion of it
-		YOU MUST Grant License | You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed as a whole at no charge to all third parties
-			ATTRIBUTE Original license | under the terms of this License
+		YOU MUST Grant License | cause the whole of any work that you distribute or publish, that in whole or in part contains the Program or any part thereof, either with or without modifications, to be licensed at no charge to all third parties
+			ATTRIBUTE Original license | under the terms of this General Public License
 		YOU MUST Provide Modification notice | stating that you changed the files
 		YOU MUST Provide Modification date | date of any change
-		IF Interactive AND Displaying License announcement | If the modified program normally reads commands interactively when run*if the Program*does not normally print such an announcement, your work*is not required to print an announcement
+		IF Interactive | If the modified program normally reads commands interactively when run
 			YOU MUST Display License announcement | you must cause it*to print or display an announcement
 			YOU MUST Display Copyright notice | you must cause it*to print or display*an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
 			YOU MUST Display Warranty disclaimer | you must cause it*to print or display*a notice that there is no warranty
-			YOU MUST Reference License text | you must cause it*to print or display an announcement*and telling the user how to view a copy of this License
+			YOU MUST Reference License text | you must cause it*to print or display an announcement*and telling the user how to view a copy of this General Public License
 	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the recipients' exercise of the rights granted herein. || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
-USE CASE Binary delivery | You may copy and distribute the Program (or a work based on it, under Section 2) in object code or executable form
+USE CASE Binary delivery | You may copy and distribute the Program (or a portion or derivative of it, under Paragraph 2) in object code or executable form
 	YOU MUST Provide Copyright notice | publish on each copy an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
 		ATTRIBUTE Highlighted | conspicuously*publish on each copy
 		ATTRIBUTE Appropriately | appropriately publish on each copy
 	YOU MUST Provide Warranty disclaimer (Warranty disclaimer) | conspicuously and appropriately publish on each copy a* disclaimer of warranty
 		ATTRIBUTE Highlighted | conspicuously*publish on each copy
 		ATTRIBUTE Appropriately | appropriately publish on each copy
-	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this License
+	YOU MUST NOT Modify License notices | keep intact all the notices that refer to this General Public License
 	YOU MUST NOT Modify Warranty disclaimer (Warranty disclaimer) | keep intact all the notices that refer*to the absence of any warranty
-	YOU MUST Provide License text | give any other recipients of the Program a copy of this License
+	YOU MUST Provide License text | give any other recipients of the Program a copy of this General Public License
 	EITHER | provided that you also do one of the following
-		YOU MUST Provide Source code | a) Accompany it with the complete corresponding*source code
+		YOU MUST Provide Source code | a) accompany it with the complete corresponding*source code
 			ATTRIBUTE Machine-readable | machine-readable source code
-			ATTRIBUTE Customary medium | which must be distributed*on a medium customarily used for software interchange
-			ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation*the source code distributed need not include anything that is normally distributed
-			ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the executable
-			IF Binary delivery Via Internet | If distribution of executable or object code is made by offering access to copy from a designated place
-				ATTRIBUTE Source code delivery Via Internet | offering equivalent access to copy the source code from the same place counts as distribution of the source code
-					ATTRIBUTE On same server | from the same place counts as distribution of the source code
-					ATTRIBUTE Equivalent | equivalent access to copy the source code
 	OR
-		YOU MUST Provide Written offer (Written offer) | Accompany it with a written offer
+		YOU MUST Provide Written offer | accompany it with a written offer
 			ATTRIBUTE Duration 3 years | valid for at least three years
 			ATTRIBUTE To Any third party | to give any third party
-			ATTRIBUTE No profit | for a charge no more than your cost of physically performing source distribution
+			ATTRIBUTE No profit | free (except for a nominal charge for the cost of distribution)
 			ATTRIBUTE Delayed source code delivery | to give any third party*a complete machine-readable copy of the corresponding source code
-				ATTRIBUTE Machine-readable | machine-readable source code
-				ATTRIBUTE Customary medium | which must be distributed*on a medium customarily used for software interchange
-				ATTRIBUTE Including Tool chain information | plus any associated interface definition files, plus the scripts used to control compilation*the source code distributed need not include anything that is normally distributed
-				ATTRIBUTE Including Installation scripts | plus the scripts used to control*installation of the executable
+				ATTRIBUTE Machine-readable | machine-readable copy
 	IF Software modification | You may modify your copy or copies of the Program or any portion of it
-		YOU MUST Grant License | You must cause any work that you distribute or publish, that in whole or in part contains or is derived from the Program or any part thereof, to be licensed as a whole at no charge to all third parties
-			ATTRIBUTE Original license | under the terms of this License
+		YOU MUST Grant License | cause the whole of any work that you distribute or publish, that in whole or in part contains the Program or any part thereof, either with or without modifications, to be licensed at no charge to all third parties
+			ATTRIBUTE Original license | under the terms of this General Public License
 		YOU MUST Provide Modification notice | stating that you changed the files
 		YOU MUST Provide Modification date | date of any change
-		IF Interactive AND Displaying License announcement | If the modified program normally reads commands interactively when run*if the Program*does not normally print such an announcement, your work*is not required to print an announcement
-			YOU MUST Display License announcement (Interactive announcement) | you must cause it*to print or display an announcement
+		IF Interactive | If the modified program normally reads commands interactively when run
+			YOU MUST Display License announcement | you must cause it*to print or display an announcement
 			YOU MUST Display Copyright notice | you must cause it*to print or display*an appropriate copyright notice || All or some : At the time when this license was written, software normally did not have more than a couple of authors, and labels with their copyright notices could easily be published on a copy, since disk sleeves used to be large enough for this purpose. With the evolution of distributed software development and the miniaturization of storage media this is no longer possible. However, it would be possible to do so in electronic form. Since the license may, in fact, require that all holders of rights be listed, a more defensive interpretation probably would recommend to provide a complete list of copyright notices in a file and convey it on a data carrier along with the program.
-			YOU MUST Display Warranty disclaimer (Warranty disclaimer) | you must cause it*to print or display*a notice that there is no warranty
-			YOU MUST Reference License text | you must cause it*to print or display an announcement*and telling the user how to view a copy of this License
+			YOU MUST Display Warranty disclaimer | you must cause it*to print or display*a notice that there is no warranty
+			YOU MUST Reference License text | you must cause it*to print or display an announcement*and telling the user how to view a copy of this General Public License
 	YOU MUST NOT Restrict Granted rights | You may not impose any further restrictions on the recipients' exercise of the rights granted herein. || Legal and/or other means : The named 'further restrictions' may relate to the restrictions of this license and, thus, prohibit further restricting legal clauses; however, it also is conceivable that any other means such as technical hindrance methods are included in the meaning of 'further restrictions'.
-COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
 COMPATIBILITY blessing
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
@@ -71,7 +60,6 @@ COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
-COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | GNU General Public License (GNU GPL) v. 2
 COMPATIBILITY FSFAP
 COMPATIBILITY FSFULLR
 COMPATIBILITY IBM-pibs
@@ -79,7 +67,6 @@ COMPATIBILITY ICU
 COMPATIBILITY ISC
 COMPATIBILITY Libpng
 COMPATIBILITY MIT
-COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
 COMPATIBILITY NTP
 COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
@@ -90,7 +77,13 @@ COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
 COMPATIBILITY ZPL-2.0 || It has also been designated as GPL compatible by the Free Software Foundation (FSF).
-DEPENDING COMPATIBILITY EPL-2.0 || "Secondary License" means either the GNU General Public License, Version 2.0*including any exceptions or additional permissions as identified by the initial Contributor. | "This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}." | Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
+DEPENDING COMPATIBILITY EPL-2.0 || "Secondary License" means*the GNU General Public License, Version 2.0 | "This Source Code may also be made available under the following Secondary Licenses when the conditions for such availability set forth in the Eclipse Public License, v. 2.0 are satisfied: {name license(s), version(s), and exceptions or additional permissions here}." | Simply including a copy of this Agreement, including this Exhibit A is not sufficient to license the Source Code under Secondary Licenses.
+DEPENDING COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | GNU General Public License (GNU GPL) v. 2
+DEPENDING COMPATIBILITY AGPL-3.0-only || you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work. ||| Via GPL-3.0 and linking only : GPL-1.0-or-later licensed material must be used under GPL-3.0-or-later and must not be inserted into the code, but can only be linked or combined with it.
+DEPENDING COMPATIBILITY AGPL-3.0-or-later || you have permission to link or combine any covered work with a work licensed under version 3 of the GNU General Public License into a single combined work, and to convey the resulting work. ||| Via GPL-3.0 and linking only : GPL-1.0-or-later licensed material must be used under GPL-3.0-or-later and must not be inserted into the code, but can only be linked or combined with it.
+DEPENDING COMPATIBILITY LGPL-2.1-only || You may opt to apply the terms of the ordinary GNU General Public License instead of this License to a given copy of the Library
+DEPENDING COMPATIBILITY LGPL-2.1-or-later || You may opt to apply the terms of the ordinary GNU General Public License instead of this License to a given copy of the Library
+DEPENDING COMPATIBILITY MPL-2.0 || You may create and distribute a Larger Work under terms of Your choice, provided that You also comply with the requirements of this License for the Covered Software
 INCOMPATIBILITY Apache-1.0 | All advertising materials mentioning features or use of this software must display the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
 INCOMPATIBILITY Apache-1.1 | The end-user documentation included with the redistribution, if any, must include the following acknowledgment | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
 INCOMPATIBILITY Apache-2.0 | You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License*only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
@@ -102,5 +95,4 @@ INCOMPATIBILITY OpenSSL | All advertising materials mentioning features or use o
 INCOMPATIBILITY Python-2.0 | In the event Licensee prepares a derivative work*agrees to include in any such work a brief summary of the changes made to Python. | You may not impose any further restrictions on the recipients' exercise of the rights granted herein || Brief summary: The requirement of the Python license to provide a brief summary of the changes may definitely be seen as a further restriction the final license prohibits to impose, since it requires to describe the changes rather than only to mention the fact that changes were made and such brief summary must be included in source code and binary delivery. However, another interpretation may argue that the final license requires at least disclosure, though not always inclusion, of the complete corresponding source code which enables a sufficiently well trained engineer to extract the differences, understand the changes and derive a summary which then would be, at least partly, in line with the Python license requirement.
 INCOMPATIBILITY zlib-acknowledgement | an acknowledgment (see the following) in the product documentation is required | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
 INCOMPATIBILITY XFree86-1.1 | must include the following acknowledgment: "This product includes software developed by The XFree86 Project, Inc (http://www.xfree86.org/) and its contributors" | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
-PATENT HINTS Yes | any patent must be licensed for everyone's free use | You may not impose any further restrictions on the recipients' exercise of the rights granted herein
-COPYLEFT CLAUSE Yes | under the terms of this License | under terms of your choice
+COPYLEFT CLAUSE Yes | under the terms of this General Public License

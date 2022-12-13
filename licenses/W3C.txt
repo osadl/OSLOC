@@ -1,0 +1,10 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide License text | provided that you include | The full text of this NOTICE
+		ATTRIBUTE Viewable | in a location viewable to users
+	YOU MUST Provide Legal notices | provided that you include | Any pre-existing intellectual property disclaimers, notices, or terms and conditions
+	IF No Legal notices | If none exist
+		YOU MUST Provide "W3C Software Short&#160;Notice" <a href="https://www.w3.org/Consortium/Legal/2002/copyright-software-short-notice-20021231.html">https&#58;//www.w3.org/Consortium/Legal/2002/copyright-software-short-notice-20021231.html</a> | the W3C Software Short Notice should be included
+	IF Software modification
+		YOU MUST Provide Modification notice | provided that you include | Notice of any changes or modifications to the files
+		YOU MUST Provide Modification date | provided that you include | the date changes were made
+	YOU MUST NOT Promote | The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission
