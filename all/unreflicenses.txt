@@ -18,10 +18,14 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-4-Clause-UC.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-4-Clause.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-Source-Code.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/BSL-1.0.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/CC-BY-3.0.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/CC-BY-4.0.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/CC-BY-SA-4.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CC0-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CDDL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CDDL-1.1.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/CPL-1.0.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/ECL-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/EFL-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/EPL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/EPL-2.0.txt
@@ -43,7 +47,9 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/ICU.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/IJG.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/IPL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/ISC.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/ImageMagick.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Info-ZIP.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/LGPL-2.0-only.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/LGPL-2.1-only.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/LGPL-2.1-or-later.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/LGPL-3.0-only.txt
@@ -59,6 +65,8 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/MS-RL.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/MirOS.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/NBPL-1.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/NTP.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/OFL-1.1.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/OLDAP-2.8.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/OSL-3.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/OpenSSL.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/PHP-3.01.txt
@@ -66,6 +74,7 @@ https://www.osadl.org/fileadmin/checklists/unreflicenses/PostgreSQL.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Python-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Qhull.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/RSA-MD.txt
+https://www.osadl.org/fileadmin/checklists/unreflicenses/SGI-B-2.0.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/Sleepycat.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/SunPro.txt
 https://www.osadl.org/fileadmin/checklists/unreflicenses/UPL-1.0.txt

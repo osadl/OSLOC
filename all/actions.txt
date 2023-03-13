@@ -8,6 +8,7 @@ https://www.osadl.org/fileadmin/checklists/actions/Disseminate.txt
 https://www.osadl.org/fileadmin/checklists/actions/Distribute.txt
 https://www.osadl.org/fileadmin/checklists/actions/Enable.txt
 https://www.osadl.org/fileadmin/checklists/actions/Ensure.txt
+https://www.osadl.org/fileadmin/checklists/actions/Exercise.txt
 https://www.osadl.org/fileadmin/checklists/actions/Exhibit.txt
 https://www.osadl.org/fileadmin/checklists/actions/Expire.txt
 https://www.osadl.org/fileadmin/checklists/actions/Forward.txt
@@ -34,5 +35,7 @@ https://www.osadl.org/fileadmin/checklists/actions/Request.txt
 https://www.osadl.org/fileadmin/checklists/actions/Require.txt
 https://www.osadl.org/fileadmin/checklists/actions/Restrict.txt
 https://www.osadl.org/fileadmin/checklists/actions/Search.txt
+https://www.osadl.org/fileadmin/checklists/actions/Sell.txt
+https://www.osadl.org/fileadmin/checklists/actions/Sublicense.txt
 https://www.osadl.org/fileadmin/checklists/actions/Update.txt
 https://www.osadl.org/fileadmin/checklists/actions/Use.txt
