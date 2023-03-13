@@ -1,0 +1,25 @@
+USE CASE Font delivery
+	YOU MUST Provide Copyright notice | provided that each copy contains the above copyright notice
+		EITHER | These can be included either
+			ATTRIBUTE Separate Text file | as stand-alone text files
+		OR
+			ATTRIBUTE Human-readable Headers | human-readable headers
+		OR
+			ATTRIBUTE Machine-readable Metadata fields | in the appropriate machine-readable metadata fields
+			ATTRIBUTE Easily Viewable | as long as those fields can be easily viewed by the user
+	YOU MUST Provide License text | provided that each copy contains*this license
+		EITHER | These can be included either
+			ATTRIBUTE Separate Text file | as stand-alone text files
+		OR
+			ATTRIBUTE Human-readable Headers | human-readable headers
+		OR
+			ATTRIBUTE Machine-readable Metadata fields | in the appropriate machine-readable metadata fields
+			ATTRIBUTE Easily Viewable | as long as those fields can be easily viewed by the user
+	IF Font Modification
+		YOU MUST NOT Use Primary reserved font name | "Reserved Font Name" refers to any names specified as such after the copyright statement(s). | No Modified Version of the Font Software may use the Reserved Font Name(s)*This restriction only applies to the primary font name
+		YOU MUST Grant License | The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software
+			ATTRIBUTE Original license | under this license
+		YOU MUST NOT Promote | The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version
+	YOU MUST NOT Sell Font | Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself
+		ATTRIBUTE Stand-alone | by itself
+COPYLEFT CLAUSE Yes | The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software

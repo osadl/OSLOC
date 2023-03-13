@@ -1,0 +1,10 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices | Redistributions in source form must retain copyright statements and notices 
+	YOU MUST Provide License text |  Redistributions must contain a verbatim copy of this document
+	YOU MUST NOT Promote | The names of the authors and copyright holders must not be used in advertising or otherwise to promote the sale, use or other dealing in this Software without specific, written prior permission
+USE CASE Binary delivery
+	YOU MUST Provide Copyright notices In Documentation OR Distribution material | Redistributions in binary form must reproduce applicable copyright statements and notices*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide License text | Redistributions must contain a verbatim copy of this document
+	YOU MUST Provide License text In Documentation OR Distribution material | Redistributions in binary form must reproduce*this list of conditions* in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide Warranty disclaimer In Documentation OR Distribution material |  Redistributions in binary form must reproduce*the following disclaimer in the documentation and/or other materials provided with the distribution
+	YOU MUST NOT Promote | The names of the authors and copyright holders must not be used in advertising or otherwise to promote the sale, use or other dealing in this Software without specific, written prior permission

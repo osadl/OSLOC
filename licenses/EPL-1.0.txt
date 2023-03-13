@@ -38,7 +38,7 @@ COMPATIBILITY BSL-1.0
 COMPATIBILITY bzip2-1.0.5
 COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
-COMPATIBILITY CPL-1.0
+COMPATIBILITY CPL-1.0 || after a new version of the Agreement is published, Contributor may elect to distribute the Program*under the new version ||| Community acceptance: When IBM, the original license steward of the CPL-1.0, passed the stewardship to the Eclipse Foundation, the new version of the CPL-1.0 was renamed EPL-1.0. Thus, historically, EPL-1.0 is the successor license to CPL-1.0, and it is generally accepted that the right to release new versions of the license, under which software can be relicensed by contributors, is transferred to the Eclipse Foundation (for further information see https://eclipse-foundation.blog/2009/04/16/one-small-step-towards-reducing-license-proliferation/).
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | Eclipse Public License v. 1.0
