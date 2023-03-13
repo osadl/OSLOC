@@ -13,10 +13,10 @@ USE CASE Source code delivery OR Binary delivery OR Network service
 		YOU MUST NOT Promote
 		IF Modified work Under Original license
 			EITHER
-				YOU MUST Include Source code of Modified work
+				YOU MUST Include Source code Of Modified work
 					ATTRIBUTE Machine-readable
 			OR
-				YOU MUST Provide Delayed source code delivery of Modified work
+				YOU MUST Provide Delayed source code delivery Of Modified work
 					ATTRIBUTE Machine-readable
 					ATTRIBUTE Via Internet
 					ATTRIBUTE No profit
