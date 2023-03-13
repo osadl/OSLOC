@@ -1,0 +1,1 @@
+The term Image delivery describes the conveyance of an image file, such as a bitmap or vector graphic, from one legal entity to another, either alone or integrated, e.g. into a graphical display manager or bundled with documents.

@@ -1,1 +1,1 @@
-The term Modification is used in the context of a license text or a source code that is altered by adding, deleting or changing a given number of code lines.
+The term Modification refers to a situation in which an alteration of pre-existing material is made that requires permission under applicable copyright law.

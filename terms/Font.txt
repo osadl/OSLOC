@@ -1,0 +1,1 @@
+The term Font refers to the digital representation of the glyphs of a particular typeface (e.g. NotoSansSC-Bold.otf). It is used to display or print a text in written form.
