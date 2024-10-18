@@ -1,0 +1,12 @@
+USE CASE Font delivery | Permission is hereby granted*to reproduce and distribute the Font Software
+	YOU MUST Provide Copyright notices | The above copyright*notice shall be included in all copies
+		ATTRIBUTE In Font File | in all copies*of the Font Software typefaces
+	YOU MUST Provide Trademark notice | The above*trademark*notice shall be included in all copies
+		ATTRIBUTE In Font File | in all copies*of the Font Software typefaces
+	YOU MUST Provide License text | The above*permission notice shall be included in all copies
+		ATTRIBUTE In Font File | in all copies*of the Font Software typefaces
+	IF Font Modification | The Font Software may be modified
+		YOU MUST NOT Use "Bitstream" OR "Vera" In Font Name | only if the fonts are renamed to names not containing either the words "Bitstream" or the word "Vera"
+	YOU MUST NOT Sell Font | no copy of one or more of the Font Software typefaces may be sold by itself
+		ATTRIBUTE Stand-alone | by itself
+	YOU MUST NOT Promote | the names of Gnome, the Gnome Foundation, and Bitstream Inc., shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Font Software
