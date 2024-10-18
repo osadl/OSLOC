@@ -39,27 +39,50 @@ USE CASE Combined work delivery | the DB software and any accompanying software 
 		OR
 			YOU MUST Provide Delayed source code delivery Of Combined work | source code for the DB software and any accompanying software*The source code must*be available
 				ATTRIBUTE No profit | no more than the cost of distribution plus a nominal fee
+COMPATIBILITY 0BSD
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
 COMPATIBILITY blessing
+COMPATIBILITY BlueOak-1.0.0
+COMPATIBILITY BSD-1-Clause
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSD-3-Clause-Open-MPI
+COMPATIBILITY BSD-Source-Code
 COMPATIBILITY BSL-1.0
-COMPATIBILITY bzip2-1.0.5
-COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY FSFAP
+COMPATIBILITY FSFUL
 COMPATIBILITY FSFULLR
+COMPATIBILITY FSFULLRWD
+COMPATIBILITY HPND
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
+COMPATIBILITY JasPer-2.0
 COMPATIBILITY Libpng
+COMPATIBILITY libpng-2.0
+COMPATIBILITY libtiff
+COMPATIBILITY LicenseRef-scancode-ppp
+COMPATIBILITY MirOS
 COMPATIBILITY MIT
+COMPATIBILITY MIT-CMU
+COMPATIBILITY NCSA
 COMPATIBILITY NTP
+COMPATIBILITY OLDAP-2.8
+COMPATIBILITY Saxpath
+COMPATIBILITY SGI-B-2.0
+COMPATIBILITY SMLNJ
+COMPATIBILITY SSH-OpenSSH
+COMPATIBILITY SSH-short
+COMPATIBILITY SunPro
+COMPATIBILITY Unicode-DFS-2016
 COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL
 COMPATIBILITY X11
 COMPATIBILITY Zlib
+INCOMPATIBILITY Spencer-86
 COPYLEFT CLAUSE Yes | Redistributions in any form must be accompanied by information on how to obtain complete source code for*any accompanying software that uses the DB software. The source code*must be freely redistributable under reasonable conditions. || No specific license enforced : For extensions or modifications the use of a specific such as the original license is not enforced, but the license must be generally free and reasonable. This is still considered "copyleft", albeit in a more general variant.
