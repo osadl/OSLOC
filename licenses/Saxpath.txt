@@ -1,0 +1,14 @@
+USE CASE Source code delivery
+	YOU MUST Forward Copyright notices | Redistributions of source code must retain the above copyright notice
+	YOU MUST Forward License text | Redistributions of source code must retain*this list of conditions
+	YOU MUST Forward Warranty disclaimer | Redistributions of source code must retain*the following disclaimer
+	IF Software modification | Products derived from this software
+		YOU MUST NOT Promote Using "SAXPath" | The name "SAXPath" must not be used to endorse or promote products derived from this software
+		YOU MUST NOT Use "SAXPath" In Product name | Products derived from this software may not be called "SAXPath", nor may "SAXPath" appear in their name
+USE CASE Binary delivery
+	YOU MUST Provide Copyright notices In Documentation OR Distribution material | Redistributions in binary form must reproduce the above copyright notice*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide License text In Documentation OR Distribution material | Redistributions in binary form must reproduce*this list of conditions*in the documentation and/or other materials provided with the distribution
+	YOU MUST Provide Warranty disclaimer In Documentation OR Distribution material | Redistributions in binary form must reproduce*the disclaimer that follows these conditions in the documentation and/or other materials provided with the distribution
+	IF Software modification | Products derived from this software
+		YOU MUST NOT Promote Using "SAXPath" | The name "SAXPath" must not be used to endorse or promote products derived from this software
+		YOU MUST NOT Use "SAXPath" In Product name | Products derived from this software may not be called "SAXPath", nor may "SAXPath" appear in their name

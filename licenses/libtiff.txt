@@ -1,4 +1,4 @@
-USE CASE Source code delivery OR Binary delivery
+USE CASE Source code delivery OR Binary delivery | Permission to*copy,* distribute*is hereby granted
 	YOU MUST Provide Copyright notices | provided that*the above copyright notices*appear in all copies of the software
 	YOU MUST Provide License text | provided that*this permission notice appear in all copies of the software
 	YOU MUST Provide Copyright notices In Documentation | provided that*the above copyright notices*appear in all copies of the*related documentation

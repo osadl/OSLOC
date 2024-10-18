@@ -1,0 +1,62 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide OR Reference License text | You must include a copy of, or the Uniform Resource Identifier for, this License
+	YOU MUST Forward License notice | You must keep intact all notices that refer to this License
+	YOU MUST Forward Pointer To Warranty disclaimer | You must keep intact all notices that refer*to the disclaimer of warranties
+	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder
+	YOU MUST NOT Use Technological measures | You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures
+		ATTRIBUTE To Restrict Exercise Of Granted rights | that control access or use of the Work in a manner inconsistent with the terms of this License Agreement
+	YOU MUST Forward Copyright notices | keep intact all copyright notices for the Work
+	YOU MUST Provide Attribution notice | and provide*the name of the Original Author (or pseudonym, if applicable) if supplied
+		ATTRIBUTE Reasonable | reasonable to the medium or means You are utilizing
+	IF Third-party attribution notice In Copyright notices OR Terms of service OR By Reasonable means | if the Original Author and/or Licensor designate another party or parties (e.g. a sponsor institute, publishing entity, journal) for attribution in Licensor's copyright notice, terms of service or by other reasonable means
+		YOU MUST Provide Third-party attribution notice | and provide*the name of such party or parties
+			ATTRIBUTE Reasonable | reasonable to the medium or means You are utilizing
+	IF Title
+		YOU MUST Provide Title Of Work | and provide*the title of the Work if supplied
+			ATTRIBUTE Reasonable | reasonable to the medium or means You are utilizing
+	IF Pointer To Copyright notices OR License | the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work
+		YOU MUST Provide Pointer | and provide*the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work
+			ATTRIBUTE Reasonable | to the extent reasonably practicable
+	IF Software modification | in the case of a Derivative Work
+		YOU MUST Provide Modification notice | and provide*a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author")
+			ATTRIBUTE Reasonable | Such credit may be implemented in any reasonable manner
+			ATTRIBUTE As Highlighted As Attribution notice For Authorship Of Modification | provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit
+		IF Notice From Copyright holder | If You create a Derivative Work, upon notice from any Licensor
+			YOU MUST Delete Copyright notices | remove from the Derivative Work any credit
+				ATTRIBUTE As far as Feasible | to the extent practicable
+			YOU MUST Delete Attribution notice | remove from the Derivative Work any credit
+				ATTRIBUTE As far as Feasible | to the extent practicable
+			YOU MUST Delete Third-party attribution notice | remove from the Derivative Work any credit
+				ATTRIBUTE As far as Feasible | to the extent practicable
+	YOU MUST NOT Sublicense | You may not sublicense the Work
+USE CASE Image delivery OR Font delivery
+	YOU MUST Provide OR Reference License text | You must include a copy of, or the Uniform Resource Identifier for, this License
+	YOU MUST Forward License notice | You must keep intact all notices that refer to this License
+	YOU MUST Forward Pointer To Warranty disclaimer | You must keep intact all notices that refer*to the disclaimer of warranties
+	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder
+	YOU MUST NOT Use Technological measures | You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures
+		ATTRIBUTE To Restrict Exercise Of Granted rights | that control access or use of the Work in a manner inconsistent with the terms of this License Agreement
+	YOU MUST Forward Copyright notices | keep intact all copyright notices for the Work
+	YOU MUST Provide Attribution notice | and provide*the name of the Original Author (or pseudonym, if applicable) if supplied
+		ATTRIBUTE Reasonable | reasonable to the medium or means You are utilizing
+	IF Third-party attribution notice In Copyright notices OR Terms of service OR By Reasonable means | if the Original Author and/or Licensor designate another party or parties (e.g. a sponsor institute, publishing entity, journal) for attribution in Licensor's copyright notice, terms of service or by other reasonable means
+		YOU MUST Provide Third-party attribution notice | and provide*the name of such party or parties
+			ATTRIBUTE Reasonable | reasonable to the medium or means You are utilizing
+	IF Title
+		YOU MUST Provide Title Of Work | and provide*the title of the Work if supplied
+			ATTRIBUTE Reasonable | reasonable to the medium or means You are utilizing
+	IF Pointer To Copyright notices OR License | the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work
+		YOU MUST Provide Pointer | and provide*the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work
+			ATTRIBUTE Reasonable | to the extent reasonably practicable
+	IF Modification | in the case of a Derivative Work
+		YOU MUST Provide Modification notice | and provide*a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author")
+			ATTRIBUTE Reasonable | Such credit may be implemented in any reasonable manner
+			ATTRIBUTE As Highlighted As Attribution notice For Authorship Of Modification | provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit
+		IF Notice From Copyright holder | If You create a Derivative Work, upon notice from any Licensor
+			YOU MUST Delete Copyright notices | remove from the Derivative Work any credit
+				ATTRIBUTE As far as Feasible | to the extent practicable
+			YOU MUST Delete Attribution notice | remove from the Derivative Work any credit
+				ATTRIBUTE As far as Feasible | to the extent practicable
+			YOU MUST Delete Third-party attribution notice | remove from the Derivative Work any credit
+				ATTRIBUTE As far as Feasible | to the extent practicable
+	YOU MUST NOT Sublicense | You may not sublicense the Work

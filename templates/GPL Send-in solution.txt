@@ -1,0 +1,18 @@
+Text template for the unlocking solution:
+
+Installation Information
+The safety and security features of this product are of great importance to us. Therefore, as a rule, modified versions of the deployed Open Source software can only be installed if the access restrictions in use are removed by us. Please note that the installation of modified software can entail that possible safety and security requirements on the product are no longer fulfilled and that consequently, it can no longer be used in the originally intended way.
+
+If you still wish to install modified versions of the software components licensed under the GNU General Public License (GPL) and/or the GNU Lesser General Public License (LGPL) and/or the GNU Affero General Public License (AGPL), please contact [open-source@company.tld] noting that you would like to install own versions of the software on your device. You will then receive all necessary information to return the device to us.
+
+In order to comply with our license obligations towards the GPL and/or LGPL and/or AGPL licensors, we will remove the security features in use, thereby enabling you to install GPL and/or LGPL and/or AGPL software, remove our trademarks from the product, and return the product to you. However, redistribution of the product with modified software is not permitted as exhaustion of the distribution right cannot occur for the specific copy. Also the use of the product may be prohibited if it violates any legal provisions. It is your responsibility to check whether the use is permissible in the specific case or to obtain the required permits. The warranty is void for any defects related to the use of modified software.
+
+
+Text template for the installation solution:
+
+Installation Information
+The safety and security features of this product are of great importance to us. Therefore, as a rule, modified versions of the deployed Open Source software can only be installed if the access restrictions in use are removed by us. Please note that the installation of modified software can entail that possible safety and security requirements on the product are no longer fulfilled and that consequently, it can no longer be used in the originally intended way.
+
+If you still wish to install modified versions of the software components licensed under the GNU General Public License (GPL) and/or the GNU Lesser General Public License (LGPL) and/or the GNU Affero General Public License (AGPL), please contact [open-source@company.tld] noting that you would like to install own versions of the software on your device. You will then receive all necessary information to return the device including the software to be installed to us. The latter must contain adequate installation information.
+
+In order to comply with our license obligations towards the GPL and/or LGPL and/or AGPL licensors, we will remove the security features in use, install your GPL and/or LGPL and/or AGPL software, remove our trademarks from the product, and return the product to you. However, redistribution of the product with modified software is not permitted as exhaustion of the distribution right cannot occur for the specific copy. Also, the use of the product may be prohibited if it violates any legal provisions. It is your responsibility to check whether the use is permissible in the specific case or to obtain the required permits. The warranty is void for any defects related to the use of modified software.

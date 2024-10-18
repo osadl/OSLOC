@@ -1,0 +1,1 @@
+A software is Protocol incompatible if it uses a modified protocol that is not conformant with the specification of a given protocol.

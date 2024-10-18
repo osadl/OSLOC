@@ -4,7 +4,7 @@ USE CASE Source code delivery | When the Program is made available in source cod
 	IF Software modification | such derivative works
 		YOU MUST Grant License | each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license
 			ATTRIBUTE Original license | it must be made available under this Agreement
-		YOU MUST Provide Copyright notice | must identify itself as the originator of its Contribution
+		YOU MUST Provide Copyright notices | must identify itself as the originator of its Contribution
 	IF Commercial distribution | Commercial distributors of software
 		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
 USE CASE Binary delivery | A Contributor may choose to distribute the Program in object code form
@@ -23,34 +23,58 @@ USE CASE Binary delivery | A Contributor may choose to distribute the Program in
 		YOU MUST Use Identical License obligations | it complies with the terms and conditions of this Agreement
 		YOU MUST Use Warranty disclaimer On behalf of Other contributors | disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose
 			ATTRIBUTE Effective | effectively disclaims on behalf of all Contributors all warranties
-		YOU MUST Use Liability disclaimer On behalf of Other contributors | excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits 
+		YOU MUST Use Liability disclaimer On behalf of Other contributors | excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits
 			ATTRIBUTE Effective | effectively excludes on behalf of all Contributors all liability
 		IF Service offerings | any provisions which differ from this Agreement
 			ATTRIBUTE NOT Transferable | are offered by that Contributor alone and not by any other party
 	IF Commercial distribution | Commercial distributors of software
 		YOU MUST Indemnify Other contributors | agrees to defend and indemnify every other Contributor
-COMPATIBILITY Apache-2.0 ||| Effectively tolerated by right holders: Review of a large number of use cases indicates that this compatibility can be considered to be generally tolerated. On request, the license stewart of the EPL-1.0, the Eclipse Foundation, stated that it is their practice that software components under permissive licenses such as MIT, BSD-3-Clause, and Apache-2.0 may be included in EPL-1.0 and EPL-2.0 licensed components. 
+COMPATIBILITY 0BSD
+COMPATIBILITY Apache-2.0 ||| Effectively tolerated by right holders: Review of a large number of use cases indicates that this compatibility can be considered to be generally tolerated. On request, the license stewart of the EPL-1.0, the Eclipse Foundation, stated that it is their practice that software components under permissive licenses such as MIT, BSD-3-Clause, and Apache-2.0 may be included in EPL-1.0 and EPL-2.0 licensed components.
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
 COMPATIBILITY blessing
+COMPATIBILITY BlueOak-1.0.0
+COMPATIBILITY BSD-1-Clause
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSD-3-Clause-Open-MPI
+COMPATIBILITY BSD-Source-Code
 COMPATIBILITY BSL-1.0
-COMPATIBILITY bzip2-1.0.5
-COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY CPL-1.0 || after a new version of the Agreement is published, Contributor may elect to distribute the Program*under the new version ||| Community acceptance: When IBM, the original license steward of the CPL-1.0, passed the stewardship to the Eclipse Foundation, the new version of the CPL-1.0 was renamed EPL-1.0. Thus, historically, EPL-1.0 is the successor license to CPL-1.0, and it is generally accepted that the right to release new versions of the license, under which software can be relicensed by contributors, is transferred to the Eclipse Foundation (for further information see https://eclipse-foundation.blog/2009/04/16/one-small-step-towards-reducing-license-proliferation/).
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | Eclipse Public License v. 1.0
+COMPATIBILITY EUPL-1.2 || If the Licensee Distributes or Communicates Derivative Works or copies thereof based upon both the Work and another work licensed under a Compatible Licence, this Distribution or Communication can be done under the terms of this Compatible Licence. | 'Compatible Licences' according to Article 5 EUPL are: | Eclipse Public License (EPL) v. 1.0
 COMPATIBILITY FSFAP
+COMPATIBILITY FSFUL
 COMPATIBILITY FSFULLR
+COMPATIBILITY FSFULLRWD
+COMPATIBILITY HPND
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY IPL-1.0
 COMPATIBILITY ISC
+COMPATIBILITY JasPer-2.0
 COMPATIBILITY Libpng
+COMPATIBILITY libpng-2.0
+COMPATIBILITY libtiff
+COMPATIBILITY LicenseRef-scancode-ppp
+COMPATIBILITY MirOS
 COMPATIBILITY MIT
+COMPATIBILITY MIT-CMU
+COMPATIBILITY NCSA
 COMPATIBILITY NTP
+COMPATIBILITY OLDAP-2.8
+COMPATIBILITY Saxpath
+COMPATIBILITY SGI-B-2.0
+COMPATIBILITY SMLNJ
+COMPATIBILITY Spencer-86
+COMPATIBILITY SSH-OpenSSH
+COMPATIBILITY SSH-short
+COMPATIBILITY SunPro
+COMPATIBILITY Unicode-DFS-2016
 COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL

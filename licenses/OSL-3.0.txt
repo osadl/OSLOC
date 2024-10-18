@@ -36,25 +36,49 @@ USE CASE Network services | d) to perform the Original Work publicly; and e) to 
 		YOU MUST Grant License | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed
 			ATTRIBUTE Original license | with the proviso that copies of*Derivative Works that You distribute or communicate shall be licensed under this Open Software License
 		YOU MUST NOT Promote | Neither the names of Licensor, nor the names of any contributors to the Original Work, nor any of their trademarks or service marks, may be used to endorse or promote products derived from this Original Work
+COMPATIBILITY 0BSD
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
 COMPATIBILITY blessing
+COMPATIBILITY BlueOak-1.0.0
+COMPATIBILITY BSD-1-Clause
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSD-3-Clause-Open-MPI
+COMPATIBILITY BSD-Source-Code
 COMPATIBILITY BSL-1.0
-COMPATIBILITY bzip2-1.0.5
-COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY EUPL-1.1 || Distribution and/or Communication can be done under the terms of this Compatible Licence | "Compatible Licences" according to article 5 EUPL are: | Open Software License (OSL)*v. 3.0
+COMPATIBILITY EUPL-1.2 || If the Licensee Distributes or Communicates Derivative Works or copies thereof based upon both the Work and another work licensed under a Compatible Licence, this Distribution or Communication can be done under the terms of this Compatible Licence. | 'Compatible Licences' according to Article 5 EUPL are: | Open Software License (OSL) v. 2.1, v. 3.0
 COMPATIBILITY FSFAP
+COMPATIBILITY FSFUL
 COMPATIBILITY FSFULLR
+COMPATIBILITY FSFULLRWD
+COMPATIBILITY HPND
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
+COMPATIBILITY JasPer-2.0
 COMPATIBILITY Libpng
+COMPATIBILITY libpng-2.0
+COMPATIBILITY libtiff
+COMPATIBILITY LicenseRef-scancode-ppp
+COMPATIBILITY MirOS
 COMPATIBILITY MIT
+COMPATIBILITY MIT-CMU
+COMPATIBILITY NCSA
 COMPATIBILITY NTP
+COMPATIBILITY OLDAP-2.8
+COMPATIBILITY Saxpath
+COMPATIBILITY SGI-B-2.0
+COMPATIBILITY SMLNJ
+COMPATIBILITY Spencer-86
+COMPATIBILITY SSH-OpenSSH
+COMPATIBILITY SSH-short
+COMPATIBILITY SunPro
+COMPATIBILITY Unicode-DFS-2016
 COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL

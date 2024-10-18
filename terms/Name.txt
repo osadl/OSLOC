@@ -1,0 +1,1 @@
+The term Name refers to a referenceable linguistic attribute assigned to a real object such as a device or to a virtual entity such as a file on a storage medium or an object in a computer language.

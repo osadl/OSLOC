@@ -1,7 +1,7 @@
 USE CASE Source code delivery OR Binary delivery | accessing and otherwise using this software ("Python") in source or binary form
 	YOU MUST Provide License text | provided, however, that PSF's License Agreement*are retained in Python alone or in any derivative version | provided, however, that the BeOpen Python License is retained in the Software, alone or in any derivative version | provided, however, that CNRIs License Agreement is retained in Python 1.6b1, alone or in any derivative version
 	YOU MUST Provide Copyright notices | provided, however, that*PSF's notice of copyright*are retained in Python alone or in any derivative version
-	YOU MUST Provide Copyright notice In Documentation | that copyright notice*appear in supporting documentation
+	YOU MUST Provide Copyright notices In Documentation | that copyright notice*appear in supporting documentation
 	YOU MUST Provide License text In Documentation | this permission notice appear in supporting documentation
 	YOU MUST NOT Promote | that the name of Stichting Mathematisch Centrum or CWI not be used in advertising or publicity pertaining to distribution of the software
 	IF Software modification | In the event Licensee prepares a derivative work that is based on or incorporates Python or any part thereof, and wants to make the derivative work available to others as provided herein | In the event Licensee prepares a derivative work that is based on or incorporates Python 1.6b1 or any part thereof, and wants to make the derivative work available to the public as provided herein

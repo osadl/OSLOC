@@ -1,0 +1,1 @@
+A Pointer to a resource tells someone how to find this resource or leads them directly to it. On a Web page, this is usually a hyperlink to a URL of the resource, whereas in a text document, it is usually a footnote that contains bibliographical data of the resource.

@@ -1,0 +1,9 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide License text | provided that you include the following on ALL copies of the Original Work or portions thereof, including modifications or derivatives | The full text of the Educational Community License
+		ATTRIBUTE Viewable | in a location viewable to users of the redistributed or derivative work
+	YOU MUST Provide Legal notices | provided that you include the following on ALL copies of the Original Work or portions thereof, including modifications or derivatives | Any pre-existing intellectual property disclaimers, notices, or terms and conditions
+	IF Software modification
+		YOU MUST Provide Modification notice | provided that you include the following on ALL copies of the Original Work or portions thereof, including modifications or derivatives | Notice of any changes or modifications to the Original Work
+		YOU MUST Provide Modification date | provided that you include the following on ALL copies of the Original Work or portions thereof, including modifications or derivatives | the date the changes were made
+		YOU MUST NOT Misrepresent Authorship | Any modifications of the Original Work must be distributed in such a manner as to avoid any confusion with the Original Work of the copyright holders
+	YOU MUST NOT Promote | The name and trademarks of copyright holder(s) may NOT be used in advertising or publicity pertaining to the Original or Derivative Works

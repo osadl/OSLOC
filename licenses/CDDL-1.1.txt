@@ -6,7 +6,7 @@ USE CASE Source code delivery | Source Code form must be distributed only under 
 	IF Software modification | The Modifications that You create or to which You contribute are governed by the terms of this License
 		YOU MUST Grant License | You have sufficient rights to grant the rights conveyed by this License.
 			ATTRIBUTE Original license | The Modifications that You create or to which You contribute are governed by the terms of this License
-		YOU MUST Provide Copyright notice | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
+		YOU MUST Provide Copyright notices | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
 	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder.
 USE CASE Binary delivery | make available in Executable form
 	YOU MUST Provide License text | You may distribute the Executable form of the Covered Software under the terms of this License || Lack of explicit obligation : The license does not explicitly state that the license text must be provided along with the software; however, the term "to distribute under the terms of a license" may indirectly imply that the license text must be provided, since one cannot "distribute under a license" without, at least, showing the text of the license to a licensee. A more defensive approach, however, would be to not only show, but hand it over to the licensee.
@@ -23,29 +23,53 @@ USE CASE Binary delivery | make available in Executable form
 	IF Software modification | The Modifications that You create or to which You contribute are governed by the terms of this License
 		YOU MUST Grant License | You have sufficient rights to grant the rights conveyed by this License.
 			ATTRIBUTE Original license | The Modifications that You create or to which You contribute are governed by the terms of this License
-		YOU MUST Provide Copyright notice | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
+		YOU MUST Provide Copyright notices | You must include a notice in each of Your Modifications that identifies You as the Contributor of the Modification
 	YOU MUST NOT Restrict Granted rights | You may not offer or impose any terms on any Covered Software in Source Code form that alters or restricts the applicable version of this License or the recipients' rights hereunder.
 	IF License change | or under the terms of a license of Your choice
 		YOU MUST Use Compatible license | provided that You are in compliance with the terms of this License
 		YOU MUST Indemnify Other contributors | You hereby agree to indemnify the Initial Developer and every Contributor for any liability incurred by the Initial Developer or such Contributor as a result of any such terms You offer
+COMPATIBILITY 0BSD
+COMPATIBILITY Artistic-2.0 || allow anyone who receives a copy of the Modified Version to make the Source form of the Modified Version available to others under*a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed.
 COMPATIBILITY blessing
+COMPATIBILITY BlueOak-1.0.0
+COMPATIBILITY BSD-1-Clause
 COMPATIBILITY BSD-2-Clause
 COMPATIBILITY BSD-2-Clause-Patent
 COMPATIBILITY BSD-3-Clause
+COMPATIBILITY BSD-3-Clause-Open-MPI
+COMPATIBILITY BSD-Source-Code
 COMPATIBILITY BSL-1.0
-COMPATIBILITY bzip2-1.0.5
-COMPATIBILITY bzip2-1.0.6
 COMPATIBILITY CC0-1.0
+COMPATIBILITY CDDL-1.0 || Otherwise, You may also choose to use, distribute or otherwise make the Covered Software available under the terms of any subsequent version of the License published by the license steward.
 COMPATIBILITY curl
 COMPATIBILITY EFL-2.0
 COMPATIBILITY FSFAP
+COMPATIBILITY FSFUL
 COMPATIBILITY FSFULLR
+COMPATIBILITY FSFULLRWD
+COMPATIBILITY HPND
 COMPATIBILITY IBM-pibs
 COMPATIBILITY ICU
 COMPATIBILITY ISC
+COMPATIBILITY JasPer-2.0
 COMPATIBILITY Libpng
+COMPATIBILITY libpng-2.0
+COMPATIBILITY libtiff
+COMPATIBILITY LicenseRef-scancode-ppp
+COMPATIBILITY MirOS
 COMPATIBILITY MIT
+COMPATIBILITY MIT-CMU
+COMPATIBILITY NCSA
 COMPATIBILITY NTP
+COMPATIBILITY OLDAP-2.8
+COMPATIBILITY Saxpath
+COMPATIBILITY SGI-B-2.0
+COMPATIBILITY SMLNJ
+COMPATIBILITY Spencer-86
+COMPATIBILITY SSH-OpenSSH
+COMPATIBILITY SSH-short
+COMPATIBILITY SunPro
+COMPATIBILITY Unicode-DFS-2016
 COMPATIBILITY Unlicense
 COMPATIBILITY UPL-1.0
 COMPATIBILITY WTFPL

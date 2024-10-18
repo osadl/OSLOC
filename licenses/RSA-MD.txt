@@ -1,7 +1,7 @@
 USE CASE Source code delivery OR Binary delivery | License to copy and use this software is granted || Scope of "use": The RSA-MD license does not contain an explicit right to distribute. However, the term "use" can be interpreted to include distribution rights as otherwise the acknowledgment obligations would be irrelevant.  
 	YOU MUST Provide License text | These notices must be retained
 	YOU MUST Provide Warranty disclaimer | These notices must be retained | RSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided "as is" without express or implied warranty of any kind.
-	YOU MUST Provide Copyright notice | These notices must be retained | Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+	YOU MUST Provide Copyright notices | These notices must be retained | Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
 	IF Advertisement
 		YOU MUST Credit In Advertisement Verbatim "RSA Data Security, Inc. MD5 Message-Digest Algorithm" | provided that it is identified as the "RSA Data Security, Inc. MD5 Message-Digest Algorithm" in all material mentioning or referencing this software or this function
 		IF Software modification | License is also granted to make and use derivative works

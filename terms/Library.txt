@@ -1,1 +1,1 @@
-A collection of software functions that itself cannot be executed, but may be combined with an application either at link time or at run time to provide essential functionality to the application is referred to as a Library. 
+A collection of software functions that itself cannot be executed, but may be combined with an application either at link time or at run time to provide essential functionality to the application is referred to as a Library.

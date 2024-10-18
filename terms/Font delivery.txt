@@ -1,1 +1,1 @@
-Font Delivery describes the conveyance of a Font from one legal entity to another, either alone or integrated, e.g. in a graphical display manager or bundled with documents.
+Font delivery describes the conveyance of a Font from one legal entity to another, either alone or integrated, e.g. in a graphical display manager or bundled with documents.

@@ -1,5 +1,5 @@
 USE CASE Source code delivery OR Binary delivery
-	YOU MUST Provide Copyright notice | The above copyright notice*must be included in all copies or substantial portions of the Software
+	YOU MUST Provide Copyright notices | The above copyright notice*must be included in all copies or substantial portions of the Software
 	EITHER | either this complete permission notice or at a minimum a reference to the UPL
 		YOU MUST Provide License text | this complete permission notice*must be included in all copies or substantial portions of the Software
 	OR

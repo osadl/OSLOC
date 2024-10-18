@@ -1,1 +1,0 @@
-The term End denotes a specific absolute or relative point in time when a particular activity finishes or can or must finish.

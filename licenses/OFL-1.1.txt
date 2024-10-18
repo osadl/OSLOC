@@ -1,5 +1,5 @@
 USE CASE Font delivery
-	YOU MUST Provide Copyright notice | provided that each copy contains the above copyright notice
+	YOU MUST Provide Copyright notices | provided that each copy contains the above copyright notice
 		EITHER | These can be included either
 			ATTRIBUTE Separate Text file | as stand-alone text files
 		OR

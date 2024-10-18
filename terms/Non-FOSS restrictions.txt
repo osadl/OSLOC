@@ -1,0 +1,1 @@
+The Free and Open Source Software (FOSS) license grants the recipient of the software unrestricted rights of use, copying and redistribution (see https://opensource.org/osd). Some non-FOSS licenses contain particular restrictions on these rights that make them incompatible with the FOSS definition. These are summarized under the term Non-FOSS restrictions.

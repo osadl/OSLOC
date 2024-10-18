@@ -1,1 +1,1 @@
-An expense that is charged for obtaining a license is called a License fee.
+If a fee is charged only for the rights granted by the license and not for the accompanying hardware or software, then this fee is referred to as a License fee.

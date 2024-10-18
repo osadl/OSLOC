@@ -1,0 +1,1 @@
+We use FreeRTOS version [x.y] and provide you with the source code for download upon request to [address, e-mail] for a period of three years from the last act of distribution by us. [The version of FreeRTOS used by us has not been modified and is also available at https://github.com/FreeRTOS/FreeRTOS<RELEASE>].

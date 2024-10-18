@@ -3,7 +3,7 @@ USE CASE Source code delivery | You may Distribute verbatim copies of the Source
 	YOU MUST Provide Warranty disclaimer | provided that you duplicate all of the*associated disclaimers
 	IF Software modification | You may Distribute your Modified Version as Source
 		EXCEPT IF Provided By Copyright holder | You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
-		YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
+			YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
 		EITHER | provided that you do at least ONE of the following
 			YOU MUST Provide Source code Of Modified work | make the Modified Version available
 				ATTRIBUTE To Copyright holder Of Original work | to the Copyright Holder of the Standard Version
@@ -19,17 +19,17 @@ USE CASE Source code delivery | You may Distribute verbatim copies of the Source
 				YOU MUST Use Strong copyleft license | a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed
 	YOU MUST NOT Require License fee | provided that you do not charge a licensing fee
 USE CASE Binary delivery | You may Distribute Compiled forms of the Standard Version
-	YOU MUST Reference Source code | include complete instructions on how to get the Source of the Standard Version
-		IF Reference Expires | If these instructions*become invalid
+	YOU MUST Provide Pointer To Source code | include complete instructions on how to get the Source of the Standard Version
+		IF Pointer Expires | If these instructions*become invalid
 			EITHER
-				YOU MUST Provide Reference On Request | you must provide new instructions on demand
+				YOU MUST Provide Pointer On Request | you must provide new instructions on demand
 					ATTRIBUTE Within 30 days | within thirty days after you become aware that the instructions are invalid
 			OR
 				YOU MUST End Binary delivery | cease further distribution
 					ATTRIBUTE Within 30 days | within thirty days after you become aware that the instructions are invalid
 	IF Software modification | You may Distribute a Modified Version in Compiled form
 		EXCEPT IF Provided By Copyright holder | You may apply any bug fixes, portability changes, and other modifications made available from the Copyright Holder. The resulting Package will still be considered the Standard Version, and as such will be subject to the Original License.
-		YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
+			YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
 		EITHER | provided that you do at least ONE of the following
 			YOU MUST Provide Source code Of Modified work | make the Modified Version available
 				ATTRIBUTE To Copyright holder Of Original work | to the Copyright Holder of the Standard Version
@@ -45,7 +45,7 @@ USE CASE Binary delivery | You may Distribute Compiled forms of the Standard Ver
 				YOU MUST Use Strong copyleft license | a license that permits the licensee to freely copy, modify and redistribute the Modified Version using the same licensing terms that apply to the copy that the licensee received, and requires that the Source form of the Modified Version, and of any works derived from it, be made freely available in that license fees are prohibited but Distributor Fees are allowed
 	IF Linked work | You are permitted to link Modified and Standard Versions with other works
 		EITHER
-			YOU MUST NOT Provide Interface To Work | the result does not expose a direct interface 
+			YOU MUST NOT Provide Interface To Work | the result does not expose a direct interface
 		OR
 			YOU MUST Provide Modification report | document how it differs from the Standard Version, including, but not limited to, documenting any non-standard features, executables, or modules
 			EITHER | provided that you do at least ONE of the following

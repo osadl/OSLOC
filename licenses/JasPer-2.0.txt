@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary delivery | Permission is hereby granted*to deal in the Software*including*the rights to*copy,*distribute*the Software,
+	YOU MUST Provide Copyright notices | The above copyright notices*shall be included in all copies or substantial portions of the Software.
+	YOU MUST Provide License text | this permission notice*shall be included in all copies or substantial portions of the Software.
+		ATTRIBUTE Including Warranty disclaimer | this permission notice (which includes the disclaimer below)
+	YOU MUST NOT Promote | The name of a copyright holder shall not be used to endorse or promote products derived from the Software

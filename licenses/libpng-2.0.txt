@@ -1,0 +1,9 @@
+USE CASE Source code delivery | Permission is hereby granted to*copy,*distribute
+	YOU MUST NOT Misrepresent Authorship | The origin of this software must not be misrepresented; you must not claim that you wrote the original software
+	YOU MUST Forward License text | This Copyright notice may not be removed or altered from any source or altered source distribution
+	IF Software modification | Altered source versions | or altered source distribution
+		YOU MUST Provide Modification notice | Altered source versions must be plainly marked as such
+		YOU MUST NOT Misrepresent Modified work | Altered source versions*must not be misrepresented as being the original software
+	YOU MUST NOT Modify Copyright notice | Copyright notice may not be removed or altered from any source or altered source distribution
+USE CASE Binary delivery | Permission is hereby granted to*copy,*distribute
+	YOU MUST NOT Misrepresent Authorship | The origin of this software must not be misrepresented; you must not claim that you wrote the original software

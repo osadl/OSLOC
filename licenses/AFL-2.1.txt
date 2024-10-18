@@ -20,5 +20,5 @@ USE CASE Source code delivery OR Binary delivery | distribute copies of the Orig
 					ATTRIBUTE No profit | inexpensive and convenient access
 					ATTRIBUTE Duration As long as distributed | as long as Licensor continues to distribute the Original Work
 				YOU MUST Reference Source code | publishing the address of that information repository in a notice
-					ATTRIBUTE Below Copyright notice | in a notice immediately following the copyright notice
+					ATTRIBUTE Below Copyright notices | in a notice immediately following the copyright notice
 PATENT HINTS Yes | a world-wide, royalty-free, non-exclusive, perpetual, sublicenseable license, under patent claims | Licensor warrants that the copyright in and to the Original Work and the patent rights granted herein by Licensor are owned by the Licensor or are sublicensed to You | This License shall terminate automatically and You may no longer exercise any of the rights granted to You by this License as of the date You commence an action, including a cross-claim or counterclaim, for patent infringement

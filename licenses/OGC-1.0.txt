@@ -1,0 +1,10 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide License text | provided that you include | The full text of this NOTICE
+		ATTRIBUTE Viewable | in a location viewable to users
+	YOU MUST Provide Legal notices | provided that you include | Any pre-existing intellectual property disclaimers, notices, or terms and conditions
+	IF NOT Legal notices | If none exist
+		YOU MUST Provide Copyright notice "Copyright © [$date-of-document] Open Geospatial Consortium, Inc. All Rights Reserved. https://www.ogc.org/about-ogc/policies/copyright-notice-and-disclaimers/" | a short notice of the following form (hypertext is preferred, text is permitted) should be used within the body of any redistributed or derivative code: "Copyright © [$date-of-document] Open Geospatial Consortium, Inc. All Rights Reserved. http://www.ogc.org/ogc/legal || Updated URL: The URL given in the original license text (http://www.ogc.org/ogc/legal) is no longer active. However, the license text can still be found on the website of the OGC at https://www.ogc.org/about-ogc/policies/software-licenses/ogc-software-license-1-0/. This license text gives a different URL for the legal notices as is given here. You may consider to provide both URLs.
+	IF Software modification
+		YOU MUST Provide Modification notice | provided that you include | Notice of any changes or modifications to the OGC files
+		YOU MUST Provide Modification date | provided that you include | the date changes were made
+	YOU MUST NOT Promote | The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the software without specific, written prior permission

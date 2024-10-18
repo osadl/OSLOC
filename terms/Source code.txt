@@ -1,1 +1,1 @@
-The term Source code refers, if not stated otherwise, to the complete and corresponding version of a source code that is needed to build the binary object to which it relates. 
+The term Source code refers, if not stated otherwise, to the complete and corresponding version of a source code that is needed to build the binary object to which it relates.

@@ -1,0 +1,6 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST Provide Copyright notice In Work | provided that the above copyright notice appear in all copies
+	YOU MUST Provide Copyright notice In Documentation | provided that*the copyright notice*appear in supporting documentation
+	YOU MUST Provide License text In Documentation | provided that*this permission notice*appear in supporting documentation
+	YOU MUST Provide Warranty disclaimer In Documentation | provided that*warranty disclaimer appear in supporting documentation 
+	YOU MUST NOT Promote | the name of Lucent Technologies, Bell Labs or any Lucent entity not be used in advertising or publicity pertaining to distribution of the software

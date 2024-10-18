@@ -1,1 +1,1 @@
-USE CASE Source code delivery OR Binary delivery
+USE CASE Source code delivery OR Binary delivery | Anyone is free to copy*or distribute this software, either in source code form or as a compiled binary

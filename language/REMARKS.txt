@@ -1,0 +1,1 @@
+The language construct REMARKS is used for a particular checklist item to provide additional information that cannot be encoded otherwise.

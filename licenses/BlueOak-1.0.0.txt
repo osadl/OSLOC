@@ -1,0 +1,7 @@
+USE CASE Source code delivery OR Binary delivery
+	EITHER
+		YOU MUST Provide License text | also gets the text of this license
+	OR
+		YOU MUST Reference License text | also gets*a link to
+			ATTRIBUTE https://blueoakcouncil.org/license/1.0.0 | https://blueoakcouncil.org/license/1.0.0
+PATENT HINTS Yes | Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.

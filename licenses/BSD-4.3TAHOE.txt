@@ -1,0 +1,7 @@
+USE CASE Source code delivery OR Binary delivery | Redistribution and use in source and binary forms are permitted
+	YOU MUST Provide Copyright notices | source and binary forms*provided that the above copyright notice*duplicated in all such forms
+	YOU MUST Provide License text | source and binary forms*provided that*this paragraph*duplicated in all such forms
+	YOU MUST Provide Warranty disclaimer | source and binary forms*provided that*this paragraph*duplicated in all such forms
+	YOU MUST Credit In Documentation AND Advertisement AND Distribution material University of California, Berkeley | any documentation, advertising materials, and other materials related to such distribution and use acknowledge that the software was developed by the University of California, Berkeley
+	YOU MUST NOT Promote | The name of the University may not be used to endorse or promote products derived from this software without specific prior written permission
+

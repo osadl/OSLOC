@@ -1,0 +1,1 @@
+This language construct is only used in merged checklists. It provides a list of licenses that may be incompatible, if the current set of licenses is used to distribute a combined work.

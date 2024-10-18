@@ -1,1 +1,1 @@
-In case the product contains Open Source software, the customer is enabled to obtain further rights of use from the particular holders of rights of the Open Source software as outlined in the applicable Open Source licenses. A list of the deployed Open Source software along with the related licenses is available [location of the actual list]. The rules of these terms and conditions do not restrict the rights of use of the Open Source software; insofar the particular Open Source license conditions have priority.
+LGPL-2.0 Terms and conditions.txt

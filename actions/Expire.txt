@@ -1,1 +1,1 @@
-The action to Expire means that a resource such as a link or URL becomes invalid.
+The action to Expire means that a resource such as a link or a URL, or a contract such as a license become invalid.

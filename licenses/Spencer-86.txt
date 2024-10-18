@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary delivery
+	YOU MUST NOT Misrepresent Authorship | The origin of this software must not be misrepresented
+	IF Software modification | Altered versions
+		YOU MUST Provide Modification notice | Altered versions must be plainly marked as such
+		YOU MUST NOT Misrepresent Modified work | Altered versions*must not be misrepresented as being the original software

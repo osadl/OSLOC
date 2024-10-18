@@ -1,0 +1,7 @@
+USE CASE Source code delivery OR Binary delivery | Permission is hereby granted*to deal in the Software*including*the rights to*copy,*distribute*the Software,
+	YOU MUST Provide Copyright notices | The above copyright notice including the dates of first publication*shall be included in all copies or substantial portions of the Software
+	EITHER
+		YOU MUST Provide License text | either this permission notice*shall be included in all copies or substantial portions of the Software
+	OR
+		YOU MUST Reference http://oss.sgi.com/projects/FreeB/ | or a reference to http://oss.sgi.com/projects/FreeB/ shall be included in all copies or substantial portions of the Software || Invalid URL: The URL given in the license text is not valid. It is therefore possible, that this option is no longer permissible.
+	YOU MUST NOT Promote | Except as contained in this notice, the name of Silicon Graphics, Inc. shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from Silicon Graphics, Inc.

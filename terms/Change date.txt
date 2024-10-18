@@ -1,0 +1,1 @@
+A license may specify a timeout after which certain license conditions automatically change. The date of such timeout is referred to a Change date.

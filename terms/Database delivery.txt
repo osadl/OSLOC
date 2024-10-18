@@ -1,0 +1,1 @@
+Database delivery describes the conveyance of a protected database from one legal entity to another, either alone or integrated, e.g. into a program.

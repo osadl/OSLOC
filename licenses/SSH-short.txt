@@ -1,0 +1,5 @@
+USE CASE Source code delivery OR Binary delivery | the code*can be used freely for any purpose
+	IF Software modification | Any derived versions of this software
+		YOU MUST Provide Modification notice | Any derived versions of this software must be clearly marked as such
+		IF Modified work Is Protocol incompatible | if the derived work is incompatible with the protocol description in the RFC file
+			YOU MUST NOT Use "ssh" OR "Secure Shell" In Name | it must be called by a name other than "ssh" or "Secure Shell"

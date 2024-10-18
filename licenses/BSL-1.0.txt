@@ -1,4 +1,4 @@
-USE CASE Source code delivery
+USE CASE Source code delivery | Permission is hereby granted*, to*distribute
 	YOU MUST Provide Copyright notices |  The copyright notices in the Software*must be included in all copies of the Software
 	YOU MUST Provide License text | this entire statement, including the above license grant*must be included in all copies of the Software
 	YOU MUST Provide Warranty disclaimer | the following disclaimer*must be included in all copies of the Software

@@ -1,4 +1,4 @@
-USE CASE Source code delivery OR Binary delivery
+USE CASE Source code delivery OR Binary delivery | Permission is hereby granted*to deal in the Software*including*the rights to*copy,*distribute*the Software,
 	YOU MUST Provide Copyright notices | The above copyright notice*shall be included
 	YOU MUST Provide License text | this permission notice*shall be included
 	YOU MUST Provide Warranty disclaimer | the next paragraph) shall be included
